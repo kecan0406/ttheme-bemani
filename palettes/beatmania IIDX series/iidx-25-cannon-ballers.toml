@@ -5,6 +5,7 @@ booru = "beatmania_iidx_25_cannon_ballers"
 signature = ["cursor", "ansi2", "selection"]
 
 [meta.booru_sites]
+danbooru = ["beatmania_iidx_25_cannon_ballers", "himmel_(beatmania)"]
 konachan = []
 yande = []
 zerochan = []

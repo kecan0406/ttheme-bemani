@@ -5,6 +5,7 @@ booru = "beatmania_iidx_14_gold"
 signature = ["cursor", "selection", "foreground"]
 
 [meta.booru_sites]
+danbooru = ["beatmania_iidx_14_gold", "umegiri_hifumi"]
 konachan = []
 yande = []
 zerochan = []

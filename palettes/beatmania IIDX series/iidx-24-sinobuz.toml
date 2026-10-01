@@ -5,6 +5,7 @@ booru = "beatmania_iidx_24_sinobuz"
 signature = ["cursor", "ansi6", "selection"]
 
 [meta.booru_sites]
+danbooru = ["beatmania_iidx_24_sinobuz", "kanzaki_saya"]
 konachan = []
 yande = []
 zerochan = []

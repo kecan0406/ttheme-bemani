@@ -5,6 +5,7 @@ booru = "beatmania_iidx_28_bistrover"
 signature = ["cursor", "ansi4", "ansi11"]
 
 [meta.booru_sites]
+danbooru = ["beatmania_iidx_28_bistrover", "polkamania"]
 konachan = []
 yande = []
 zerochan = []

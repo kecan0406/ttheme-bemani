@@ -63,7 +63,7 @@ Each game is a catalog. Every palette's colors are measured from official artwor
 | `iidx-33-sparkle-shower` | 33 Sparkle Shower | `#01903a` |
 | `iidx-34-zinrai` | 34 ZINRAI | `#e072d5` |
 
-One palette per arcade version, from 1st style to 34 ZINRAI. Each is measured from the version's own logo, title screen or key visual, so the older ones lean on a single logo and are the least exact. The characters of the same game are in the `beatmania IIDX` catalog. Their pictures come from danbooru's version tags where one exists (all but 1st style, substream and 34 ZINRAI); konachan, yande.re and zerochan have no tag per version, so `find` searches danbooru only.
+One palette per arcade version, from 1st style to 34 ZINRAI. Each is measured from the version's own logo, title screen or key visual, so the older ones lean on a single logo and are the least exact. The characters of the same game are in the `beatmania IIDX` catalog. Their pictures come from danbooru's version tags where one exists (all but 1st style, substream and 34 ZINRAI), and 17 of them also search one character of the version in the same query (it needs a ttheme that lets danbooru OR two tags); konachan, yande.re and zerochan have no tag per version, so `find` searches danbooru only.
 
 ## pop'n music
 

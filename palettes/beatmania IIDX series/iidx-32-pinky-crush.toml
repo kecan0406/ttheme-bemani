@@ -5,6 +5,7 @@ booru = "beatmania_iidx_32_pinky_crush"
 signature = ["cursor", "ansi11", "ansi14"]
 
 [meta.booru_sites]
+danbooru = ["beatmania_iidx_32_pinky_crush", "flyaway_(beatmania)"]
 konachan = []
 yande = []
 zerochan = []
