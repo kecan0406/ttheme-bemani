@@ -1,0 +1,36 @@
+[meta]
+name = "umegiri-hifumi"
+native_names = ["緋浮美"]
+ansi_source = "Catppuccin Macchiato + IIDX"
+booru = "umegiri_hifumi"
+signature = ["cursor", "selection", "ansi11"]
+
+[meta.booru_sites]
+konachan = "hifumi"
+yande = "hifumi_(beatmania)"
+zerochan = "hifumi_(beatmania)"
+
+[colors]
+background = "#1d151b"
+foreground = "#f3dcea"
+cursor = "#a33b98"
+selection_background = "#462736"
+ansi = [
+  "#2a2127",
+  "#e283a8",
+  "#bbaf4d",
+  "#e3b672",
+  "#a496e5",
+  "#cb95be",
+  "#89b5de",
+  "#d2c2cb",
+
+  "#80747b",
+  "#f4adc7",
+  "#ccd484",
+  "#ffdb25",
+  "#c4baf3",
+  "#fface9",
+  "#add6ff",
+  "#ffe7f6",
+]

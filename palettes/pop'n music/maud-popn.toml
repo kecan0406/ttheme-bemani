@@ -1,0 +1,36 @@
+[meta]
+name = "maud-popn"
+native_names = ["モード"]
+ansi_source = "Catppuccin Macchiato + JUBEAT"
+booru = "maud_(bemani)"
+signature = ["cursor", "selection", "foreground"]
+
+[meta.booru_sites]
+konachan = "maud"
+yande = []
+zerochan = []
+
+[colors]
+background = "#201514"
+foreground = "#bcebf2"
+cursor = "#ff8983"
+selection_background = "#133b71"
+ansi = [
+  "#2d2120",
+  "#e9838a",
+  "#baae4d",
+  "#edaf77",
+  "#b990dc",
+  "#d692ac",
+  "#8dbd87",
+  "#d8c2c0",
+
+  "#857371",
+  "#fbacb1",
+  "#d9cf7f",
+  "#ffd5b2",
+  "#d4b5ed",
+  "#ffb0cc",
+  "#aedfa8",
+  "#ffe9e7",
+]

@@ -1,0 +1,36 @@
+[meta]
+name = "kitami-erika"
+native_names = ["北見エリカ", "エリカ"]
+ansi_source = "Catppuccin Macchiato + IIDX"
+booru = "kitami_erika"
+signature = ["cursor", "selection", "ansi2"]
+
+[meta.booru_sites]
+konachan = "erika_(beatmania_iidx)"
+yande = "erika_(beatmania_iidx)"
+zerochan = []
+
+[colors]
+background = "#17190f"
+foreground = "#e2e5cb"
+cursor = "#b9c975"
+selection_background = "#533c71"
+ansi = [
+  "#23251a",
+  "#e98463",
+  "#9bb55b",
+  "#cbbc70",
+  "#36afbe",
+  "#dd8fa2",
+  "#82bd98",
+  "#c7c8b7",
+
+  "#77786a",
+  "#fdad92",
+  "#b7d698",
+  "#ecde8f",
+  "#86ccd5",
+  "#feb0c2",
+  "#a4dfba",
+  "#eef0d6",
+]

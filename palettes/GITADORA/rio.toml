@@ -1,0 +1,36 @@
+[meta]
+name = "rio"
+native_names = ["璃音", "リオ"]
+ansi_source = "Whimsy + GITADORA"
+booru = "rio_(gitadora)"
+signature = ["cursor", "selection", "ansi11"]
+
+[meta.booru_sites]
+konachan = []
+yande = []
+zerochan = []
+
+[colors]
+background = "#1e160d"
+foreground = "#f6dfc6"
+cursor = "#f29d09"
+selection_background = "#262a6f"
+ansi = [
+  "#2b2218",
+  "#ff7856",
+  "#9bb644",
+  "#e3b45b",
+  "#bd8ce6",
+  "#f87db4",
+  "#80c079",
+  "#d4c4b5",
+
+  "#827568",
+  "#ffac98",
+  "#bcd761",
+  "#ffd96c",
+  "#dcafff",
+  "#ffb0ce",
+  "#a0e298",
+  "#ffebd6",
+]

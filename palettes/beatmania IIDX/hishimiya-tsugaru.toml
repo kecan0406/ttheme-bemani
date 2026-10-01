@@ -1,0 +1,35 @@
+[meta]
+name = "hishimiya-tsugaru"
+native_names = ["菱宮津軽", "ツガル", "津軽"]
+ansi_source = "Catppuccin Macchiato + IIDX"
+booru = "hishimiya_tsugaru"
+signature = ["cursor", "selection", "ansi10"]
+
+[meta.booru_sites]
+yande = "tsugaru"
+zerochan = []
+
+[colors]
+background = "#151910"
+foreground = "#dfe5ce"
+cursor = "#698e31"
+selection_background = "#930100"
+ansi = [
+  "#21251b",
+  "#e88463",
+  "#8cb771",
+  "#c7bd72",
+  "#38afc1",
+  "#dd8fa2",
+  "#80be9c",
+  "#c5c8b9",
+
+  "#75786c",
+  "#fdac92",
+  "#cad52c",
+  "#eedd8e",
+  "#87ccd8",
+  "#ffafc2",
+  "#a2dfbe",
+  "#eaf1d9",
+]

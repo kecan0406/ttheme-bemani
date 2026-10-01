@@ -1,0 +1,36 @@
+[meta]
+name = "yuni"
+native_names = ["ユニ・バース", "ユニ"]
+ansi_source = "Catppuccin Macchiato + DDR"
+booru = "yuni_(dance_dance_revolution)"
+signature = ["cursor", "selection", "ansi4"]
+
+[meta.booru_sites]
+konachan = []
+yande = []
+zerochan = []
+
+[colors]
+background = "#1a180d"
+foreground = "#ebe2c6"
+cursor = "#e4d284"
+selection_background = "#3437a6"
+ansi = [
+  "#272418",
+  "#e98564",
+  "#9db462",
+  "#d4b96e",
+  "#41a8f1",
+  "#db90a2",
+  "#8abd8f",
+  "#cdc6b4",
+
+  "#7c7768",
+  "#fdae93",
+  "#c1d490",
+  "#f6db8c",
+  "#8bcae1",
+  "#fdb1c3",
+  "#abdeb1",
+  "#f7eed1",
+]

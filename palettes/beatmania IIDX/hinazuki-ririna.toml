@@ -1,0 +1,34 @@
+[meta]
+name = "hinazuki-ririna"
+native_names = ["雛月理々奈", "リリス", "理々奈"]
+ansi_source = "Catppuccin Macchiato + IIDX"
+booru = "hinazuki_ririna"
+signature = ["cursor", "selection", "ansi11"]
+
+[meta.booru_sites]
+konachan = "lilith_(beatmania_iidx)"
+
+[colors]
+background = "#201514"
+foreground = "#fcdbd8"
+cursor = "#d75351"
+selection_background = "#302629"
+ansi = [
+  "#2d2120",
+  "#e9838a",
+  "#baae4d",
+  "#ddb86e",
+  "#b990dc",
+  "#d693ac",
+  "#8dbd87",
+  "#d8c2c0",
+
+  "#857371",
+  "#fbacb1",
+  "#c3d68a",
+  "#f0e027",
+  "#d4b5ed",
+  "#ffb0cc",
+  "#aedfa8",
+  "#ffe9e7",
+]

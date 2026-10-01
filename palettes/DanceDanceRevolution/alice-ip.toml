@@ -1,0 +1,35 @@
+[meta]
+name = "alice-ip"
+native_names = ["アリス・イップ", "アリス"]
+ansi_source = "Catppuccin Macchiato + DDR"
+booru = "alice_ip"
+signature = ["cursor", "selection", "ansi2"]
+
+[meta.booru_sites]
+konachan = []
+yande = []
+
+[colors]
+background = "#201511"
+foreground = "#fddbd0"
+cursor = "#f5723c"
+selection_background = "#0038b6"
+ansi = [
+  "#2d211c",
+  "#ea837e",
+  "#3cbf9d",
+  "#e9b173",
+  "#b591df",
+  "#d992a5",
+  "#86bf8e",
+  "#d8c2bb",
+
+  "#85736d",
+  "#fcaca8",
+  "#9adfab",
+  "#ffd6a9",
+  "#d1b7f0",
+  "#ffb1c3",
+  "#93e3c4",
+  "#ffe9e2",
+]

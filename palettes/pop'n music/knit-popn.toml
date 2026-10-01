@@ -1,0 +1,36 @@
+[meta]
+name = "knit-popn"
+native_names = ["ニット"]
+ansi_source = "Royal + JUBEAT"
+booru = "knit_(jubeat)"
+signature = ["cursor", "selection", "foreground"]
+
+[meta.booru_sites]
+konachan = []
+yande = []
+zerochan = []
+
+[colors]
+background = "#1b170c"
+foreground = "#e2e2e2"
+cursor = "#ebd080"
+selection_background = "#323232"
+ansi = [
+  "#282318",
+  "#f87e4b",
+  "#98b721",
+  "#d7ba42",
+  "#60acb2",
+  "#ea89a3",
+  "#7abdab",
+  "#cec6b4",
+
+  "#7d7667",
+  "#ffad8d",
+  "#b3da45",
+  "#fcdc2a",
+  "#68d1d4",
+  "#ffb1c2",
+  "#9bdfca",
+  "#f9edd0",
+]

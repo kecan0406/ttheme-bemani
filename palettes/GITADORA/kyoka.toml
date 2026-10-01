@@ -1,0 +1,36 @@
+[meta]
+name = "kyoka"
+native_names = ["響香", "キョウカ"]
+ansi_source = "Catppuccin Macchiato + GITADORA"
+booru = "kyouka_(gitadora)"
+signature = ["cursor", "selection", "ansi5"]
+
+[meta.booru_sites]
+konachan = []
+yande = []
+zerochan = []
+
+[colors]
+background = "#13181e"
+foreground = "#dbe3f1"
+cursor = "#aaccf9"
+selection_background = "#292e6f"
+ansi = [
+  "#20242a",
+  "#e183a3",
+  "#6dba95",
+  "#b4c183",
+  "#77a2e5",
+  "#bf8fff",
+  "#75bbcb",
+  "#c3c6cf",
+
+  "#73777f",
+  "#f2aec3",
+  "#9fd8bb",
+  "#d5e2a4",
+  "#a6c2f2",
+  "#d7baff",
+  "#9adcec",
+  "#e6eefd",
+]

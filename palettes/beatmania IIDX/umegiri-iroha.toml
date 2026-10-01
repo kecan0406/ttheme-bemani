@@ -1,0 +1,35 @@
+[meta]
+name = "umegiri-iroha"
+native_names = ["梅桐彩葉", "彩葉"]
+ansi_source = "Pencil Dark + IIDX"
+booru = "umegiri_iroha"
+signature = ["cursor", "selection", "foreground"]
+
+[meta.booru_sites]
+yande = "iroha_(beatmania)"
+zerochan = "iroha_(beatmania)"
+
+[colors]
+background = "#20150f"
+foreground = "#e2e2e2"
+cursor = "#f7954e"
+selection_background = "#004d63"
+ansi = [
+  "#2d211a",
+  "#ff7576",
+  "#9fb541",
+  "#ebb22e",
+  "#a992ef",
+  "#d98fb9",
+  "#74c185",
+  "#d7c3b8",
+
+  "#84746a",
+  "#ffaba4",
+  "#bcd76b",
+  "#ffd88b",
+  "#c7b7ff",
+  "#fface8",
+  "#99e2a7",
+  "#ffeade",
+]

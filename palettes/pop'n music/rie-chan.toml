@@ -1,0 +1,35 @@
+[meta]
+name = "rie-chan"
+native_names = ["リエちゃん", "リエ♥ちゃん"]
+ansi_source = "Catppuccin Macchiato + POPN"
+booru = "rie-chan"
+signature = ["cursor", "selection", "foreground"]
+
+[meta.booru_sites]
+konachan = []
+yande = []
+
+[colors]
+background = "#20150f"
+foreground = "#e2e2e2"
+cursor = "#d6620d"
+selection_background = "#900f00"
+ansi = [
+  "#2d211b",
+  "#ea8479",
+  "#b9ad4f",
+  "#e7b271",
+  "#b691e0",
+  "#da92a1",
+  "#8dbd88",
+  "#d7c2b9",
+
+  "#85746b",
+  "#fdaca4",
+  "#d8ce81",
+  "#ffd6a5",
+  "#d0b7f0",
+  "#ffb2bf",
+  "#aedfa9",
+  "#ffeae0",
+]

@@ -1,0 +1,34 @@
+[meta]
+name = "mizushiro-celica"
+native_names = ["水城セリカ", "セリカ"]
+ansi_source = "Catppuccin Macchiato + IIDX"
+booru = "mizushiro_celica"
+signature = ["cursor", "selection", "ansi6"]
+
+[meta.booru_sites]
+yande = "celica"
+
+[colors]
+background = "#1e151a"
+foreground = "#f4dce9"
+cursor = "#f485d5"
+selection_background = "#77236d"
+ansi = [
+  "#2a2127",
+  "#e383a5",
+  "#bbaf4d",
+  "#efae7c",
+  "#a695e5",
+  "#cd95bc",
+  "#7bbace",
+  "#d2c2ca",
+
+  "#81737a",
+  "#f5adc5",
+  "#d9cf7e",
+  "#fcd6ba",
+  "#c5b9f2",
+  "#ffade6",
+  "#a7d8fc",
+  "#ffe8f3",
+]

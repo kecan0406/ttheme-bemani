@@ -1,0 +1,35 @@
+[meta]
+name = "nyami"
+native_names = ["ニャミ", "ミミニャミ"]
+ansi_source = "Catppuccin Macchiato + POPN"
+booru = "nyami_(pop'n_music)"
+signature = ["cursor", "ansi2", "foreground"]
+
+[meta.booru_sites]
+yande = []
+zerochan = "nyami"
+
+[colors]
+background = "#201511"
+foreground = "#e2e2e2"
+cursor = "#b1410a"
+selection_background = "#4a3a37"
+ansi = [
+  "#2d211c",
+  "#ea837e",
+  "#63bf52",
+  "#e9b173",
+  "#b591df",
+  "#d992a5",
+  "#7cc197",
+  "#d8c2bb",
+
+  "#85736d",
+  "#fcaca8",
+  "#c2d68b",
+  "#ffd6a9",
+  "#d1b7f0",
+  "#ffb1c3",
+  "#aedfa8",
+  "#ffe9e2",
+]

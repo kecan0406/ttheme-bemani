@@ -1,0 +1,35 @@
+[meta]
+name = "umegiri-ameto"
+native_names = ["梅桐天土", "天土"]
+ansi_source = "Paraiso Dark + IIDX"
+booru = "umegiri_ameto"
+signature = ["cursor", "selection", "foreground"]
+
+[meta.booru_sites]
+yande = "ameto"
+zerochan = "ameto_(beatmania)"
+
+[colors]
+background = "#201515"
+foreground = "#e2e2e2"
+cursor = "#dd566b"
+selection_background = "#861330"
+ansi = [
+  "#2d2021",
+  "#ff7575",
+  "#bbad35",
+  "#ffa75e",
+  "#9a94fe",
+  "#d78dcb",
+  "#81b4ee",
+  "#d7c1c2",
+
+  "#857374",
+  "#ffaba8",
+  "#dece53",
+  "#ffd5b6",
+  "#bebaff",
+  "#fbaded",
+  "#b2d5ff",
+  "#ffe9e9",
+]

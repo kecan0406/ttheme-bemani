@@ -1,0 +1,35 @@
+[meta]
+name = "sanae-chan"
+native_names = ["さなえちゃん", "さなえ♥ちゃん"]
+ansi_source = "Catppuccin Macchiato + POPN"
+booru = "sanae-chan"
+signature = ["cursor", "selection", "ansi12"]
+
+[meta.booru_sites]
+konachan = []
+yande = []
+
+[colors]
+background = "#14181e"
+foreground = "#dde2f2"
+cursor = "#bdd2ff"
+selection_background = "#48181e"
+ansi = [
+  "#21242b",
+  "#e284a3",
+  "#6dbb96",
+  "#b4c183",
+  "#7ca0e6",
+  "#b59bd1",
+  "#77bbcd",
+  "#c4c6d0",
+
+  "#74777f",
+  "#f2aec3",
+  "#a0d9bb",
+  "#d5e2a4",
+  "#babbff",
+  "#dcb8ff",
+  "#9bdbef",
+  "#e9eefe",
+]

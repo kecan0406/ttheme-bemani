@@ -68,6 +68,460 @@
   "name": "bemani",
   "palettes": [
     {
+      "name": "alice-ip",
+      "group": "kecan0406@bemani",
+      "nativeNames": [
+        "アリス・イップ",
+        "アリス"
+      ],
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + DDR",
+      "booru": "alice_ip",
+      "booruSites": {
+        "konachan": [],
+        "yande": []
+      },
+      "background": "#201511",
+      "foreground": "#fddbd0",
+      "cursor": "#f5723c",
+      "selection": "#0038b6",
+      "signature": [
+        "#f5723c",
+        "#0038b6",
+        "#3cbf9d"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "ansi2"
+      ],
+      "ansi": [
+        "#2d211c",
+        "#ea837e",
+        "#3cbf9d",
+        "#e9b173",
+        "#b591df",
+        "#d992a5",
+        "#86bf8e",
+        "#d8c2bb",
+        "#85736d",
+        "#fcaca8",
+        "#9adfab",
+        "#ffd6a9",
+        "#d1b7f0",
+        "#ffb1c3",
+        "#93e3c4",
+        "#ffe9e2"
+      ],
+      "gate": [
+        13.783,
+        6.838,
+        0.017,
+        10.498,
+        3.969,
+        7.237,
+        0,
+        20.278,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#f5723c",
+        "opacity": 0.18
+      },
+      "catalog": "DanceDanceRevolution"
+    },
+    {
+      "name": "toshiba-emi",
+      "group": "kecan0406@bemani",
+      "nativeNames": [
+        "東芝恵美",
+        "エミ",
+        "恵美"
+      ],
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + DDR",
+      "booru": "toshiba_emi",
+      "booruSites": {
+        "konachan": [],
+        "yande": []
+      },
+      "background": "#13181e",
+      "foreground": "#dae3f1",
+      "cursor": "#35a5fc",
+      "selection": "#4a3a37",
+      "signature": [
+        "#35a5fc",
+        "#ec7de1",
+        "#e3e35c"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "ansi5",
+        "ansi11"
+      ],
+      "ansi": [
+        "#1f242a",
+        "#e283a3",
+        "#6dba95",
+        "#a8c48b",
+        "#75a2e5",
+        "#ec7de1",
+        "#75bbc9",
+        "#c2c7cf",
+        "#73777f",
+        "#f1aec3",
+        "#9fd8bb",
+        "#e3e35c",
+        "#a5c3f2",
+        "#deb7f9",
+        "#99dceb",
+        "#e6effc"
+      ],
+      "gate": [
+        13.796,
+        6.804,
+        0.017,
+        10.504,
+        3.971,
+        8.321,
+        0,
+        20.237,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#35a5fc",
+        "opacity": 0.18
+      },
+      "catalog": "DanceDanceRevolution"
+    },
+    {
+      "name": "yuni",
+      "group": "kecan0406@bemani",
+      "nativeNames": [
+        "ユニ・バース",
+        "ユニ"
+      ],
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + DDR",
+      "booru": "yuni_(dance_dance_revolution)",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
+      "background": "#1a180d",
+      "foreground": "#ebe2c6",
+      "cursor": "#e4d284",
+      "selection": "#3437a6",
+      "signature": [
+        "#e4d284",
+        "#3437a6",
+        "#41a8f1"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "ansi4"
+      ],
+      "ansi": [
+        "#272418",
+        "#e98564",
+        "#9db462",
+        "#d4b96e",
+        "#41a8f1",
+        "#db90a2",
+        "#8abd8f",
+        "#cdc6b4",
+        "#7c7768",
+        "#fdae93",
+        "#c1d490",
+        "#f6db8c",
+        "#8bcae1",
+        "#fdb1c3",
+        "#abdeb1",
+        "#f7eed1"
+      ],
+      "gate": [
+        13.747,
+        6.781,
+        0.018,
+        10.448,
+        3.978,
+        7.234,
+        0,
+        20.726,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#e4d284",
+        "opacity": 0.12
+      },
+      "catalog": "DanceDanceRevolution"
+    },
+    {
+      "name": "gen",
+      "group": "kecan0406@bemani",
+      "nativeNames": [
+        "弦",
+        "ゲン"
+      ],
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + GITADORA",
+      "booru": "gen_(gitadora)",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
+      "background": "#1a161e",
+      "foreground": "#eadff1",
+      "cursor": "#9360d6",
+      "selection": "#1f2360",
+      "signature": [
+        "#9360d6",
+        "#1f2360",
+        "#fea866"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "ansi3"
+      ],
+      "ansi": [
+        "#26222a",
+        "#e383a3",
+        "#6ebb96",
+        "#fea866",
+        "#949ae8",
+        "#c397c7",
+        "#80b8d8",
+        "#ccc4cf",
+        "#7b757f",
+        "#f4adc3",
+        "#a1d9bc",
+        "#ffd3c9",
+        "#b9bdf4",
+        "#f8acff",
+        "#a4d8f9",
+        "#f5eafc"
+      ],
+      "gate": [
+        13.864,
+        6.83,
+        0.017,
+        10.501,
+        3.986,
+        11.123,
+        0,
+        24.056,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#9360d6",
+        "opacity": 0.24
+      },
+      "catalog": "GITADORA"
+    },
+    {
+      "name": "kyoka",
+      "group": "kecan0406@bemani",
+      "nativeNames": [
+        "響香",
+        "キョウカ"
+      ],
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + GITADORA",
+      "booru": "kyouka_(gitadora)",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
+      "background": "#13181e",
+      "foreground": "#dbe3f1",
+      "cursor": "#aaccf9",
+      "selection": "#292e6f",
+      "signature": [
+        "#aaccf9",
+        "#292e6f",
+        "#bf8fff"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "ansi5"
+      ],
+      "ansi": [
+        "#20242a",
+        "#e183a3",
+        "#6dba95",
+        "#b4c183",
+        "#77a2e5",
+        "#bf8fff",
+        "#75bbcb",
+        "#c3c6cf",
+        "#73777f",
+        "#f2aec3",
+        "#9fd8bb",
+        "#d5e2a4",
+        "#a6c2f2",
+        "#d7baff",
+        "#9adcec",
+        "#e6eefd"
+      ],
+      "gate": [
+        13.822,
+        6.777,
+        0.017,
+        10.449,
+        3.971,
+        9.489,
+        0,
+        2.084,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#aaccf9",
+        "opacity": 0.13
+      },
+      "catalog": "GITADORA"
+    },
+    {
+      "name": "rio",
+      "group": "kecan0406@bemani",
+      "nativeNames": [
+        "璃音",
+        "リオ"
+      ],
+      "order": 1000000,
+      "ansiSource": "Whimsy + GITADORA",
+      "booru": "rio_(gitadora)",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
+      "background": "#1e160d",
+      "foreground": "#f6dfc6",
+      "cursor": "#f29d09",
+      "selection": "#262a6f",
+      "signature": [
+        "#f29d09",
+        "#262a6f",
+        "#ffd96c"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "ansi11"
+      ],
+      "ansi": [
+        "#2b2218",
+        "#ff7856",
+        "#9bb644",
+        "#e3b45b",
+        "#bd8ce6",
+        "#f87db4",
+        "#80c079",
+        "#d4c4b5",
+        "#827568",
+        "#ffac98",
+        "#bcd761",
+        "#ffd96c",
+        "#dcafff",
+        "#ffb0ce",
+        "#a0e298",
+        "#ffebd6"
+      ],
+      "gate": [
+        13.854,
+        6.853,
+        0.017,
+        10.514,
+        3.992,
+        9.913,
+        0,
+        8.787,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#f29d09",
+        "opacity": 0.15
+      },
+      "catalog": "GITADORA"
+    },
+    {
+      "name": "pastel-kun",
+      "group": "kecan0406@bemani",
+      "nativeNames": [
+        "パステルくん",
+        "ぱすてるくん"
+      ],
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + REFLEC",
+      "booru": "pastel-kun",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
+      "background": "#17171f",
+      "foreground": "#e2e1f3",
+      "cursor": "#b7bcff",
+      "selection": "#4a3a37",
+      "signature": [
+        "#b7bcff",
+        "#63c052",
+        "#e4e435"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "ansi2",
+        "ansi11"
+      ],
+      "ansi": [
+        "#23232b",
+        "#e384a4",
+        "#63c052",
+        "#d7bc74",
+        "#869ee8",
+        "#bb9ace",
+        "#7ab9d2",
+        "#c7c5d0",
+        "#777680",
+        "#f3adc3",
+        "#a1d8ba",
+        "#e4e435",
+        "#b0c0f4",
+        "#e6b4ff",
+        "#9edaf4",
+        "#eeecfe"
+      ],
+      "gate": [
+        13.826,
+        6.846,
+        0.017,
+        10.456,
+        3.977,
+        8.351,
+        0,
+        19.973,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#b7bcff",
+        "opacity": 0.14
+      },
+      "catalog": "REFLEC BEAT"
+    },
+    {
       "name": "grace",
       "group": "kecan0406@bemani",
       "nativeNames": [
@@ -124,7 +578,7 @@
         "color": "#f592c9",
         "opacity": 0.15
       },
-      "catalog": "Sound Voltex"
+      "catalog": "SOUND VOLTEX"
     },
     {
       "name": "konoha",
@@ -189,7 +643,7 @@
         "color": "#d14e55",
         "opacity": 0.25
       },
-      "catalog": "Sound Voltex"
+      "catalog": "SOUND VOLTEX"
     },
     {
       "name": "kureha",
@@ -249,7 +703,7 @@
         "color": "#b43c2c",
         "opacity": 0.32
       },
-      "catalog": "Sound Voltex"
+      "catalog": "SOUND VOLTEX"
     },
     {
       "name": "near",
@@ -309,7 +763,7 @@
         "color": "#a8d1fb",
         "opacity": 0.13
       },
-      "catalog": "Sound Voltex"
+      "catalog": "SOUND VOLTEX"
     },
     {
       "name": "noah",
@@ -369,7 +823,7 @@
         "color": "#94ccfa",
         "opacity": 0.13
       },
-      "catalog": "Sound Voltex"
+      "catalog": "SOUND VOLTEX"
     },
     {
       "name": "rasis",
@@ -433,7 +887,1185 @@
         "color": "#f870a7",
         "opacity": 0.18
       },
-      "catalog": "Sound Voltex"
+      "catalog": "SOUND VOLTEX"
+    },
+    {
+      "name": "hinazuki-ririna",
+      "group": "kecan0406@bemani",
+      "nativeNames": [
+        "雛月理々奈",
+        "リリス",
+        "理々奈"
+      ],
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + IIDX",
+      "booru": "hinazuki_ririna",
+      "booruSites": {
+        "konachan": [
+          "lilith_(beatmania_iidx)"
+        ]
+      },
+      "background": "#201514",
+      "foreground": "#fcdbd8",
+      "cursor": "#d75351",
+      "selection": "#302629",
+      "signature": [
+        "#d75351",
+        "#302629",
+        "#f0e027"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "ansi11"
+      ],
+      "ansi": [
+        "#2d2120",
+        "#e9838a",
+        "#baae4d",
+        "#ddb86e",
+        "#b990dc",
+        "#d693ac",
+        "#8dbd87",
+        "#d8c2c0",
+        "#857371",
+        "#fbacb1",
+        "#c3d68a",
+        "#f0e027",
+        "#d4b5ed",
+        "#ffb0cc",
+        "#aedfa8",
+        "#ffe9e7"
+      ],
+      "gate": [
+        13.797,
+        6.853,
+        0.017,
+        10.517,
+        3.977,
+        11.334,
+        0,
+        20.392,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#d75351",
+        "opacity": 0.23
+      },
+      "catalog": "beatmania IIDX"
+    },
+    {
+      "name": "hishimiya-tsugaru",
+      "group": "kecan0406@bemani",
+      "nativeNames": [
+        "菱宮津軽",
+        "ツガル",
+        "津軽"
+      ],
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + IIDX",
+      "booru": "hishimiya_tsugaru",
+      "booruSites": {
+        "yande": [
+          "tsugaru"
+        ],
+        "zerochan": []
+      },
+      "background": "#151910",
+      "foreground": "#dfe5ce",
+      "cursor": "#698e31",
+      "selection": "#930100",
+      "signature": [
+        "#698e31",
+        "#930100",
+        "#cad52c"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "ansi10"
+      ],
+      "ansi": [
+        "#21251b",
+        "#e88463",
+        "#8cb771",
+        "#c7bd72",
+        "#38afc1",
+        "#dd8fa2",
+        "#80be9c",
+        "#c5c8b9",
+        "#75786c",
+        "#fdac92",
+        "#cad52c",
+        "#eedd8e",
+        "#87ccd8",
+        "#ffafc2",
+        "#a2dfbe",
+        "#eaf1d9"
+      ],
+      "gate": [
+        13.778,
+        6.714,
+        0.017,
+        10.469,
+        3.954,
+        7.232,
+        0,
+        20.542,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#698e31",
+        "opacity": 0.22
+      },
+      "catalog": "beatmania IIDX"
+    },
+    {
+      "name": "kitami-erika",
+      "group": "kecan0406@bemani",
+      "nativeNames": [
+        "北見エリカ",
+        "エリカ"
+      ],
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + IIDX",
+      "booru": "kitami_erika",
+      "booruSites": {
+        "konachan": [
+          "erika_(beatmania_iidx)"
+        ],
+        "yande": [
+          "erika_(beatmania_iidx)"
+        ],
+        "zerochan": []
+      },
+      "background": "#17190f",
+      "foreground": "#e2e5cb",
+      "cursor": "#b9c975",
+      "selection": "#533c71",
+      "signature": [
+        "#b9c975",
+        "#533c71",
+        "#9bb55b"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "ansi2"
+      ],
+      "ansi": [
+        "#23251a",
+        "#e98463",
+        "#9bb55b",
+        "#cbbc70",
+        "#36afbe",
+        "#dd8fa2",
+        "#82bd98",
+        "#c7c8b7",
+        "#77786a",
+        "#fdad92",
+        "#b7d698",
+        "#ecde8f",
+        "#86ccd5",
+        "#feb0c2",
+        "#a4dfba",
+        "#eef0d6"
+      ],
+      "gate": [
+        13.789,
+        6.72,
+        0.018,
+        10.465,
+        3.957,
+        7.238,
+        0,
+        7.058,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#b9c975",
+        "opacity": 0.13
+      },
+      "catalog": "beatmania IIDX"
+    },
+    {
+      "name": "mizushiro-celica",
+      "group": "kecan0406@bemani",
+      "nativeNames": [
+        "水城セリカ",
+        "セリカ"
+      ],
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + IIDX",
+      "booru": "mizushiro_celica",
+      "booruSites": {
+        "yande": [
+          "celica"
+        ]
+      },
+      "background": "#1e151a",
+      "foreground": "#f4dce9",
+      "cursor": "#f485d5",
+      "selection": "#77236d",
+      "signature": [
+        "#f485d5",
+        "#77236d",
+        "#7bbace"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "ansi6"
+      ],
+      "ansi": [
+        "#2a2127",
+        "#e383a5",
+        "#bbaf4d",
+        "#efae7c",
+        "#a695e5",
+        "#cd95bc",
+        "#7bbace",
+        "#d2c2ca",
+        "#81737a",
+        "#f5adc5",
+        "#d9cf7e",
+        "#fcd6ba",
+        "#c5b9f2",
+        "#ffade6",
+        "#a7d8fc",
+        "#ffe8f3"
+      ],
+      "gate": [
+        13.811,
+        6.839,
+        0.017,
+        10.455,
+        3.964,
+        7.241,
+        0,
+        20.589,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#f485d5",
+        "opacity": 0.16
+      },
+      "catalog": "beatmania IIDX"
+    },
+    {
+      "name": "umegiri-ameto",
+      "group": "kecan0406@bemani",
+      "nativeNames": [
+        "梅桐天土",
+        "天土"
+      ],
+      "order": 1000000,
+      "ansiSource": "Paraiso Dark + IIDX",
+      "booru": "umegiri_ameto",
+      "booruSites": {
+        "yande": [
+          "ameto"
+        ],
+        "zerochan": [
+          "ameto_(beatmania)"
+        ]
+      },
+      "background": "#201515",
+      "foreground": "#e2e2e2",
+      "cursor": "#dd566b",
+      "selection": "#861330",
+      "signature": [
+        "#dd566b",
+        "#861330",
+        "#e2e2e2"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "foreground"
+      ],
+      "ansi": [
+        "#2d2021",
+        "#ff7575",
+        "#bbad35",
+        "#ffa75e",
+        "#9a94fe",
+        "#d78dcb",
+        "#81b4ee",
+        "#d7c1c2",
+        "#857374",
+        "#ffaba8",
+        "#dece53",
+        "#ffd5b6",
+        "#bebaff",
+        "#fbaded",
+        "#b2d5ff",
+        "#ffe9e9"
+      ],
+      "gate": [
+        13.743,
+        6.817,
+        0.017,
+        10.425,
+        3.986,
+        7.542,
+        0,
+        2.248,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#dd566b",
+        "opacity": 0.22
+      },
+      "catalog": "beatmania IIDX"
+    },
+    {
+      "name": "umegiri-hifumi",
+      "group": "kecan0406@bemani",
+      "nativeNames": [
+        "緋浮美"
+      ],
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + IIDX",
+      "booru": "umegiri_hifumi",
+      "booruSites": {
+        "konachan": [
+          "hifumi"
+        ],
+        "yande": [
+          "hifumi_(beatmania)"
+        ],
+        "zerochan": [
+          "hifumi_(beatmania)"
+        ]
+      },
+      "background": "#1d151b",
+      "foreground": "#f3dcea",
+      "cursor": "#a33b98",
+      "selection": "#462736",
+      "signature": [
+        "#a33b98",
+        "#462736",
+        "#ffdb25"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "ansi11"
+      ],
+      "ansi": [
+        "#2a2127",
+        "#e283a8",
+        "#bbaf4d",
+        "#e3b672",
+        "#a496e5",
+        "#cb95be",
+        "#89b5de",
+        "#d2c2cb",
+        "#80747b",
+        "#f4adc7",
+        "#ccd484",
+        "#ffdb25",
+        "#c4baf3",
+        "#fface9",
+        "#add6ff",
+        "#ffe7f6"
+      ],
+      "gate": [
+        13.814,
+        6.845,
+        0.017,
+        10.482,
+        4.001,
+        10.123,
+        0,
+        19.572,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#a33b98",
+        "opacity": 0.32
+      },
+      "catalog": "beatmania IIDX"
+    },
+    {
+      "name": "umegiri-iroha",
+      "group": "kecan0406@bemani",
+      "nativeNames": [
+        "梅桐彩葉",
+        "彩葉"
+      ],
+      "order": 1000000,
+      "ansiSource": "Pencil Dark + IIDX",
+      "booru": "umegiri_iroha",
+      "booruSites": {
+        "yande": [
+          "iroha_(beatmania)"
+        ],
+        "zerochan": [
+          "iroha_(beatmania)"
+        ]
+      },
+      "background": "#20150f",
+      "foreground": "#e2e2e2",
+      "cursor": "#f7954e",
+      "selection": "#004d63",
+      "signature": [
+        "#f7954e",
+        "#004d63",
+        "#e2e2e2"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "foreground"
+      ],
+      "ansi": [
+        "#2d211a",
+        "#ff7576",
+        "#9fb541",
+        "#ebb22e",
+        "#a992ef",
+        "#d98fb9",
+        "#74c185",
+        "#d7c3b8",
+        "#84746a",
+        "#ffaba4",
+        "#bcd76b",
+        "#ffd88b",
+        "#c7b7ff",
+        "#fface8",
+        "#99e2a7",
+        "#ffeade"
+      ],
+      "gate": [
+        13.789,
+        6.843,
+        0.017,
+        10.537,
+        3.987,
+        7.231,
+        0,
+        7.532,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#f7954e",
+        "opacity": 0.16
+      },
+      "catalog": "beatmania IIDX"
+    },
+    {
+      "name": "knit",
+      "group": "kecan0406@bemani",
+      "nativeNames": [
+        "ニット"
+      ],
+      "order": 1000000,
+      "ansiSource": "Royal + JUBEAT",
+      "booru": "knit_(jubeat)",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
+      "background": "#1b170c",
+      "foreground": "#e2e2e2",
+      "cursor": "#ebd080",
+      "selection": "#323232",
+      "signature": [
+        "#ebd080",
+        "#323232",
+        "#e2e2e2"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "foreground"
+      ],
+      "ansi": [
+        "#282318",
+        "#f87e4b",
+        "#98b721",
+        "#d7ba42",
+        "#60acb2",
+        "#ea89a3",
+        "#7abdab",
+        "#cec6b4",
+        "#7d7667",
+        "#ffad8d",
+        "#b3da45",
+        "#fcdc2a",
+        "#68d1d4",
+        "#ffb1c2",
+        "#9bdfca",
+        "#f9edd0"
+      ],
+      "gate": [
+        13.802,
+        6.847,
+        0.017,
+        10.525,
+        3.967,
+        9.897,
+        0,
+        4.316,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#ebd080",
+        "opacity": 0.12
+      },
+      "catalog": "jubeat"
+    },
+    {
+      "name": "maud",
+      "group": "kecan0406@bemani",
+      "nativeNames": [
+        "モード"
+      ],
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + JUBEAT",
+      "booru": "maud_(bemani)",
+      "booruSites": {
+        "konachan": [
+          "maud"
+        ],
+        "yande": [],
+        "zerochan": []
+      },
+      "background": "#201514",
+      "foreground": "#bcebf2",
+      "cursor": "#ff8983",
+      "selection": "#133b71",
+      "signature": [
+        "#ff8983",
+        "#133b71",
+        "#bcebf2"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "foreground"
+      ],
+      "ansi": [
+        "#2d2120",
+        "#e9838a",
+        "#baae4d",
+        "#edaf77",
+        "#b990dc",
+        "#d692ac",
+        "#8dbd87",
+        "#d8c2c0",
+        "#857371",
+        "#fbacb1",
+        "#d9cf7f",
+        "#ffd5b2",
+        "#d4b5ed",
+        "#ffb0cc",
+        "#aedfa8",
+        "#ffe9e7"
+      ],
+      "gate": [
+        13.831,
+        6.853,
+        0.017,
+        10.517,
+        3.977,
+        8.618,
+        0,
+        1.607,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#ff8983",
+        "opacity": 0.15
+      },
+      "catalog": "jubeat"
+    },
+    {
+      "name": "knit-popn",
+      "group": "kecan0406@bemani",
+      "nativeNames": [
+        "ニット"
+      ],
+      "order": 1000000,
+      "ansiSource": "Royal + JUBEAT",
+      "booru": "knit_(jubeat)",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
+      "background": "#1b170c",
+      "foreground": "#e2e2e2",
+      "cursor": "#ebd080",
+      "selection": "#323232",
+      "signature": [
+        "#ebd080",
+        "#323232",
+        "#e2e2e2"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "foreground"
+      ],
+      "ansi": [
+        "#282318",
+        "#f87e4b",
+        "#98b721",
+        "#d7ba42",
+        "#60acb2",
+        "#ea89a3",
+        "#7abdab",
+        "#cec6b4",
+        "#7d7667",
+        "#ffad8d",
+        "#b3da45",
+        "#fcdc2a",
+        "#68d1d4",
+        "#ffb1c2",
+        "#9bdfca",
+        "#f9edd0"
+      ],
+      "gate": [
+        13.802,
+        6.847,
+        0.017,
+        10.525,
+        3.967,
+        9.897,
+        0,
+        4.316,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#ebd080",
+        "opacity": 0.12
+      },
+      "catalog": "pop'n music"
+    },
+    {
+      "name": "maud-popn",
+      "group": "kecan0406@bemani",
+      "nativeNames": [
+        "モード"
+      ],
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + JUBEAT",
+      "booru": "maud_(bemani)",
+      "booruSites": {
+        "konachan": [
+          "maud"
+        ],
+        "yande": [],
+        "zerochan": []
+      },
+      "background": "#201514",
+      "foreground": "#bcebf2",
+      "cursor": "#ff8983",
+      "selection": "#133b71",
+      "signature": [
+        "#ff8983",
+        "#133b71",
+        "#bcebf2"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "foreground"
+      ],
+      "ansi": [
+        "#2d2120",
+        "#e9838a",
+        "#baae4d",
+        "#edaf77",
+        "#b990dc",
+        "#d692ac",
+        "#8dbd87",
+        "#d8c2c0",
+        "#857371",
+        "#fbacb1",
+        "#d9cf7f",
+        "#ffd5b2",
+        "#d4b5ed",
+        "#ffb0cc",
+        "#aedfa8",
+        "#ffe9e7"
+      ],
+      "gate": [
+        13.831,
+        6.853,
+        0.017,
+        10.517,
+        3.977,
+        8.618,
+        0,
+        1.607,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#ff8983",
+        "opacity": 0.15
+      },
+      "catalog": "pop'n music"
+    },
+    {
+      "name": "milk",
+      "group": "kecan0406@bemani",
+      "nativeNames": [
+        "ミルク"
+      ],
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + POPN",
+      "booru": "milk_(pop'n_music)",
+      "booruSites": {
+        "konachan": []
+      },
+      "background": "#201516",
+      "foreground": "#e2e2e2",
+      "cursor": "#fd6f86",
+      "selection": "#8e0048",
+      "signature": [
+        "#fd6f86",
+        "#8e0048",
+        "#e2e2e2"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "foreground"
+      ],
+      "ansi": [
+        "#2d2122",
+        "#e88391",
+        "#baae4d",
+        "#f0ad7a",
+        "#b491df",
+        "#d493b1",
+        "#8dbd87",
+        "#d7c1c3",
+        "#847374",
+        "#faacb6",
+        "#d9cf7f",
+        "#ffd5b6",
+        "#d0b6ee",
+        "#ffafd2",
+        "#aedfa8",
+        "#ffe9ea"
+      ],
+      "gate": [
+        13.735,
+        6.826,
+        0.018,
+        10.426,
+        3.97,
+        7.225,
+        0,
+        1.539,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#fd6f86",
+        "opacity": 0.18
+      },
+      "catalog": "pop'n music"
+    },
+    {
+      "name": "mimi",
+      "group": "kecan0406@bemani",
+      "nativeNames": [
+        "ミミ",
+        "ミミニャミ"
+      ],
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + POPN",
+      "booru": "mimi_(pop'n_music)",
+      "booruSites": {
+        "yande": []
+      },
+      "background": "#201511",
+      "foreground": "#e2e2e2",
+      "cursor": "#b1410a",
+      "selection": "#4a3a37",
+      "signature": [
+        "#b1410a",
+        "#63bf52",
+        "#e2e2e2"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "ansi2",
+        "foreground"
+      ],
+      "ansi": [
+        "#2d211c",
+        "#ea837e",
+        "#63bf52",
+        "#e9b173",
+        "#b591df",
+        "#d992a5",
+        "#7cc197",
+        "#d8c2bb",
+        "#85736d",
+        "#fcaca8",
+        "#c2d68b",
+        "#ffd6a9",
+        "#d1b7f0",
+        "#ffb1c3",
+        "#aedfa8",
+        "#ffe9e2"
+      ],
+      "gate": [
+        13.775,
+        6.838,
+        0.017,
+        10.498,
+        3.969,
+        8.306,
+        0,
+        19.89,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#b1410a",
+        "opacity": 0.32
+      },
+      "catalog": "pop'n music"
+    },
+    {
+      "name": "nyami",
+      "group": "kecan0406@bemani",
+      "nativeNames": [
+        "ニャミ",
+        "ミミニャミ"
+      ],
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + POPN",
+      "booru": "nyami_(pop'n_music)",
+      "booruSites": {
+        "yande": [],
+        "zerochan": [
+          "nyami"
+        ]
+      },
+      "background": "#201511",
+      "foreground": "#e2e2e2",
+      "cursor": "#b1410a",
+      "selection": "#4a3a37",
+      "signature": [
+        "#b1410a",
+        "#63bf52",
+        "#e2e2e2"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "ansi2",
+        "foreground"
+      ],
+      "ansi": [
+        "#2d211c",
+        "#ea837e",
+        "#63bf52",
+        "#e9b173",
+        "#b591df",
+        "#d992a5",
+        "#7cc197",
+        "#d8c2bb",
+        "#85736d",
+        "#fcaca8",
+        "#c2d68b",
+        "#ffd6a9",
+        "#d1b7f0",
+        "#ffb1c3",
+        "#aedfa8",
+        "#ffe9e2"
+      ],
+      "gate": [
+        13.775,
+        6.838,
+        0.017,
+        10.498,
+        3.969,
+        8.306,
+        0,
+        19.89,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#b1410a",
+        "opacity": 0.32
+      },
+      "catalog": "pop'n music"
+    },
+    {
+      "name": "poet",
+      "group": "kecan0406@bemani",
+      "nativeNames": [
+        "ポエット"
+      ],
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + POPN",
+      "booru": "poet_(pop'n_music)",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
+      "background": "#1c170c",
+      "foreground": "#e2e2e2",
+      "cursor": "#ffbd00",
+      "selection": "#4a3a37",
+      "signature": [
+        "#ffbd00",
+        "#e2e2e2",
+        "#ffa679"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "foreground",
+        "ansi3"
+      ],
+      "ansi": [
+        "#292318",
+        "#e88760",
+        "#a5b25c",
+        "#ffa679",
+        "#b691df",
+        "#db91a3",
+        "#90bc89",
+        "#d1c5b4",
+        "#7f7667",
+        "#fcae92",
+        "#c7d28b",
+        "#ffd5a9",
+        "#d1b7f1",
+        "#fcb2c3",
+        "#b0ddaa",
+        "#fdecd0"
+      ],
+      "gate": [
+        13.77,
+        6.851,
+        0.017,
+        10.496,
+        3.984,
+        8.306,
+        0,
+        20.659,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#ffbd00",
+        "opacity": 0.13
+      },
+      "catalog": "pop'n music"
+    },
+    {
+      "name": "rie-chan",
+      "group": "kecan0406@bemani",
+      "nativeNames": [
+        "リエちゃん",
+        "リエ♥ちゃん"
+      ],
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + POPN",
+      "booru": "rie-chan",
+      "booruSites": {
+        "konachan": [],
+        "yande": []
+      },
+      "background": "#20150f",
+      "foreground": "#e2e2e2",
+      "cursor": "#d6620d",
+      "selection": "#900f00",
+      "signature": [
+        "#d6620d",
+        "#900f00",
+        "#e2e2e2"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "foreground"
+      ],
+      "ansi": [
+        "#2d211b",
+        "#ea8479",
+        "#b9ad4f",
+        "#e7b271",
+        "#b691e0",
+        "#da92a1",
+        "#8dbd88",
+        "#d7c2b9",
+        "#85746b",
+        "#fdaca4",
+        "#d8ce81",
+        "#ffd6a5",
+        "#d0b7f0",
+        "#ffb2bf",
+        "#aedfa9",
+        "#ffeae0"
+      ],
+      "gate": [
+        13.789,
+        6.869,
+        0.017,
+        10.469,
+        4.005,
+        7.191,
+        0,
+        2.244,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#d6620d",
+        "opacity": 0.22
+      },
+      "catalog": "pop'n music"
+    },
+    {
+      "name": "sanae-chan",
+      "group": "kecan0406@bemani",
+      "nativeNames": [
+        "さなえちゃん",
+        "さなえ♥ちゃん"
+      ],
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + POPN",
+      "booru": "sanae-chan",
+      "booruSites": {
+        "konachan": [],
+        "yande": []
+      },
+      "background": "#14181e",
+      "foreground": "#dde2f2",
+      "cursor": "#bdd2ff",
+      "selection": "#48181e",
+      "signature": [
+        "#bdd2ff",
+        "#48181e",
+        "#babbff"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "ansi12"
+      ],
+      "ansi": [
+        "#21242b",
+        "#e284a3",
+        "#6dbb96",
+        "#b4c183",
+        "#7ca0e6",
+        "#b59bd1",
+        "#77bbcd",
+        "#c4c6d0",
+        "#74777f",
+        "#f2aec3",
+        "#a0d9bb",
+        "#d5e2a4",
+        "#babbff",
+        "#dcb8ff",
+        "#9bdbef",
+        "#e9eefe"
+      ],
+      "gate": [
+        13.769,
+        6.808,
+        0.018,
+        10.461,
+        3.976,
+        11.394,
+        0,
+        20.403,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#bdd2ff",
+        "opacity": 0.12
+      },
+      "catalog": "pop'n music"
+    },
+    {
+      "name": "yuli",
+      "group": "kecan0406@bemani",
+      "nativeNames": [
+        "ユーリ"
+      ],
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + POPN",
+      "booru": "yuli_(pop'n_music)",
+      "booruSites": {
+        "konachan": []
+      },
+      "background": "#101919",
+      "foreground": "#e2e2e2",
+      "cursor": "#97dede",
+      "selection": "#930100",
+      "signature": [
+        "#97dede",
+        "#930100",
+        "#e2e2e2"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "foreground"
+      ],
+      "ansi": [
+        "#1c2525",
+        "#e184a3",
+        "#6abb93",
+        "#b4c180",
+        "#57a9d9",
+        "#a99ed3",
+        "#73bdb7",
+        "#bec8c8",
+        "#6f7979",
+        "#f0aec2",
+        "#9cd9b9",
+        "#d5e39f",
+        "#94c7ea",
+        "#cbbefb",
+        "#97ded9",
+        "#dff2f1"
+      ],
+      "gate": [
+        13.795,
+        6.834,
+        0.017,
+        10.454,
+        3.988,
+        7.221,
+        0,
+        2.122,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#97dede",
+        "opacity": 0.12
+      },
+      "catalog": "pop'n music"
     }
   ]
 }

@@ -1,0 +1,34 @@
+[meta]
+name = "milk"
+native_names = ["ミルク"]
+ansi_source = "Catppuccin Macchiato + POPN"
+booru = "milk_(pop'n_music)"
+signature = ["cursor", "selection", "foreground"]
+
+[meta.booru_sites]
+konachan = []
+
+[colors]
+background = "#201516"
+foreground = "#e2e2e2"
+cursor = "#fd6f86"
+selection_background = "#8e0048"
+ansi = [
+  "#2d2122",
+  "#e88391",
+  "#baae4d",
+  "#f0ad7a",
+  "#b491df",
+  "#d493b1",
+  "#8dbd87",
+  "#d7c1c3",
+
+  "#847374",
+  "#faacb6",
+  "#d9cf7f",
+  "#ffd5b6",
+  "#d0b6ee",
+  "#ffafd2",
+  "#aedfa8",
+  "#ffe9ea",
+]

@@ -1,0 +1,36 @@
+[meta]
+name = "gen"
+native_names = ["弦", "ゲン"]
+ansi_source = "Catppuccin Macchiato + GITADORA"
+booru = "gen_(gitadora)"
+signature = ["cursor", "selection", "ansi3"]
+
+[meta.booru_sites]
+konachan = []
+yande = []
+zerochan = []
+
+[colors]
+background = "#1a161e"
+foreground = "#eadff1"
+cursor = "#9360d6"
+selection_background = "#1f2360"
+ansi = [
+  "#26222a",
+  "#e383a3",
+  "#6ebb96",
+  "#fea866",
+  "#949ae8",
+  "#c397c7",
+  "#80b8d8",
+  "#ccc4cf",
+
+  "#7b757f",
+  "#f4adc3",
+  "#a1d9bc",
+  "#ffd3c9",
+  "#b9bdf4",
+  "#f8acff",
+  "#a4d8f9",
+  "#f5eafc",
+]

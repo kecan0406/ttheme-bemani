@@ -1,0 +1,36 @@
+[meta]
+name = "poet"
+native_names = ["ポエット"]
+ansi_source = "Catppuccin Macchiato + POPN"
+booru = "poet_(pop'n_music)"
+signature = ["cursor", "foreground", "ansi3"]
+
+[meta.booru_sites]
+konachan = []
+yande = []
+zerochan = []
+
+[colors]
+background = "#1c170c"
+foreground = "#e2e2e2"
+cursor = "#ffbd00"
+selection_background = "#4a3a37"
+ansi = [
+  "#292318",
+  "#e88760",
+  "#a5b25c",
+  "#ffa679",
+  "#b691df",
+  "#db91a3",
+  "#90bc89",
+  "#d1c5b4",
+
+  "#7f7667",
+  "#fcae92",
+  "#c7d28b",
+  "#ffd5a9",
+  "#d1b7f1",
+  "#fcb2c3",
+  "#b0ddaa",
+  "#fdecd0",
+]

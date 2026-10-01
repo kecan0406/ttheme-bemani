@@ -1,0 +1,35 @@
+[meta]
+name = "toshiba-emi"
+native_names = ["東芝恵美", "エミ", "恵美"]
+ansi_source = "Catppuccin Macchiato + DDR"
+booru = "toshiba_emi"
+signature = ["cursor", "ansi5", "ansi11"]
+
+[meta.booru_sites]
+konachan = []
+yande = []
+
+[colors]
+background = "#13181e"
+foreground = "#dae3f1"
+cursor = "#35a5fc"
+selection_background = "#4a3a37"
+ansi = [
+  "#1f242a",
+  "#e283a3",
+  "#6dba95",
+  "#a8c48b",
+  "#75a2e5",
+  "#ec7de1",
+  "#75bbc9",
+  "#c2c7cf",
+
+  "#73777f",
+  "#f1aec3",
+  "#9fd8bb",
+  "#e3e35c",
+  "#a5c3f2",
+  "#deb7f9",
+  "#99dceb",
+  "#e6effc",
+]
