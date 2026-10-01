@@ -1,7 +1,13 @@
 [meta]
 name = "iidx-33-sparkle-shower"
 ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+booru = "beatmania_iidx_33_sparkle_shower"
 signature = ["cursor", "ansi11", "foreground"]
+
+[meta.booru_sites]
+konachan = []
+yande = []
+zerochan = []
 
 [colors]
 background = "#131913"

@@ -1,7 +1,13 @@
 [meta]
 name = "iidx-6th-style"
 ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+booru = "beatmania_iidx_6th_style"
 signature = ["cursor", "selection", "foreground"]
+
+[meta.booru_sites]
+konachan = []
+yande = []
+zerochan = []
 
 [colors]
 background = "#19161e"

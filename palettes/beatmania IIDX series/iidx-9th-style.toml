@@ -1,7 +1,13 @@
 [meta]
 name = "iidx-9th-style"
 ansi_source = "Aardvark Ink + IIDXSERIES"
+booru = "beatmania_iidx_9th_style"
 signature = ["cursor", "selection", "foreground"]
+
+[meta.booru_sites]
+konachan = []
+yande = []
+zerochan = []
 
 [colors]
 background = "#191716"

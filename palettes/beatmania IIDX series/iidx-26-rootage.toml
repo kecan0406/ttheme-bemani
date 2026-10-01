@@ -1,7 +1,13 @@
 [meta]
 name = "iidx-26-rootage"
 ansi_source = "Royal + IIDXSERIES"
+booru = "beatmania_iidx_26_rootage"
 signature = ["cursor", "selection", "foreground"]
+
+[meta.booru_sites]
+konachan = []
+yande = []
+zerochan = []
 
 [colors]
 background = "#1b170c"

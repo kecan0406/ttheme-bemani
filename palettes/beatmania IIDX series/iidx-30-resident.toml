@@ -1,7 +1,13 @@
 [meta]
 name = "iidx-30-resident"
 ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+booru = "beatmania_iidx_30_resident"
 signature = ["cursor", "selection", "ansi6"]
+
+[meta.booru_sites]
+konachan = []
+yande = []
+zerochan = []
 
 [colors]
 background = "#15171e"

@@ -1,7 +1,13 @@
 [meta]
 name = "iidx-15-dj-troopers"
 ansi_source = "Pencil Dark + IIDXSERIES"
+booru = "beatmania_iidx_15_dj_troopers"
 signature = ["cursor", "selection", "foreground"]
+
+[meta.booru_sites]
+konachan = []
+yande = []
+zerochan = []
 
 [colors]
 background = "#201511"

@@ -1,7 +1,13 @@
 [meta]
 name = "iidx-19-lincle"
 ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+booru = "beatmania_iidx_19_lincle"
 signature = ["cursor", "ansi4", "ansi3"]
+
+[meta.booru_sites]
+konachan = []
+yande = []
+zerochan = []
 
 [colors]
 background = "#201511"

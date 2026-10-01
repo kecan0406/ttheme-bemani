@@ -1,7 +1,13 @@
 [meta]
 name = "iidx-28-bistrover"
 ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+booru = "beatmania_iidx_28_bistrover"
 signature = ["cursor", "ansi4", "ansi11"]
+
+[meta.booru_sites]
+konachan = []
+yande = []
+zerochan = []
 
 [colors]
 background = "#201511"

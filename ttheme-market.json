@@ -1367,6 +1367,12 @@
       "group": "kecan0406@bemani",
       "order": 1000000,
       "ansiSource": "Liquid Carbon + IIDXSERIES",
+      "booru": "beatmania_iidx_10th_style",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
       "background": "#211513",
       "foreground": "#e2e2e2",
       "cursor": "#d95742",
@@ -1422,6 +1428,12 @@
       "group": "kecan0406@bemani",
       "order": 1000000,
       "ansiSource": "Liquid Carbon + IIDXSERIES",
+      "booru": "beatmania_iidx_11_iidx_red",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
       "background": "#211513",
       "foreground": "#e2e2e2",
       "cursor": "#d75543",
@@ -1477,6 +1489,12 @@
       "group": "kecan0406@bemani",
       "order": 1000000,
       "ansiSource": "Catppuccin Macchiato + IIDXSERIES",
+      "booru": "beatmania_iidx_12_happy_sky",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
       "background": "#13181e",
       "foreground": "#e2e2e2",
       "cursor": "#007fc9",
@@ -1532,6 +1550,12 @@
       "group": "kecan0406@bemani",
       "order": 1000000,
       "ansiSource": "Tomorrow Night Eighties + IIDXSERIES",
+      "booru": "beatmania_iidx_13_distorted",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
       "background": "#161818",
       "foreground": "#e2e2e2",
       "cursor": "#a5a6a6",
@@ -1587,6 +1611,12 @@
       "group": "kecan0406@bemani",
       "order": 1000000,
       "ansiSource": "Catppuccin Macchiato + IIDXSERIES",
+      "booru": "beatmania_iidx_14_gold",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
       "background": "#1a180d",
       "foreground": "#e2e2e2",
       "cursor": "#d7be52",
@@ -1642,6 +1672,12 @@
       "group": "kecan0406@bemani",
       "order": 1000000,
       "ansiSource": "Pencil Dark + IIDXSERIES",
+      "booru": "beatmania_iidx_15_dj_troopers",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
       "background": "#201511",
       "foreground": "#e2e2e2",
       "cursor": "#a44b29",
@@ -1697,6 +1733,12 @@
       "group": "kecan0406@bemani",
       "order": 1000000,
       "ansiSource": "Paraiso Dark + IIDXSERIES",
+      "booru": "beatmania_iidx_16_empress",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
       "background": "#201516",
       "foreground": "#fbdbdd",
       "cursor": "#b73a55",
@@ -1752,6 +1794,12 @@
       "group": "kecan0406@bemani",
       "order": 1000000,
       "ansiSource": "Catppuccin Macchiato + IIDXSERIES",
+      "booru": "beatmania_iidx_17_sirius",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
       "background": "#12181d",
       "foreground": "#e2e2e2",
       "cursor": "#1b9ed6",
@@ -1807,6 +1855,12 @@
       "group": "kecan0406@bemani",
       "order": 1000000,
       "ansiSource": "Liquid Carbon + IIDXSERIES",
+      "booru": "beatmania_iidx_18_resort_anthem",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
       "background": "#211513",
       "foreground": "#fddbd6",
       "cursor": "#b83e2f",
@@ -1862,6 +1916,12 @@
       "group": "kecan0406@bemani",
       "order": 1000000,
       "ansiSource": "Catppuccin Macchiato + IIDXSERIES",
+      "booru": "beatmania_iidx_19_lincle",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
       "background": "#201511",
       "foreground": "#fddbd2",
       "cursor": "#d75932",
@@ -1972,6 +2032,12 @@
       "group": "kecan0406@bemani",
       "order": 1000000,
       "ansiSource": "Catppuccin Macchiato + IIDXSERIES",
+      "booru": "beatmania_iidx_20_tricoro",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
       "background": "#201513",
       "foreground": "#fddbd6",
       "cursor": "#c6483d",
@@ -2027,6 +2093,12 @@
       "group": "kecan0406@bemani",
       "order": 1000000,
       "ansiSource": "Liquid Carbon + IIDXSERIES",
+      "booru": "beatmania_iidx_21_spada",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
       "background": "#201513",
       "foreground": "#e3e2e1",
       "cursor": "#c6483c",
@@ -2082,6 +2154,12 @@
       "group": "kecan0406@bemani",
       "order": 1000000,
       "ansiSource": "Catppuccin Macchiato + IIDXSERIES",
+      "booru": "beatmania_iidx_22_pendual",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
       "background": "#1f1519",
       "foreground": "#ebe0dd",
       "cursor": "#d05492",
@@ -2137,6 +2215,12 @@
       "group": "kecan0406@bemani",
       "order": 1000000,
       "ansiSource": "Royal + IIDXSERIES",
+      "booru": "beatmania_iidx_23_copula",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
       "background": "#1b170c",
       "foreground": "#ede2c5",
       "cursor": "#f9ce00",
@@ -2192,6 +2276,12 @@
       "group": "kecan0406@bemani",
       "order": 1000000,
       "ansiSource": "Catppuccin Macchiato + IIDXSERIES",
+      "booru": "beatmania_iidx_24_sinobuz",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
       "background": "#201514",
       "foreground": "#fddbd8",
       "cursor": "#ca4a45",
@@ -2247,6 +2337,12 @@
       "group": "kecan0406@bemani",
       "order": 1000000,
       "ansiSource": "Liquid Carbon + IIDXSERIES",
+      "booru": "beatmania_iidx_25_cannon_ballers",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
       "background": "#201514",
       "foreground": "#fcdbd8",
       "cursor": "#ba3e3d",
@@ -2302,6 +2398,12 @@
       "group": "kecan0406@bemani",
       "order": 1000000,
       "ansiSource": "Royal + IIDXSERIES",
+      "booru": "beatmania_iidx_26_rootage",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
       "background": "#1b170c",
       "foreground": "#eae3bb",
       "cursor": "#f8ce0b",
@@ -2357,6 +2459,12 @@
       "group": "kecan0406@bemani",
       "order": 1000000,
       "ansiSource": "Catppuccin Macchiato + IIDXSERIES",
+      "booru": "beatmania_iidx_27_heroic_verse",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
       "background": "#1d151c",
       "foreground": "#f1ddec",
       "cursor": "#ac4bb2",
@@ -2412,6 +2520,12 @@
       "group": "kecan0406@bemani",
       "order": 1000000,
       "ansiSource": "Catppuccin Macchiato + IIDXSERIES",
+      "booru": "beatmania_iidx_28_bistrover",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
       "background": "#201511",
       "foreground": "#fddbd1",
       "cursor": "#e46434",
@@ -2467,6 +2581,12 @@
       "group": "kecan0406@bemani",
       "order": 1000000,
       "ansiSource": "Pencil Dark + IIDXSERIES",
+      "booru": "beatmania_iidx_29_casthour",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
       "background": "#201511",
       "foreground": "#fddbd2",
       "cursor": "#e5633c",
@@ -2522,6 +2642,12 @@
       "group": "kecan0406@bemani",
       "order": 1000000,
       "ansiSource": "Royal + IIDXSERIES",
+      "booru": "beatmania_iidx_2nd_style",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
       "background": "#1c170c",
       "foreground": "#e2e2e2",
       "cursor": "#facc51",
@@ -2577,6 +2703,12 @@
       "group": "kecan0406@bemani",
       "order": 1000000,
       "ansiSource": "Catppuccin Macchiato + IIDXSERIES",
+      "booru": "beatmania_iidx_30_resident",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
       "background": "#15171e",
       "foreground": "#dee2f2",
       "cursor": "#3274e8",
@@ -2632,6 +2764,12 @@
       "group": "kecan0406@bemani",
       "order": 1000000,
       "ansiSource": "Catppuccin Macchiato + IIDXSERIES",
+      "booru": "beatmania_iidx_31_epolis",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
       "background": "#18180e",
       "foreground": "#e2e2e2",
       "cursor": "#d0da31",
@@ -2687,6 +2825,12 @@
       "group": "kecan0406@bemani",
       "order": 1000000,
       "ansiSource": "Catppuccin Macchiato + IIDXSERIES",
+      "booru": "beatmania_iidx_32_pinky_crush",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
       "background": "#1f1518",
       "foreground": "#f8dbe3",
       "cursor": "#d5558e",
@@ -2742,6 +2886,12 @@
       "group": "kecan0406@bemani",
       "order": 1000000,
       "ansiSource": "Catppuccin Macchiato + IIDXSERIES",
+      "booru": "beatmania_iidx_33_sparkle_shower",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
       "background": "#131913",
       "foreground": "#e2e2e2",
       "cursor": "#01903a",
@@ -2852,6 +3002,12 @@
       "group": "kecan0406@bemani",
       "order": 1000000,
       "ansiSource": "Catppuccin Macchiato + IIDXSERIES",
+      "booru": "beatmania_iidx_3rd_style",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
       "background": "#1f1518",
       "foreground": "#e2e2e2",
       "cursor": "#c6487c",
@@ -2907,6 +3063,12 @@
       "group": "kecan0406@bemani",
       "order": 1000000,
       "ansiSource": "Liquid Carbon + IIDXSERIES",
+      "booru": "beatmania_iidx_4th_style",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
       "background": "#201513",
       "foreground": "#e2e2e3",
       "cursor": "#c6483c",
@@ -2962,6 +3124,12 @@
       "group": "kecan0406@bemani",
       "order": 1000000,
       "ansiSource": "Whimsy + IIDXSERIES",
+      "booru": "beatmania_iidx_5th_style",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
       "background": "#1e160d",
       "foreground": "#e2e2e2",
       "cursor": "#f5a100",
@@ -3017,6 +3185,12 @@
       "group": "kecan0406@bemani",
       "order": 1000000,
       "ansiSource": "Catppuccin Macchiato + IIDXSERIES",
+      "booru": "beatmania_iidx_6th_style",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
       "background": "#19161e",
       "foreground": "#e2e2e2",
       "cursor": "#9983be",
@@ -3072,6 +3246,12 @@
       "group": "kecan0406@bemani",
       "order": 1000000,
       "ansiSource": "Catppuccin Macchiato + IIDXSERIES",
+      "booru": "beatmania_iidx_7th_style",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
       "background": "#11191c",
       "foreground": "#e2e2e2",
       "cursor": "#7c8c95",
@@ -3127,6 +3307,12 @@
       "group": "kecan0406@bemani",
       "order": 1000000,
       "ansiSource": "Pencil Dark + IIDXSERIES",
+      "booru": "beatmania_iidx_8th_style",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
       "background": "#20150e",
       "foreground": "#e1e3e3",
       "cursor": "#ef7e00",
@@ -3182,6 +3368,12 @@
       "group": "kecan0406@bemani",
       "order": 1000000,
       "ansiSource": "Aardvark Ink + IIDXSERIES",
+      "booru": "beatmania_iidx_9th_style",
+      "booruSites": {
+        "konachan": [],
+        "yande": [],
+        "zerochan": []
+      },
       "background": "#191716",
       "foreground": "#e2e2e2",
       "cursor": "#918c8a",

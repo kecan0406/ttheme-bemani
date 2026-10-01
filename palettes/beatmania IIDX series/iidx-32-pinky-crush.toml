@@ -1,7 +1,13 @@
 [meta]
 name = "iidx-32-pinky-crush"
 ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+booru = "beatmania_iidx_32_pinky_crush"
 signature = ["cursor", "ansi11", "ansi14"]
+
+[meta.booru_sites]
+konachan = []
+yande = []
+zerochan = []
 
 [colors]
 background = "#1f1518"

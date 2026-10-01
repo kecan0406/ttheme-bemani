@@ -1,7 +1,13 @@
 [meta]
 name = "iidx-10th-style"
 ansi_source = "Liquid Carbon + IIDXSERIES"
+booru = "beatmania_iidx_10th_style"
 signature = ["cursor", "selection", "foreground"]
+
+[meta.booru_sites]
+konachan = []
+yande = []
+zerochan = []
 
 [colors]
 background = "#211513"

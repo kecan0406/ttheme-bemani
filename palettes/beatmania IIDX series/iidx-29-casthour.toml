@@ -1,7 +1,13 @@
 [meta]
 name = "iidx-29-casthour"
 ansi_source = "Pencil Dark + IIDXSERIES"
+booru = "beatmania_iidx_29_casthour"
 signature = ["cursor", "selection", "ansi3"]
+
+[meta.booru_sites]
+konachan = []
+yande = []
+zerochan = []
 
 [colors]
 background = "#201511"

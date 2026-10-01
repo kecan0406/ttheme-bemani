@@ -1,7 +1,13 @@
 [meta]
 name = "iidx-23-copula"
 ansi_source = "Royal + IIDXSERIES"
+booru = "beatmania_iidx_23_copula"
 signature = ["cursor", "ansi3", "selection"]
+
+[meta.booru_sites]
+konachan = []
+yande = []
+zerochan = []
 
 [colors]
 background = "#1b170c"

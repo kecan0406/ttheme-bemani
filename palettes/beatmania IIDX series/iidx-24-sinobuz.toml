@@ -1,7 +1,13 @@
 [meta]
 name = "iidx-24-sinobuz"
 ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+booru = "beatmania_iidx_24_sinobuz"
 signature = ["cursor", "ansi6", "selection"]
+
+[meta.booru_sites]
+konachan = []
+yande = []
+zerochan = []
 
 [colors]
 background = "#201514"
