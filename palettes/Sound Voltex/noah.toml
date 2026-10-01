@@ -1,0 +1,31 @@
+[meta]
+name = "noah"
+native_names = ["ノア", "ニア&ノア"]
+ansi_source = "Catppuccin Macchiato + SDVX"
+booru = "noah_(sound_voltex)"
+signature = ["cursor", "ansi11", "ansi3"]
+
+[colors]
+background = "#12181e"
+foreground = "#d9e4f0"
+cursor = "#94ccfa"
+selection_background = "#4a3a37"
+ansi = [
+  "#1e242a",
+  "#e283a3",
+  "#6cba95",
+  "#f0ae6b",
+  "#71a3e3",
+  "#ae9dd4",
+  "#74bcc7",
+  "#c1c7ce",
+
+  "#72787e",
+  "#f1aec3",
+  "#9ed8ba",
+  "#efdf69",
+  "#a2c3f1",
+  "#d2bbff",
+  "#99dde9",
+  "#e4effb",
+]

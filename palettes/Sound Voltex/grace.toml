@@ -1,0 +1,31 @@
+[meta]
+name = "grace"
+native_names = ["グレイス"]
+ansi_source = "Catppuccin Macchiato + SDVX"
+booru = "grace_(sound_voltex)"
+signature = ["cursor", "selection", "ansi13"]
+
+[colors]
+background = "#1e151a"
+foreground = "#f6dce6"
+cursor = "#f592c9"
+selection_background = "#612698"
+ansi = [
+  "#2b2126",
+  "#e483a0",
+  "#bbaf4d",
+  "#f0ae7c",
+  "#a994e4",
+  "#ce94ba",
+  "#89b5de",
+  "#d4c2c8",
+
+  "#827379",
+  "#f6acc2",
+  "#d9cf7e",
+  "#fcd6b9",
+  "#c8b9f2",
+  "#edb5e2",
+  "#add6ff",
+  "#ffe8f1",
+]

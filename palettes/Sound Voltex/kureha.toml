@@ -1,0 +1,31 @@
+[meta]
+name = "kureha"
+native_names = ["紅刃", "クレハ"]
+ansi_source = "Liquid Carbon + SDVX"
+booru = "kureha_(sound_voltex)"
+signature = ["cursor", "selection", "foreground"]
+
+[colors]
+background = "#211513"
+foreground = "#e9e1df"
+cursor = "#b43c2c"
+selection_background = "#4b282b"
+ansi = [
+  "#2e211e",
+  "#ff7767",
+  "#b5ae55",
+  "#ffa932",
+  "#a394f2",
+  "#fc7ab5",
+  "#8fbc88",
+  "#d8c2be",
+
+  "#857370",
+  "#ffaca1",
+  "#d7cf72",
+  "#ffd6a9",
+  "#c4b8ff",
+  "#ffb0cf",
+  "#b0dea7",
+  "#ffe9e5",
+]

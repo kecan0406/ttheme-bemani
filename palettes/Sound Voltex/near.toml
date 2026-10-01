@@ -1,0 +1,31 @@
+[meta]
+name = "near"
+native_names = ["ニア", "ニア&ノア"]
+ansi_source = "Catppuccin Macchiato + SDVX"
+booru = "near_(sound_voltex)"
+signature = ["cursor", "selection", "ansi3"]
+
+[colors]
+background = "#13181e"
+foreground = "#dae3f1"
+cursor = "#a8d1fb"
+selection_background = "#483456"
+ansi = [
+  "#1f242a",
+  "#e183a3",
+  "#6cba95",
+  "#f0ae6b",
+  "#73a3e4",
+  "#af9dd3",
+  "#74bbc9",
+  "#c2c7cf",
+
+  "#72777f",
+  "#f2aec3",
+  "#9fd8bb",
+  "#f3d79b",
+  "#a4c3f2",
+  "#d4bbff",
+  "#99dcea",
+  "#e5effc",
+]
