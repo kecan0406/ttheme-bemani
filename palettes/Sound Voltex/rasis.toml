@@ -11,7 +11,7 @@ zerochan = "rasis_(sound_voltex)"
 [colors]
 background = "#1f1518"
 foreground = "#ecdfe8"
-cursor = "#f890b5"
+cursor = "#f870a7"
 selection_background = "#583f51"
 ansi = [
   "#2c2124",
@@ -25,9 +25,9 @@ ansi = [
 
   "#837377",
   "#f8acbd",
-  "#d9cf7e",
+  "#dacf7e",
   "#fdd5b8",
-  "#ccb8f0",
+  "#cbb8f1",
   "#ffaeda",
   "#add6ff",
   "#ffe8ed",

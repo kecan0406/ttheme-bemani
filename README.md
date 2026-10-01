@@ -13,7 +13,7 @@ Each game is a catalog. Every palette's colors are measured from the character's
 
 | Palette | Character | Cursor |
 | --- | --- | --- |
-| `rasis` | レイシス | `#f890b5` |
+| `rasis` | レイシス | `#f870a7` |
 | `grace` | グレイス | `#f592c9` |
 | `near` | ニア | `#a8d1fb` |
 | `noah` | ノア | `#94ccfa` |
