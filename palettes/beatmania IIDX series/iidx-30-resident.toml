@@ -1,0 +1,29 @@
+[meta]
+name = "iidx-30-resident"
+ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+signature = ["cursor", "selection", "ansi6"]
+
+[colors]
+background = "#15171e"
+foreground = "#dee2f2"
+cursor = "#3274e8"
+selection_background = "#66298a"
+ansi = [
+  "#21242b",
+  "#e383a3",
+  "#70bb94",
+  "#eeaf80",
+  "#7fa0e7",
+  "#b69bd0",
+  "#00c7a9",
+  "#c5c6d0",
+
+  "#757780",
+  "#f2adc3",
+  "#a0d9bc",
+  "#f9d49c",
+  "#abc1f3",
+  "#deb7ff",
+  "#98dedf",
+  "#eaedfe",
+]

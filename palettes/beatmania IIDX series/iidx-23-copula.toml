@@ -1,0 +1,29 @@
+[meta]
+name = "iidx-23-copula"
+ansi_source = "Royal + IIDXSERIES"
+signature = ["cursor", "ansi3", "selection"]
+
+[colors]
+background = "#1b170c"
+foreground = "#ede2c5"
+cursor = "#f9ce00"
+selection_background = "#46474a"
+ansi = [
+  "#272318",
+  "#f87e4a",
+  "#96b823",
+  "#f4af00",
+  "#60acb2",
+  "#ea89a3",
+  "#7abdab",
+  "#cec6b4",
+
+  "#7d7767",
+  "#ffad8c",
+  "#b2da47",
+  "#fbdd2b",
+  "#68d1d4",
+  "#ffb1c1",
+  "#9bdfca",
+  "#f9edd0",
+]

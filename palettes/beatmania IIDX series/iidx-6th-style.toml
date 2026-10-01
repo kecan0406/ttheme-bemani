@@ -1,0 +1,29 @@
+[meta]
+name = "iidx-6th-style"
+ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+signature = ["cursor", "selection", "foreground"]
+
+[colors]
+background = "#19161e"
+foreground = "#e2e2e2"
+cursor = "#9983be"
+selection_background = "#464747"
+ansi = [
+  "#26222a",
+  "#e384a4",
+  "#6ebb96",
+  "#efb080",
+  "#929be8",
+  "#c298c8",
+  "#7fb8d8",
+  "#cbc4cf",
+
+  "#7a757f",
+  "#f4aec3",
+  "#a1d9bc",
+  "#fad7be",
+  "#b7bdf4",
+  "#f5adff",
+  "#a3d9f9",
+  "#f4eafd",
+]

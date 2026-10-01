@@ -1,0 +1,29 @@
+[meta]
+name = "iidx-27-heroic-verse"
+ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+signature = ["cursor", "ansi4", "ansi14"]
+
+[colors]
+background = "#1d151c"
+foreground = "#f1ddec"
+cursor = "#ac4bb2"
+selection_background = "#4a3a37"
+ansi = [
+  "#292128",
+  "#e384a4",
+  "#bbaf4d",
+  "#f0ae7d",
+  "#9b9adc",
+  "#ca96c0",
+  "#78bcd2",
+  "#d0c3cc",
+
+  "#7f747c",
+  "#f5adc3",
+  "#d9cf7e",
+  "#fbd7bc",
+  "#c1bbf3",
+  "#ffabef",
+  "#88e0e6",
+  "#fde8f7",
+]

@@ -1,0 +1,29 @@
+[meta]
+name = "iidx-substream"
+ansi_source = "Royal + IIDXSERIES"
+signature = ["cursor", "selection", "foreground"]
+
+[colors]
+background = "#1c170c"
+foreground = "#e2e2e2"
+cursor = "#f5cd61"
+selection_background = "#282828"
+ansi = [
+  "#282318",
+  "#f87d4e",
+  "#9ab71e",
+  "#d8b942",
+  "#60acb2",
+  "#e989a5",
+  "#7bbdaa",
+  "#cfc5b4",
+
+  "#7e7667",
+  "#ffad8f",
+  "#b6da42",
+  "#fedb29",
+  "#68d1d4",
+  "#ffb1c3",
+  "#9cdfc9",
+  "#fbecd0",
+]

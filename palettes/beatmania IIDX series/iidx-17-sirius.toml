@@ -1,0 +1,29 @@
+[meta]
+name = "iidx-17-sirius"
+ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+signature = ["cursor", "selection", "foreground"]
+
+[colors]
+background = "#12181d"
+foreground = "#e2e2e2"
+cursor = "#1b9ed6"
+selection_background = "#112555"
+ansi = [
+  "#1e2529",
+  "#e183a3",
+  "#6cba95",
+  "#b4c183",
+  "#6da4e2",
+  "#ab9ed5",
+  "#73bcc5",
+  "#c1c7ce",
+
+  "#71787e",
+  "#f2adc2",
+  "#9ed8ba",
+  "#d5e2a3",
+  "#a0c4f0",
+  "#cfbcff",
+  "#98dde7",
+  "#e3f0fa",
+]

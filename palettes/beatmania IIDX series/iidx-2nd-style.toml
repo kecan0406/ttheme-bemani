@@ -1,0 +1,29 @@
+[meta]
+name = "iidx-2nd-style"
+ansi_source = "Royal + IIDXSERIES"
+signature = ["cursor", "selection", "foreground"]
+
+[colors]
+background = "#1c170c"
+foreground = "#e2e2e2"
+cursor = "#facc51"
+selection_background = "#282828"
+ansi = [
+  "#282318",
+  "#f87d4f",
+  "#9bb71c",
+  "#d9b942",
+  "#60acb2",
+  "#e989a5",
+  "#7bbda9",
+  "#cfc5b4",
+
+  "#7e7667",
+  "#ffad8f",
+  "#b7d941",
+  "#ffdb28",
+  "#68d1d4",
+  "#ffb1c4",
+  "#9cdfc8",
+  "#fbecd0",
+]

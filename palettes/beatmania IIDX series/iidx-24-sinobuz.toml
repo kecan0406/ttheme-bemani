@@ -1,0 +1,29 @@
+[meta]
+name = "iidx-24-sinobuz"
+ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+signature = ["cursor", "ansi6", "selection"]
+
+[colors]
+background = "#201514"
+foreground = "#fddbd8"
+cursor = "#ca4a45"
+selection_background = "#2a2728"
+ansi = [
+  "#2d211f",
+  "#e98389",
+  "#baae4d",
+  "#edaf77",
+  "#ba8fdc",
+  "#d692ac",
+  "#80bda0",
+  "#d8c2bf",
+
+  "#857371",
+  "#fbacb0",
+  "#d9cf7f",
+  "#ffd5b1",
+  "#d0b6ef",
+  "#ffb0cb",
+  "#acdfa9",
+  "#ffe9e7",
+]

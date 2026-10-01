@@ -1,0 +1,29 @@
+[meta]
+name = "iidx-21-spada"
+ansi_source = "Liquid Carbon + IIDXSERIES"
+signature = ["cursor", "selection", "foreground"]
+
+[colors]
+background = "#201513"
+foreground = "#e3e2e1"
+cursor = "#c6483c"
+selection_background = "#3e1f1d"
+ansi = [
+  "#2e211f",
+  "#ff7669",
+  "#b7ae54",
+  "#ffa937",
+  "#a394f2",
+  "#fb7bb7",
+  "#8fbc88",
+  "#d8c2be",
+
+  "#857370",
+  "#ffaca2",
+  "#d8cf71",
+  "#ffd6aa",
+  "#c4b8ff",
+  "#ffb0d0",
+  "#b0dea7",
+  "#ffe9e6",
+]

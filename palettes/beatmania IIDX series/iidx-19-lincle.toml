@@ -1,0 +1,29 @@
+[meta]
+name = "iidx-19-lincle"
+ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+signature = ["cursor", "ansi4", "ansi3"]
+
+[colors]
+background = "#201511"
+foreground = "#fddbd2"
+cursor = "#d75932"
+selection_background = "#4a3a37"
+ansi = [
+  "#2e211d",
+  "#ea8381",
+  "#baad4e",
+  "#ebb300",
+  "#00ace7",
+  "#d892a7",
+  "#8dbd87",
+  "#d8c2bc",
+
+  "#85736e",
+  "#fcacaa",
+  "#ddcc7f",
+  "#ffd5ac",
+  "#9dc8f9",
+  "#ffb1c5",
+  "#aedfa8",
+  "#ffe9e4",
+]

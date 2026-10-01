@@ -1,0 +1,29 @@
+[meta]
+name = "iidx-28-bistrover"
+ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+signature = ["cursor", "ansi4", "ansi11"]
+
+[colors]
+background = "#201511"
+foreground = "#fddbd1"
+cursor = "#e46434"
+selection_background = "#4a3a37"
+ansi = [
+  "#2d211d",
+  "#ea837f",
+  "#beac4d",
+  "#e9b173",
+  "#3fa8ed",
+  "#d992a5",
+  "#8dbe87",
+  "#d8c2bb",
+
+  "#85736d",
+  "#fcaca9",
+  "#d3d182",
+  "#ffd968",
+  "#a7c5fb",
+  "#ffb1c4",
+  "#aedfa8",
+  "#ffe9e3",
+]

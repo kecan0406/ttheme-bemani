@@ -1,0 +1,29 @@
+[meta]
+name = "iidx-34-zinrai"
+ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+signature = ["cursor", "selection", "ansi10"]
+
+[colors]
+background = "#1d151b"
+foreground = "#f2dceb"
+cursor = "#e072d5"
+selection_background = "#340870"
+ansi = [
+  "#2a2128",
+  "#e184a9",
+  "#a9b557",
+  "#efaf7d",
+  "#a396e6",
+  "#cb95bf",
+  "#88b5de",
+  "#d1c2cb",
+
+  "#80747b",
+  "#f4adc8",
+  "#9bde75",
+  "#fbd6bb",
+  "#c3baf3",
+  "#ffaceb",
+  "#acd6ff",
+  "#fee8f6",
+]

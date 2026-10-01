@@ -1,0 +1,29 @@
+[meta]
+name = "iidx-8th-style"
+ansi_source = "Pencil Dark + IIDXSERIES"
+signature = ["cursor", "selection", "foreground"]
+
+[colors]
+background = "#20150e"
+foreground = "#e1e3e3"
+cursor = "#ef7e00"
+selection_background = "#2e2626"
+ansi = [
+  "#2d211a",
+  "#ff7573",
+  "#9db543",
+  "#e9b32e",
+  "#a992ef",
+  "#da8fb7",
+  "#74c185",
+  "#d6c3b7",
+
+  "#84746a",
+  "#ffaca3",
+  "#bad76d",
+  "#ffd887",
+  "#c7b7ff",
+  "#ffade5",
+  "#99e2a7",
+  "#ffeadd",
+]

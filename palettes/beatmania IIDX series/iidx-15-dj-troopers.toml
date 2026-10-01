@@ -1,0 +1,29 @@
+[meta]
+name = "iidx-15-dj-troopers"
+ansi_source = "Pencil Dark + IIDXSERIES"
+signature = ["cursor", "selection", "foreground"]
+
+[colors]
+background = "#201511"
+foreground = "#e2e2e2"
+cursor = "#a44b29"
+selection_background = "#4a1710"
+ansi = [
+  "#2d211c",
+  "#ff7484",
+  "#a9b238",
+  "#f3af31",
+  "#a992ef",
+  "#d590bf",
+  "#74c185",
+  "#d8c2bb",
+
+  "#85736d",
+  "#ffabac",
+  "#c6d563",
+  "#ffd79a",
+  "#c7b7ff",
+  "#ffaaf4",
+  "#99e2a7",
+  "#ffe9e3",
+]

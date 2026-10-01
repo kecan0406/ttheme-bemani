@@ -1,0 +1,29 @@
+[meta]
+name = "iidx-29-casthour"
+ansi_source = "Pencil Dark + IIDXSERIES"
+signature = ["cursor", "selection", "ansi3"]
+
+[colors]
+background = "#201511"
+foreground = "#fddbd2"
+cursor = "#e5633c"
+selection_background = "#004c6b"
+ansi = [
+  "#2e211d",
+  "#ff7387",
+  "#acb235",
+  "#f8ad00",
+  "#a992ef",
+  "#d490c1",
+  "#74c185",
+  "#d8c2bc",
+
+  "#85736e",
+  "#ffaaad",
+  "#c8d461",
+  "#ffd79c",
+  "#c7b7ff",
+  "#ffaaf8",
+  "#99e2a7",
+  "#ffe9e4",
+]

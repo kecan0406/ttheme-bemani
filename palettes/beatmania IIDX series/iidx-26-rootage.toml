@@ -1,0 +1,29 @@
+[meta]
+name = "iidx-26-rootage"
+ansi_source = "Royal + IIDXSERIES"
+signature = ["cursor", "selection", "foreground"]
+
+[colors]
+background = "#1b170c"
+foreground = "#eae3bb"
+cursor = "#f8ce0b"
+selection_background = "#3d2011"
+ansi = [
+  "#272318",
+  "#f87e49",
+  "#96b824",
+  "#d6ba43",
+  "#60acb2",
+  "#ea89a3",
+  "#7abdab",
+  "#cec6b4",
+
+  "#7d7767",
+  "#ffad8c",
+  "#b1db47",
+  "#fadd2c",
+  "#68d1d4",
+  "#ffb1c1",
+  "#9bdfcb",
+  "#f9edd0",
+]

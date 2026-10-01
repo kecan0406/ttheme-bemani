@@ -1,0 +1,29 @@
+[meta]
+name = "iidx-16-empress"
+ansi_source = "Paraiso Dark + IIDXSERIES"
+signature = ["cursor", "selection", "ansi3"]
+
+[colors]
+background = "#201516"
+foreground = "#fbdbdd"
+cursor = "#b73a55"
+selection_background = "#4b172e"
+ansi = [
+  "#2d2122",
+  "#ff7577",
+  "#bbad35",
+  "#f6ab70",
+  "#9995fe",
+  "#d78ecc",
+  "#81b4ee",
+  "#d7c1c3",
+
+  "#847374",
+  "#ffaba9",
+  "#dece53",
+  "#ffd5b7",
+  "#bdbaff",
+  "#faaeee",
+  "#b2d5ff",
+  "#ffe9ea",
+]

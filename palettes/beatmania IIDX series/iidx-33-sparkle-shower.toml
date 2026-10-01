@@ -1,0 +1,29 @@
+[meta]
+name = "iidx-33-sparkle-shower"
+ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+signature = ["cursor", "ansi11", "foreground"]
+
+[colors]
+background = "#131913"
+foreground = "#e2e2e2"
+cursor = "#01903a"
+selection_background = "#4a3a37"
+ansi = [
+  "#1f251e",
+  "#e88463",
+  "#82b97a",
+  "#bfc076",
+  "#3fadc9",
+  "#dd8fa2",
+  "#7abea4",
+  "#c1c9be",
+
+  "#727970",
+  "#fdab91",
+  "#acd8a4",
+  "#ece12c",
+  "#8acbde",
+  "#ffafc2",
+  "#9ddfc6",
+  "#e4f2e0",
+]

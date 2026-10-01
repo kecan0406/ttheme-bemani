@@ -1,0 +1,29 @@
+[meta]
+name = "iidx-1st-style"
+ansi_source = "Tomorrow Night Eighties + IIDXSERIES"
+signature = ["cursor", "selection", "foreground"]
+
+[colors]
+background = "#161819"
+foreground = "#e2e2e2"
+cursor = "#bababb"
+selection_background = "#282828"
+ansi = [
+  "#222425",
+  "#f77b7e",
+  "#85b786",
+  "#e5b451",
+  "#72a5d8",
+  "#c895c8",
+  "#59c0c0",
+  "#c6c6c7",
+
+  "#767778",
+  "#ffabaa",
+  "#a5d9a5",
+  "#ffd78e",
+  "#93c5fb",
+  "#ebb5ea",
+  "#7de2e2",
+  "#eeeeee",
+]

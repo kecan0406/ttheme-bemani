@@ -1,0 +1,29 @@
+[meta]
+name = "iidx-22-pendual"
+ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+signature = ["cursor", "selection", "foreground"]
+
+[colors]
+background = "#1f1519"
+foreground = "#ebe0dd"
+cursor = "#d05492"
+selection_background = "#47181f"
+ansi = [
+  "#2c2125",
+  "#e5839d",
+  "#bbaf4c",
+  "#f0ae7b",
+  "#ac94e3",
+  "#d094b8",
+  "#89b5de",
+  "#d4c2c7",
+
+  "#837378",
+  "#f7acbf",
+  "#dad07e",
+  "#fdd5b9",
+  "#cab8f1",
+  "#ffaedd",
+  "#add6ff",
+  "#ffe8ef",
+]

@@ -1,0 +1,29 @@
+[meta]
+name = "iidx-14-gold"
+ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+signature = ["cursor", "selection", "foreground"]
+
+[colors]
+background = "#1a180d"
+foreground = "#e2e2e2"
+cursor = "#d7be52"
+selection_background = "#312522"
+ansi = [
+  "#272418",
+  "#e98564",
+  "#9eb461",
+  "#d5b96e",
+  "#35b0bb",
+  "#db90a2",
+  "#8abd8f",
+  "#cdc6b4",
+
+  "#7c7767",
+  "#fdae94",
+  "#c1d490",
+  "#f7db8c",
+  "#86cdd3",
+  "#fdb2c3",
+  "#acdeb0",
+  "#f8edd1",
+]

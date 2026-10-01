@@ -1,0 +1,29 @@
+[meta]
+name = "iidx-9th-style"
+ansi_source = "Aardvark Ink + IIDXSERIES"
+signature = ["cursor", "selection", "foreground"]
+
+[colors]
+background = "#191716"
+foreground = "#e2e2e2"
+cursor = "#918c8a"
+selection_background = "#312522"
+ansi = [
+  "#262322",
+  "#eb8285",
+  "#65be71",
+  "#cfbb66",
+  "#6ca1f8",
+  "#d983fa",
+  "#55c1bd",
+  "#cbc5c3",
+
+  "#7b7674",
+  "#ffabaa",
+  "#85e093",
+  "#f1dd85",
+  "#9dc3ff",
+  "#ecb1ff",
+  "#74e3df",
+  "#f3ecea",
+]

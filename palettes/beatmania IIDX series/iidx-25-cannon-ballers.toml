@@ -1,0 +1,29 @@
+[meta]
+name = "iidx-25-cannon-ballers"
+ansi_source = "Liquid Carbon + IIDXSERIES"
+signature = ["cursor", "ansi2", "selection"]
+
+[colors]
+background = "#201514"
+foreground = "#fcdbd8"
+cursor = "#ba3e3d"
+selection_background = "#352420"
+ansi = [
+  "#2d2120",
+  "#ff766d",
+  "#4ec079",
+  "#ffa93f",
+  "#a294f2",
+  "#fa7bba",
+  "#8db5e2",
+  "#d8c2c0",
+
+  "#857371",
+  "#ffaba4",
+  "#addc8c",
+  "#ffd5ac",
+  "#c3b8ff",
+  "#ffafd2",
+  "#b3d6fd",
+  "#ffe9e7",
+]

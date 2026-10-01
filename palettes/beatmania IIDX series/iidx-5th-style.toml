@@ -1,0 +1,29 @@
+[meta]
+name = "iidx-5th-style"
+ansi_source = "Whimsy + IIDXSERIES"
+signature = ["cursor", "selection", "foreground"]
+
+[colors]
+background = "#1e160d"
+foreground = "#e2e2e2"
+cursor = "#f5a100"
+selection_background = "#073190"
+ansi = [
+  "#2b2218",
+  "#ff7854",
+  "#9ab645",
+  "#e2b55b",
+  "#00b3ad",
+  "#f87db2",
+  "#7fc07a",
+  "#d3c4b4",
+
+  "#817568",
+  "#ffad97",
+  "#bad862",
+  "#ffd78f",
+  "#3ad5cf",
+  "#ffb0ce",
+  "#9fe298",
+  "#ffebd5",
+]

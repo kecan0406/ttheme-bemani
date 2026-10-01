@@ -1,0 +1,29 @@
+[meta]
+name = "iidx-12-happy-sky"
+ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+signature = ["cursor", "selection", "foreground"]
+
+[colors]
+background = "#13181e"
+foreground = "#e2e2e2"
+cursor = "#007fc9"
+selection_background = "#12398b"
+ansi = [
+  "#1f242a",
+  "#e283a3",
+  "#6dba95",
+  "#b4c183",
+  "#74a2e4",
+  "#b09dd3",
+  "#75bbc9",
+  "#c2c7cf",
+
+  "#72777f",
+  "#f1aec3",
+  "#9fd8bb",
+  "#d5e2a4",
+  "#a4c3f2",
+  "#d5baff",
+  "#99dceb",
+  "#e5effc",
+]

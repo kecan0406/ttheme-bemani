@@ -1,0 +1,29 @@
+[meta]
+name = "iidx-20-tricoro"
+ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+signature = ["cursor", "ansi11", "ansi4"]
+
+[colors]
+background = "#201513"
+foreground = "#fddbd6"
+cursor = "#c6483d"
+selection_background = "#4a3a37"
+ansi = [
+  "#2d211f",
+  "#e98387",
+  "#baae4e",
+  "#e6b371",
+  "#51a5f7",
+  "#d692ab",
+  "#8dbd87",
+  "#d8c2bf",
+
+  "#857370",
+  "#fbacaf",
+  "#d0d182",
+  "#ffda5a",
+  "#afc2fb",
+  "#ffb0ca",
+  "#aedfa8",
+  "#ffe9e6",
+]

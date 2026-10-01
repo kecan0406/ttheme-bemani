@@ -1363,6 +1363,1931 @@
       "catalog": "beatmania IIDX"
     },
     {
+      "name": "iidx-10th-style",
+      "group": "kecan0406@bemani",
+      "order": 1000000,
+      "ansiSource": "Liquid Carbon + IIDXSERIES",
+      "background": "#211513",
+      "foreground": "#e2e2e2",
+      "cursor": "#d95742",
+      "selection": "#0f235c",
+      "signature": [
+        "#d95742",
+        "#0f235c",
+        "#e2e2e2"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "foreground"
+      ],
+      "ansi": [
+        "#2e211e",
+        "#ff7767",
+        "#b5ae55",
+        "#ffa931",
+        "#a394f2",
+        "#fc7ab4",
+        "#8fbc88",
+        "#d8c2be",
+        "#857370",
+        "#ffaca0",
+        "#d7cf72",
+        "#ffd6a9",
+        "#c4b8ff",
+        "#ffb0ce",
+        "#b0dea7",
+        "#ffe9e5"
+      ],
+      "gate": [
+        13.722,
+        6.836,
+        0.018,
+        10.48,
+        3.965,
+        11.454,
+        0,
+        1.908,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#d95742",
+        "opacity": 0.23
+      },
+      "catalog": "beatmania IIDX series"
+    },
+    {
+      "name": "iidx-11-red",
+      "group": "kecan0406@bemani",
+      "order": 1000000,
+      "ansiSource": "Liquid Carbon + IIDXSERIES",
+      "background": "#211513",
+      "foreground": "#e2e2e2",
+      "cursor": "#d75543",
+      "selection": "#282828",
+      "signature": [
+        "#d75543",
+        "#282828",
+        "#e2e2e2"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "foreground"
+      ],
+      "ansi": [
+        "#2e211f",
+        "#ff7668",
+        "#b6ae55",
+        "#ffa933",
+        "#a394f2",
+        "#fb7ab5",
+        "#8fbc88",
+        "#d8c2be",
+        "#857370",
+        "#ffaca1",
+        "#d8cf72",
+        "#ffd6a9",
+        "#c4b8ff",
+        "#ffb0cf",
+        "#b0dea7",
+        "#ffe9e6"
+      ],
+      "gate": [
+        13.722,
+        6.809,
+        0.018,
+        10.48,
+        3.965,
+        11.381,
+        0,
+        1.908,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#d75543",
+        "opacity": 0.23
+      },
+      "catalog": "beatmania IIDX series"
+    },
+    {
+      "name": "iidx-12-happy-sky",
+      "group": "kecan0406@bemani",
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + IIDXSERIES",
+      "background": "#13181e",
+      "foreground": "#e2e2e2",
+      "cursor": "#007fc9",
+      "selection": "#12398b",
+      "signature": [
+        "#007fc9",
+        "#12398b",
+        "#e2e2e2"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "foreground"
+      ],
+      "ansi": [
+        "#1f242a",
+        "#e283a3",
+        "#6dba95",
+        "#b4c183",
+        "#74a2e4",
+        "#b09dd3",
+        "#75bbc9",
+        "#c2c7cf",
+        "#72777f",
+        "#f1aec3",
+        "#9fd8bb",
+        "#d5e2a4",
+        "#a4c3f2",
+        "#d5baff",
+        "#99dceb",
+        "#e5effc"
+      ],
+      "gate": [
+        13.772,
+        6.804,
+        0.017,
+        10.504,
+        3.959,
+        8.171,
+        0,
+        1.66,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#007fc9",
+        "opacity": 0.25
+      },
+      "catalog": "beatmania IIDX series"
+    },
+    {
+      "name": "iidx-13-distorted",
+      "group": "kecan0406@bemani",
+      "order": 1000000,
+      "ansiSource": "Tomorrow Night Eighties + IIDXSERIES",
+      "background": "#161818",
+      "foreground": "#e2e2e2",
+      "cursor": "#a5a6a6",
+      "selection": "#312522",
+      "signature": [
+        "#a5a6a6",
+        "#312522",
+        "#e2e2e2"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "foreground"
+      ],
+      "ansi": [
+        "#222424",
+        "#f77b7e",
+        "#85b786",
+        "#e5b451",
+        "#72a5d8",
+        "#c895c8",
+        "#59c0c0",
+        "#c6c6c6",
+        "#767777",
+        "#ffabaa",
+        "#a5d9a5",
+        "#ffd78e",
+        "#93c5fb",
+        "#ebb5ea",
+        "#7de2e2",
+        "#eeeeee"
+      ],
+      "gate": [
+        13.762,
+        6.867,
+        0.017,
+        10.437,
+        3.969,
+        11.429,
+        0,
+        1.659,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#a5a6a6",
+        "opacity": 0.16
+      },
+      "catalog": "beatmania IIDX series"
+    },
+    {
+      "name": "iidx-14-gold",
+      "group": "kecan0406@bemani",
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + IIDXSERIES",
+      "background": "#1a180d",
+      "foreground": "#e2e2e2",
+      "cursor": "#d7be52",
+      "selection": "#312522",
+      "signature": [
+        "#d7be52",
+        "#312522",
+        "#e2e2e2"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "foreground"
+      ],
+      "ansi": [
+        "#272418",
+        "#e98564",
+        "#9eb461",
+        "#d5b96e",
+        "#35b0bb",
+        "#db90a2",
+        "#8abd8f",
+        "#cdc6b4",
+        "#7c7767",
+        "#fdae94",
+        "#c1d490",
+        "#f7db8c",
+        "#86cdd3",
+        "#fdb2c3",
+        "#acdeb0",
+        "#f8edd1"
+      ],
+      "gate": [
+        13.733,
+        6.781,
+        0.018,
+        10.448,
+        3.975,
+        11.429,
+        0,
+        1.23,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#d7be52",
+        "opacity": 0.14
+      },
+      "catalog": "beatmania IIDX series"
+    },
+    {
+      "name": "iidx-15-dj-troopers",
+      "group": "kecan0406@bemani",
+      "order": 1000000,
+      "ansiSource": "Pencil Dark + IIDXSERIES",
+      "background": "#201511",
+      "foreground": "#e2e2e2",
+      "cursor": "#a44b29",
+      "selection": "#4a1710",
+      "signature": [
+        "#a44b29",
+        "#4a1710",
+        "#e2e2e2"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "foreground"
+      ],
+      "ansi": [
+        "#2d211c",
+        "#ff7484",
+        "#a9b238",
+        "#f3af31",
+        "#a992ef",
+        "#d590bf",
+        "#74c185",
+        "#d8c2bb",
+        "#85736d",
+        "#ffabac",
+        "#c6d563",
+        "#ffd79a",
+        "#c7b7ff",
+        "#ffaaf4",
+        "#99e2a7",
+        "#ffe9e3"
+      ],
+      "gate": [
+        13.775,
+        6.836,
+        0.017,
+        10.498,
+        3.969,
+        11.406,
+        0,
+        7.831,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#a44b29",
+        "opacity": 0.31
+      },
+      "catalog": "beatmania IIDX series"
+    },
+    {
+      "name": "iidx-16-empress",
+      "group": "kecan0406@bemani",
+      "order": 1000000,
+      "ansiSource": "Paraiso Dark + IIDXSERIES",
+      "background": "#201516",
+      "foreground": "#fbdbdd",
+      "cursor": "#b73a55",
+      "selection": "#4b172e",
+      "signature": [
+        "#b73a55",
+        "#4b172e",
+        "#f6ab70"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "ansi3"
+      ],
+      "ansi": [
+        "#2d2122",
+        "#ff7577",
+        "#bbad35",
+        "#f6ab70",
+        "#9995fe",
+        "#d78ecc",
+        "#81b4ee",
+        "#d7c1c3",
+        "#847374",
+        "#ffaba9",
+        "#dece53",
+        "#ffd5b7",
+        "#bdbaff",
+        "#faaeee",
+        "#b2d5ff",
+        "#ffe9ea"
+      ],
+      "gate": [
+        13.792,
+        6.831,
+        0.018,
+        10.426,
+        3.97,
+        11.141,
+        0,
+        2.376,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#b73a55",
+        "opacity": 0.31
+      },
+      "catalog": "beatmania IIDX series"
+    },
+    {
+      "name": "iidx-17-sirius",
+      "group": "kecan0406@bemani",
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + IIDXSERIES",
+      "background": "#12181d",
+      "foreground": "#e2e2e2",
+      "cursor": "#1b9ed6",
+      "selection": "#112555",
+      "signature": [
+        "#1b9ed6",
+        "#112555",
+        "#e2e2e2"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "foreground"
+      ],
+      "ansi": [
+        "#1e2529",
+        "#e183a3",
+        "#6cba95",
+        "#b4c183",
+        "#6da4e2",
+        "#ab9ed5",
+        "#73bcc5",
+        "#c1c7ce",
+        "#71787e",
+        "#f2adc2",
+        "#9ed8ba",
+        "#d5e2a3",
+        "#a0c4f0",
+        "#cfbcff",
+        "#98dde7",
+        "#e3f0fa"
+      ],
+      "gate": [
+        13.807,
+        6.794,
+        0.018,
+        10.5,
+        3.995,
+        11.419,
+        0,
+        2.129,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#1b9ed6",
+        "opacity": 0.19
+      },
+      "catalog": "beatmania IIDX series"
+    },
+    {
+      "name": "iidx-18-resort-anthem",
+      "group": "kecan0406@bemani",
+      "order": 1000000,
+      "ansiSource": "Liquid Carbon + IIDXSERIES",
+      "background": "#211513",
+      "foreground": "#fddbd6",
+      "cursor": "#b83e2f",
+      "selection": "#312522",
+      "signature": [
+        "#b83e2f",
+        "#f5ae01",
+        "#312522"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "ansi3",
+        "selection"
+      ],
+      "ansi": [
+        "#2e211f",
+        "#ff7668",
+        "#b6ae55",
+        "#f5ae01",
+        "#a394f2",
+        "#fb7ab5",
+        "#8fbc88",
+        "#d8c2be",
+        "#857370",
+        "#ffaca1",
+        "#d8cf72",
+        "#ffd6aa",
+        "#c4b8ff",
+        "#ffb0cf",
+        "#b0dea7",
+        "#ffe9e6"
+      ],
+      "gate": [
+        13.781,
+        6.809,
+        0.018,
+        10.48,
+        3.965,
+        11.478,
+        0,
+        10.427,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#b83e2f",
+        "opacity": 0.3
+      },
+      "catalog": "beatmania IIDX series"
+    },
+    {
+      "name": "iidx-19-lincle",
+      "group": "kecan0406@bemani",
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + IIDXSERIES",
+      "background": "#201511",
+      "foreground": "#fddbd2",
+      "cursor": "#d75932",
+      "selection": "#4a3a37",
+      "signature": [
+        "#d75932",
+        "#00ace7",
+        "#ebb300"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "ansi4",
+        "ansi3"
+      ],
+      "ansi": [
+        "#2e211d",
+        "#ea8381",
+        "#baad4e",
+        "#ebb300",
+        "#00ace7",
+        "#d892a7",
+        "#8dbd87",
+        "#d8c2bc",
+        "#85736e",
+        "#fcacaa",
+        "#ddcc7f",
+        "#ffd5ac",
+        "#9dc8f9",
+        "#ffb1c5",
+        "#aedfa8",
+        "#ffe9e4"
+      ],
+      "gate": [
+        13.8,
+        6.845,
+        0.018,
+        10.506,
+        3.973,
+        8.321,
+        0,
+        20.032,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#d75932",
+        "opacity": 0.23
+      },
+      "catalog": "beatmania IIDX series"
+    },
+    {
+      "name": "iidx-1st-style",
+      "group": "kecan0406@bemani",
+      "order": 1000000,
+      "ansiSource": "Tomorrow Night Eighties + IIDXSERIES",
+      "background": "#161819",
+      "foreground": "#e2e2e2",
+      "cursor": "#bababb",
+      "selection": "#282828",
+      "signature": [
+        "#bababb",
+        "#282828",
+        "#e2e2e2"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "foreground"
+      ],
+      "ansi": [
+        "#222425",
+        "#f77b7e",
+        "#85b786",
+        "#e5b451",
+        "#72a5d8",
+        "#c895c8",
+        "#59c0c0",
+        "#c6c6c7",
+        "#767778",
+        "#ffabaa",
+        "#a5d9a5",
+        "#ffd78e",
+        "#93c5fb",
+        "#ebb5ea",
+        "#7de2e2",
+        "#eeeeee"
+      ],
+      "gate": [
+        13.752,
+        6.862,
+        0.017,
+        10.437,
+        3.97,
+        11.381,
+        0,
+        1.659,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#bababb",
+        "opacity": 0.14
+      },
+      "catalog": "beatmania IIDX series"
+    },
+    {
+      "name": "iidx-20-tricoro",
+      "group": "kecan0406@bemani",
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + IIDXSERIES",
+      "background": "#201513",
+      "foreground": "#fddbd6",
+      "cursor": "#c6483d",
+      "selection": "#4a3a37",
+      "signature": [
+        "#c6483d",
+        "#ffda5a",
+        "#51a5f7"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "ansi11",
+        "ansi4"
+      ],
+      "ansi": [
+        "#2d211f",
+        "#e98387",
+        "#baae4e",
+        "#e6b371",
+        "#51a5f7",
+        "#d692ab",
+        "#8dbd87",
+        "#d8c2bf",
+        "#857370",
+        "#fbacaf",
+        "#d0d182",
+        "#ffda5a",
+        "#afc2fb",
+        "#ffb0ca",
+        "#aedfa8",
+        "#ffe9e6"
+      ],
+      "gate": [
+        13.819,
+        6.843,
+        0.017,
+        10.516,
+        3.976,
+        8.342,
+        0,
+        20.298,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#c6483d",
+        "opacity": 0.27
+      },
+      "catalog": "beatmania IIDX series"
+    },
+    {
+      "name": "iidx-21-spada",
+      "group": "kecan0406@bemani",
+      "order": 1000000,
+      "ansiSource": "Liquid Carbon + IIDXSERIES",
+      "background": "#201513",
+      "foreground": "#e3e2e1",
+      "cursor": "#c6483c",
+      "selection": "#3e1f1d",
+      "signature": [
+        "#c6483c",
+        "#3e1f1d",
+        "#e3e2e1"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "foreground"
+      ],
+      "ansi": [
+        "#2e211f",
+        "#ff7669",
+        "#b7ae54",
+        "#ffa937",
+        "#a394f2",
+        "#fb7bb7",
+        "#8fbc88",
+        "#d8c2be",
+        "#857370",
+        "#ffaca2",
+        "#d8cf71",
+        "#ffd6aa",
+        "#c4b8ff",
+        "#ffb0d0",
+        "#b0dea7",
+        "#ffe9e6"
+      ],
+      "gate": [
+        13.778,
+        6.831,
+        0.018,
+        10.509,
+        3.976,
+        11.443,
+        0,
+        1.908,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#c6483c",
+        "opacity": 0.27
+      },
+      "catalog": "beatmania IIDX series"
+    },
+    {
+      "name": "iidx-22-pendual",
+      "group": "kecan0406@bemani",
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + IIDXSERIES",
+      "background": "#1f1519",
+      "foreground": "#ebe0dd",
+      "cursor": "#d05492",
+      "selection": "#47181f",
+      "signature": [
+        "#d05492",
+        "#47181f",
+        "#ebe0dd"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "foreground"
+      ],
+      "ansi": [
+        "#2c2125",
+        "#e5839d",
+        "#bbaf4c",
+        "#f0ae7b",
+        "#ac94e3",
+        "#d094b8",
+        "#89b5de",
+        "#d4c2c7",
+        "#837378",
+        "#f7acbf",
+        "#dad07e",
+        "#fdd5b9",
+        "#cab8f1",
+        "#ffaedd",
+        "#add6ff",
+        "#ffe8ef"
+      ],
+      "gate": [
+        13.767,
+        6.837,
+        0.018,
+        10.462,
+        3.975,
+        11.449,
+        0,
+        1.67,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#d05492",
+        "opacity": 0.23
+      },
+      "catalog": "beatmania IIDX series"
+    },
+    {
+      "name": "iidx-23-copula",
+      "group": "kecan0406@bemani",
+      "order": 1000000,
+      "ansiSource": "Royal + IIDXSERIES",
+      "background": "#1b170c",
+      "foreground": "#ede2c5",
+      "cursor": "#f9ce00",
+      "selection": "#46474a",
+      "signature": [
+        "#f9ce00",
+        "#f4af00",
+        "#46474a"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "ansi3",
+        "selection"
+      ],
+      "ansi": [
+        "#272318",
+        "#f87e4a",
+        "#96b823",
+        "#f4af00",
+        "#60acb2",
+        "#ea89a3",
+        "#7abdab",
+        "#cec6b4",
+        "#7d7767",
+        "#ffad8c",
+        "#b2da47",
+        "#fbdd2b",
+        "#68d1d4",
+        "#ffb1c1",
+        "#9bdfca",
+        "#f9edd0"
+      ],
+      "gate": [
+        13.866,
+        6.847,
+        0.017,
+        10.525,
+        4.007,
+        7.204,
+        0,
+        18.587,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#f9ce00",
+        "opacity": 0.12
+      },
+      "catalog": "beatmania IIDX series"
+    },
+    {
+      "name": "iidx-24-sinobuz",
+      "group": "kecan0406@bemani",
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + IIDXSERIES",
+      "background": "#201514",
+      "foreground": "#fddbd8",
+      "cursor": "#ca4a45",
+      "selection": "#2a2728",
+      "signature": [
+        "#ca4a45",
+        "#80bda0",
+        "#2a2728"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "ansi6",
+        "selection"
+      ],
+      "ansi": [
+        "#2d211f",
+        "#e98389",
+        "#baae4d",
+        "#edaf77",
+        "#ba8fdc",
+        "#d692ac",
+        "#80bda0",
+        "#d8c2bf",
+        "#857371",
+        "#fbacb0",
+        "#d9cf7f",
+        "#ffd5b1",
+        "#d0b6ef",
+        "#ffb0cb",
+        "#acdfa9",
+        "#ffe9e7"
+      ],
+      "gate": [
+        13.828,
+        6.829,
+        0.017,
+        10.51,
+        3.977,
+        11.485,
+        0,
+        19.963,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#ca4a45",
+        "opacity": 0.26
+      },
+      "catalog": "beatmania IIDX series"
+    },
+    {
+      "name": "iidx-25-cannon-ballers",
+      "group": "kecan0406@bemani",
+      "order": 1000000,
+      "ansiSource": "Liquid Carbon + IIDXSERIES",
+      "background": "#201514",
+      "foreground": "#fcdbd8",
+      "cursor": "#ba3e3d",
+      "selection": "#352420",
+      "signature": [
+        "#ba3e3d",
+        "#4ec079",
+        "#352420"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "ansi2",
+        "selection"
+      ],
+      "ansi": [
+        "#2d2120",
+        "#ff766d",
+        "#4ec079",
+        "#ffa93f",
+        "#a294f2",
+        "#fa7bba",
+        "#8db5e2",
+        "#d8c2c0",
+        "#857371",
+        "#ffaba4",
+        "#addc8c",
+        "#ffd5ac",
+        "#c3b8ff",
+        "#ffafd2",
+        "#b3d6fd",
+        "#ffe9e7"
+      ],
+      "gate": [
+        13.797,
+        6.833,
+        0.017,
+        10.517,
+        3.977,
+        11.416,
+        0,
+        20.07,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#ba3e3d",
+        "opacity": 0.3
+      },
+      "catalog": "beatmania IIDX series"
+    },
+    {
+      "name": "iidx-26-rootage",
+      "group": "kecan0406@bemani",
+      "order": 1000000,
+      "ansiSource": "Royal + IIDXSERIES",
+      "background": "#1b170c",
+      "foreground": "#eae3bb",
+      "cursor": "#f8ce0b",
+      "selection": "#3d2011",
+      "signature": [
+        "#f8ce0b",
+        "#3d2011",
+        "#eae3bb"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "foreground"
+      ],
+      "ansi": [
+        "#272318",
+        "#f87e49",
+        "#96b824",
+        "#d6ba43",
+        "#60acb2",
+        "#ea89a3",
+        "#7abdab",
+        "#cec6b4",
+        "#7d7767",
+        "#ffad8c",
+        "#b1db47",
+        "#fadd2c",
+        "#68d1d4",
+        "#ffb1c1",
+        "#9bdfcb",
+        "#f9edd0"
+      ],
+      "gate": [
+        13.797,
+        6.847,
+        0.017,
+        10.525,
+        4.007,
+        11.467,
+        0,
+        4.316,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#f8ce0b",
+        "opacity": 0.12
+      },
+      "catalog": "beatmania IIDX series"
+    },
+    {
+      "name": "iidx-27-heroic-verse",
+      "group": "kecan0406@bemani",
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + IIDXSERIES",
+      "background": "#1d151c",
+      "foreground": "#f1ddec",
+      "cursor": "#ac4bb2",
+      "selection": "#4a3a37",
+      "signature": [
+        "#ac4bb2",
+        "#9b9adc",
+        "#88e0e6"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "ansi4",
+        "ansi14"
+      ],
+      "ansi": [
+        "#292128",
+        "#e384a4",
+        "#bbaf4d",
+        "#f0ae7d",
+        "#9b9adc",
+        "#ca96c0",
+        "#78bcd2",
+        "#d0c3cc",
+        "#7f747c",
+        "#f5adc3",
+        "#d9cf7e",
+        "#fbd7bc",
+        "#c1bbf3",
+        "#ffabef",
+        "#88e0e6",
+        "#fde8f7"
+      ],
+      "gate": [
+        13.852,
+        6.843,
+        0.017,
+        10.508,
+        3.989,
+        8.349,
+        0,
+        19.184,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#ac4bb2",
+        "opacity": 0.26
+      },
+      "catalog": "beatmania IIDX series"
+    },
+    {
+      "name": "iidx-28-bistrover",
+      "group": "kecan0406@bemani",
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + IIDXSERIES",
+      "background": "#201511",
+      "foreground": "#fddbd1",
+      "cursor": "#e46434",
+      "selection": "#4a3a37",
+      "signature": [
+        "#e46434",
+        "#3fa8ed",
+        "#ffd968"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "ansi4",
+        "ansi11"
+      ],
+      "ansi": [
+        "#2d211d",
+        "#ea837f",
+        "#beac4d",
+        "#e9b173",
+        "#3fa8ed",
+        "#d992a5",
+        "#8dbe87",
+        "#d8c2bb",
+        "#85736d",
+        "#fcaca9",
+        "#d3d182",
+        "#ffd968",
+        "#a7c5fb",
+        "#ffb1c4",
+        "#aedfa8",
+        "#ffe9e3"
+      ],
+      "gate": [
+        13.792,
+        6.828,
+        0.017,
+        10.498,
+        3.969,
+        8.316,
+        0,
+        22.506,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#e46434",
+        "opacity": 0.21
+      },
+      "catalog": "beatmania IIDX series"
+    },
+    {
+      "name": "iidx-29-casthour",
+      "group": "kecan0406@bemani",
+      "order": 1000000,
+      "ansiSource": "Pencil Dark + IIDXSERIES",
+      "background": "#201511",
+      "foreground": "#fddbd2",
+      "cursor": "#e5633c",
+      "selection": "#004c6b",
+      "signature": [
+        "#e5633c",
+        "#004c6b",
+        "#f8ad00"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "ansi3"
+      ],
+      "ansi": [
+        "#2e211d",
+        "#ff7387",
+        "#acb235",
+        "#f8ad00",
+        "#a992ef",
+        "#d490c1",
+        "#74c185",
+        "#d8c2bc",
+        "#85736e",
+        "#ffaaad",
+        "#c8d461",
+        "#ffd79c",
+        "#c7b7ff",
+        "#ffaaf8",
+        "#99e2a7",
+        "#ffe9e4"
+      ],
+      "gate": [
+        13.8,
+        6.836,
+        0.018,
+        10.506,
+        3.973,
+        7.23,
+        0,
+        7.775,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#e5633c",
+        "opacity": 0.21
+      },
+      "catalog": "beatmania IIDX series"
+    },
+    {
+      "name": "iidx-2nd-style",
+      "group": "kecan0406@bemani",
+      "order": 1000000,
+      "ansiSource": "Royal + IIDXSERIES",
+      "background": "#1c170c",
+      "foreground": "#e2e2e2",
+      "cursor": "#facc51",
+      "selection": "#282828",
+      "signature": [
+        "#facc51",
+        "#282828",
+        "#e2e2e2"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "foreground"
+      ],
+      "ansi": [
+        "#282318",
+        "#f87d4f",
+        "#9bb71c",
+        "#d9b942",
+        "#60acb2",
+        "#e989a5",
+        "#7bbda9",
+        "#cfc5b4",
+        "#7e7667",
+        "#ffad8f",
+        "#b7d941",
+        "#ffdb28",
+        "#68d1d4",
+        "#ffb1c4",
+        "#9cdfc8",
+        "#fbecd0"
+      ],
+      "gate": [
+        13.77,
+        6.828,
+        0.017,
+        10.447,
+        3.971,
+        11.381,
+        0,
+        4.316,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#facc51",
+        "opacity": 0.12
+      },
+      "catalog": "beatmania IIDX series"
+    },
+    {
+      "name": "iidx-30-resident",
+      "group": "kecan0406@bemani",
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + IIDXSERIES",
+      "background": "#15171e",
+      "foreground": "#dee2f2",
+      "cursor": "#3274e8",
+      "selection": "#66298a",
+      "signature": [
+        "#3274e8",
+        "#66298a",
+        "#00c7a9"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "ansi6"
+      ],
+      "ansi": [
+        "#21242b",
+        "#e383a3",
+        "#70bb94",
+        "#eeaf80",
+        "#7fa0e7",
+        "#b69bd0",
+        "#00c7a9",
+        "#c5c6d0",
+        "#757780",
+        "#f2adc3",
+        "#a0d9bc",
+        "#f9d49c",
+        "#abc1f3",
+        "#deb7ff",
+        "#98dedf",
+        "#eaedfe"
+      ],
+      "gate": [
+        13.865,
+        6.854,
+        0.018,
+        10.538,
+        4.012,
+        7.232,
+        0,
+        20.431,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#3274e8",
+        "opacity": 0.25
+      },
+      "catalog": "beatmania IIDX series"
+    },
+    {
+      "name": "iidx-31-epolis",
+      "group": "kecan0406@bemani",
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + IIDXSERIES",
+      "background": "#18180e",
+      "foreground": "#e2e2e2",
+      "cursor": "#d0da31",
+      "selection": "#4e0e52",
+      "signature": [
+        "#d0da31",
+        "#4e0e52",
+        "#e2e2e2"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "foreground"
+      ],
+      "ansi": [
+        "#242419",
+        "#e98563",
+        "#95b669",
+        "#cebb6f",
+        "#35b0bb",
+        "#dc8fa2",
+        "#84bd96",
+        "#c9c7b6",
+        "#787869",
+        "#fdad92",
+        "#bad596",
+        "#efdd8e",
+        "#86cdd3",
+        "#fdb1c3",
+        "#a6dfb7",
+        "#f0efd4"
+      ],
+      "gate": [
+        13.786,
+        6.804,
+        0.017,
+        10.485,
+        3.988,
+        10.745,
+        0,
+        1.23,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#d0da31",
+        "opacity": 0.13
+      },
+      "catalog": "beatmania IIDX series"
+    },
+    {
+      "name": "iidx-32-pinky-crush",
+      "group": "kecan0406@bemani",
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + IIDXSERIES",
+      "background": "#1f1518",
+      "foreground": "#f8dbe3",
+      "cursor": "#d5558e",
+      "selection": "#4a3a37",
+      "signature": [
+        "#d5558e",
+        "#ffd969",
+        "#00e8ec"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "ansi11",
+        "ansi14"
+      ],
+      "ansi": [
+        "#2c2124",
+        "#e6839b",
+        "#bcaf4c",
+        "#e8b374",
+        "#ad93e2",
+        "#d094b7",
+        "#76bccf",
+        "#d5c2c6",
+        "#837377",
+        "#f8acbe",
+        "#d4d180",
+        "#ffd969",
+        "#cbb8f1",
+        "#ffaedb",
+        "#00e8ec",
+        "#ffe8ee"
+      ],
+      "gate": [
+        13.772,
+        6.828,
+        0.018,
+        10.487,
+        3.974,
+        8.318,
+        0,
+        20.324,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#d5558e",
+        "opacity": 0.22
+      },
+      "catalog": "beatmania IIDX series"
+    },
+    {
+      "name": "iidx-33-sparkle-shower",
+      "group": "kecan0406@bemani",
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + IIDXSERIES",
+      "background": "#131913",
+      "foreground": "#e2e2e2",
+      "cursor": "#01903a",
+      "selection": "#4a3a37",
+      "signature": [
+        "#01903a",
+        "#ece12c",
+        "#e2e2e2"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "ansi11",
+        "foreground"
+      ],
+      "ansi": [
+        "#1f251e",
+        "#e88463",
+        "#82b97a",
+        "#bfc076",
+        "#3fadc9",
+        "#dd8fa2",
+        "#7abea4",
+        "#c1c9be",
+        "#727970",
+        "#fdab91",
+        "#acd8a4",
+        "#ece12c",
+        "#8acbde",
+        "#ffafc2",
+        "#9ddfc6",
+        "#e4f2e0"
+      ],
+      "gate": [
+        13.783,
+        6.727,
+        0.017,
+        10.514,
+        3.983,
+        8.306,
+        0,
+        3.335,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#01903a",
+        "opacity": 0.24
+      },
+      "catalog": "beatmania IIDX series"
+    },
+    {
+      "name": "iidx-34-zinrai",
+      "group": "kecan0406@bemani",
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + IIDXSERIES",
+      "background": "#1d151b",
+      "foreground": "#f2dceb",
+      "cursor": "#e072d5",
+      "selection": "#340870",
+      "signature": [
+        "#e072d5",
+        "#340870",
+        "#9bde75"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "ansi10"
+      ],
+      "ansi": [
+        "#2a2128",
+        "#e184a9",
+        "#a9b557",
+        "#efaf7d",
+        "#a396e6",
+        "#cb95bf",
+        "#88b5de",
+        "#d1c2cb",
+        "#80747b",
+        "#f4adc8",
+        "#9bde75",
+        "#fbd6bb",
+        "#c3baf3",
+        "#ffaceb",
+        "#acd6ff",
+        "#fee8f6"
+      ],
+      "gate": [
+        13.794,
+        6.86,
+        0.017,
+        10.457,
+        4.001,
+        11.46,
+        0,
+        19.819,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#e072d5",
+        "opacity": 0.18
+      },
+      "catalog": "beatmania IIDX series"
+    },
+    {
+      "name": "iidx-3rd-style",
+      "group": "kecan0406@bemani",
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + IIDXSERIES",
+      "background": "#1f1518",
+      "foreground": "#e2e2e2",
+      "cursor": "#c6487c",
+      "selection": "#673752",
+      "signature": [
+        "#c6487c",
+        "#673752",
+        "#e2e2e2"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "foreground"
+      ],
+      "ansi": [
+        "#2c2124",
+        "#e68399",
+        "#bbaf4c",
+        "#f2ac7f",
+        "#af93e2",
+        "#d194b6",
+        "#89b5de",
+        "#d5c2c6",
+        "#837377",
+        "#f8acbc",
+        "#d9cf7e",
+        "#fdd5b8",
+        "#ccb8f0",
+        "#ffaed9",
+        "#add6ff",
+        "#ffe8ed"
+      ],
+      "gate": [
+        13.753,
+        6.847,
+        0.018,
+        10.487,
+        3.974,
+        7.221,
+        0,
+        4.347,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#c6487c",
+        "opacity": 0.26
+      },
+      "catalog": "beatmania IIDX series"
+    },
+    {
+      "name": "iidx-4th-style",
+      "group": "kecan0406@bemani",
+      "order": 1000000,
+      "ansiSource": "Liquid Carbon + IIDXSERIES",
+      "background": "#201513",
+      "foreground": "#e2e2e3",
+      "cursor": "#c6483c",
+      "selection": "#312522",
+      "signature": [
+        "#c6483c",
+        "#312522",
+        "#e2e2e3"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "foreground"
+      ],
+      "ansi": [
+        "#2e211f",
+        "#ff7669",
+        "#b7ae54",
+        "#ffa937",
+        "#a394f2",
+        "#fb7bb7",
+        "#8fbc88",
+        "#d8c2bf",
+        "#857370",
+        "#ffaca2",
+        "#d9cf71",
+        "#ffd6aa",
+        "#c4b8ff",
+        "#ffb0d0",
+        "#b0dea7",
+        "#ffe9e6"
+      ],
+      "gate": [
+        13.769,
+        6.831,
+        0.018,
+        10.516,
+        3.976,
+        11.437,
+        0,
+        1.908,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#c6483c",
+        "opacity": 0.27
+      },
+      "catalog": "beatmania IIDX series"
+    },
+    {
+      "name": "iidx-5th-style",
+      "group": "kecan0406@bemani",
+      "order": 1000000,
+      "ansiSource": "Whimsy + IIDXSERIES",
+      "background": "#1e160d",
+      "foreground": "#e2e2e2",
+      "cursor": "#f5a100",
+      "selection": "#073190",
+      "signature": [
+        "#f5a100",
+        "#073190",
+        "#e2e2e2"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "foreground"
+      ],
+      "ansi": [
+        "#2b2218",
+        "#ff7854",
+        "#9ab645",
+        "#e2b55b",
+        "#00b3ad",
+        "#f87db2",
+        "#7fc07a",
+        "#d3c4b4",
+        "#817568",
+        "#ffad97",
+        "#bad862",
+        "#ffd78f",
+        "#3ad5cf",
+        "#ffb0ce",
+        "#9fe298",
+        "#ffebd5"
+      ],
+      "gate": [
+        13.787,
+        6.848,
+        0.017,
+        10.482,
+        3.978,
+        8.757,
+        0,
+        1.246,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#f5a100",
+        "opacity": 0.15
+      },
+      "catalog": "beatmania IIDX series"
+    },
+    {
+      "name": "iidx-6th-style",
+      "group": "kecan0406@bemani",
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + IIDXSERIES",
+      "background": "#19161e",
+      "foreground": "#e2e2e2",
+      "cursor": "#9983be",
+      "selection": "#464747",
+      "signature": [
+        "#9983be",
+        "#464747",
+        "#e2e2e2"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "foreground"
+      ],
+      "ansi": [
+        "#26222a",
+        "#e384a4",
+        "#6ebb96",
+        "#efb080",
+        "#929be8",
+        "#c298c8",
+        "#7fb8d8",
+        "#cbc4cf",
+        "#7a757f",
+        "#f4aec3",
+        "#a1d9bc",
+        "#fad7be",
+        "#b7bdf4",
+        "#f5adff",
+        "#a3d9f9",
+        "#f4eafd"
+      ],
+      "gate": [
+        13.798,
+        6.874,
+        0.017,
+        10.5,
+        3.982,
+        7.196,
+        0,
+        1.629,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#9983be",
+        "opacity": 0.2
+      },
+      "catalog": "beatmania IIDX series"
+    },
+    {
+      "name": "iidx-7th-style",
+      "group": "kecan0406@bemani",
+      "order": 1000000,
+      "ansiSource": "Catppuccin Macchiato + IIDXSERIES",
+      "background": "#11191c",
+      "foreground": "#e2e2e2",
+      "cursor": "#7c8c95",
+      "selection": "#312522",
+      "signature": [
+        "#7c8c95",
+        "#312522",
+        "#e2e2e2"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "foreground"
+      ],
+      "ansi": [
+        "#1d2529",
+        "#e183a3",
+        "#6bba95",
+        "#b3c083",
+        "#69a5e1",
+        "#a99fd6",
+        "#73bcc3",
+        "#c0c8cd",
+        "#70787d",
+        "#f1aec2",
+        "#9dd8ba",
+        "#d5e3a2",
+        "#9ec5ef",
+        "#ccbeff",
+        "#97dde4",
+        "#e2f0f9"
+      ],
+      "gate": [
+        13.742,
+        6.762,
+        0.017,
+        10.498,
+        3.96,
+        11.429,
+        0,
+        1.563,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#7c8c95",
+        "opacity": 0.2
+      },
+      "catalog": "beatmania IIDX series"
+    },
+    {
+      "name": "iidx-8th-style",
+      "group": "kecan0406@bemani",
+      "order": 1000000,
+      "ansiSource": "Pencil Dark + IIDXSERIES",
+      "background": "#20150e",
+      "foreground": "#e1e3e3",
+      "cursor": "#ef7e00",
+      "selection": "#2e2626",
+      "signature": [
+        "#ef7e00",
+        "#2e2626",
+        "#e1e3e3"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "foreground"
+      ],
+      "ansi": [
+        "#2d211a",
+        "#ff7573",
+        "#9db543",
+        "#e9b32e",
+        "#a992ef",
+        "#da8fb7",
+        "#74c185",
+        "#d6c3b7",
+        "#84746a",
+        "#ffaca3",
+        "#bad76d",
+        "#ffd887",
+        "#c7b7ff",
+        "#ffade5",
+        "#99e2a7",
+        "#ffeadd"
+      ],
+      "gate": [
+        13.871,
+        6.846,
+        0.017,
+        10.51,
+        3.989,
+        11.466,
+        0,
+        7.59,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#ef7e00",
+        "opacity": 0.18
+      },
+      "catalog": "beatmania IIDX series"
+    },
+    {
+      "name": "iidx-9th-style",
+      "group": "kecan0406@bemani",
+      "order": 1000000,
+      "ansiSource": "Aardvark Ink + IIDXSERIES",
+      "background": "#191716",
+      "foreground": "#e2e2e2",
+      "cursor": "#918c8a",
+      "selection": "#312522",
+      "signature": [
+        "#918c8a",
+        "#312522",
+        "#e2e2e2"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "foreground"
+      ],
+      "ansi": [
+        "#262322",
+        "#eb8285",
+        "#65be71",
+        "#cfbb66",
+        "#6ca1f8",
+        "#d983fa",
+        "#55c1bd",
+        "#cbc5c3",
+        "#7b7674",
+        "#ffabaa",
+        "#85e093",
+        "#f1dd85",
+        "#9dc3ff",
+        "#ecb1ff",
+        "#74e3df",
+        "#f3ecea"
+      ],
+      "gate": [
+        13.791,
+        6.86,
+        0.017,
+        10.476,
+        3.986,
+        11.429,
+        0,
+        1.763,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#918c8a",
+        "opacity": 0.2
+      },
+      "catalog": "beatmania IIDX series"
+    },
+    {
+      "name": "iidx-substream",
+      "group": "kecan0406@bemani",
+      "order": 1000000,
+      "ansiSource": "Royal + IIDXSERIES",
+      "background": "#1c170c",
+      "foreground": "#e2e2e2",
+      "cursor": "#f5cd61",
+      "selection": "#282828",
+      "signature": [
+        "#f5cd61",
+        "#282828",
+        "#e2e2e2"
+      ],
+      "signatureSlots": [
+        "cursor",
+        "selection",
+        "foreground"
+      ],
+      "ansi": [
+        "#282318",
+        "#f87d4e",
+        "#9ab71e",
+        "#d8b942",
+        "#60acb2",
+        "#e989a5",
+        "#7bbdaa",
+        "#cfc5b4",
+        "#7e7667",
+        "#ffad8f",
+        "#b6da42",
+        "#fedb29",
+        "#68d1d4",
+        "#ffb1c3",
+        "#9cdfc9",
+        "#fbecd0"
+      ],
+      "gate": [
+        13.77,
+        6.825,
+        0.017,
+        10.447,
+        3.971,
+        11.381,
+        0,
+        4.316,
+        0
+      ],
+      "backdrop": {
+        "slot": "cursor",
+        "color": "#f5cd61",
+        "opacity": 0.12
+      },
+      "catalog": "beatmania IIDX series"
+    },
+    {
       "name": "knit",
       "group": "kecan0406@bemani",
       "nativeNames": [

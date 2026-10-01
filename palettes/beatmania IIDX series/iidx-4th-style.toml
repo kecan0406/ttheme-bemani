@@ -1,0 +1,29 @@
+[meta]
+name = "iidx-4th-style"
+ansi_source = "Liquid Carbon + IIDXSERIES"
+signature = ["cursor", "selection", "foreground"]
+
+[colors]
+background = "#201513"
+foreground = "#e2e2e3"
+cursor = "#c6483c"
+selection_background = "#312522"
+ansi = [
+  "#2e211f",
+  "#ff7669",
+  "#b7ae54",
+  "#ffa937",
+  "#a394f2",
+  "#fb7bb7",
+  "#8fbc88",
+  "#d8c2bf",
+
+  "#857370",
+  "#ffaca2",
+  "#d9cf71",
+  "#ffd6aa",
+  "#c4b8ff",
+  "#ffb0d0",
+  "#b0dea7",
+  "#ffe9e6",
+]
