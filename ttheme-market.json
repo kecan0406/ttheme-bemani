@@ -1,5 +1,6 @@
 {
-  "version": "1.2.8",
+  "schema": 1,
+  "version": "1.2.11",
   "gate": [
     {
       "rule": "foreground",
@@ -56,14 +57,6 @@
       "max": 0
     }
   ],
-  "placement": {
-    "tall": 1.15,
-    "reach": 0.4,
-    "widest": 0.95,
-    "headroom": 0.04,
-    "margin": 0.03,
-    "stands": 12
-  },
   "owner": "kecan0406",
   "name": "bemani",
   "palettes": [
