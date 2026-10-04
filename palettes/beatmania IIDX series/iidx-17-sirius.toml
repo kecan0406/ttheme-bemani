@@ -1,3 +1,5 @@
+"$schema" = "https://www.schemastore.org/ttheme-palette.json"
+
 [meta]
 name = "iidx-17-sirius"
 ansi_source = "Catppuccin Macchiato + IIDXSERIES"

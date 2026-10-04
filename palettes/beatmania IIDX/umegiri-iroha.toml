@@ -1,3 +1,5 @@
+"$schema" = "https://www.schemastore.org/ttheme-palette.json"
+
 [meta]
 name = "umegiri-iroha"
 native_names = ["梅桐彩葉", "彩葉"]

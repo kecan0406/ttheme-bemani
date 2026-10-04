@@ -1,3 +1,5 @@
+"$schema" = "https://www.schemastore.org/ttheme-palette.json"
+
 [meta]
 name = "iidx-substream"
 ansi_source = "Royal + IIDXSERIES"

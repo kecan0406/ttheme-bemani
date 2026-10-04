@@ -1,3 +1,5 @@
+"$schema" = "https://www.schemastore.org/ttheme-palette.json"
+
 [meta]
 name = "iidx-28-bistrover"
 ansi_source = "Catppuccin Macchiato + IIDXSERIES"

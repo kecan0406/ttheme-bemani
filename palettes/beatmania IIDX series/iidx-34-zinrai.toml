@@ -1,3 +1,5 @@
+"$schema" = "https://www.schemastore.org/ttheme-palette.json"
+
 [meta]
 name = "iidx-34-zinrai"
 ansi_source = "Catppuccin Macchiato + IIDXSERIES"

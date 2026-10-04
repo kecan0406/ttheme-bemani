@@ -1,3 +1,5 @@
+"$schema" = "https://www.schemastore.org/ttheme-palette.json"
+
 [meta]
 name = "iidx-33-sparkle-shower"
 ansi_source = "Catppuccin Macchiato + IIDXSERIES"
