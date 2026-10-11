@@ -1,10 +1,10 @@
 # kecan0406@bemani
 
-Terminal palettes for BEMANI characters and game series, a [ttheme](https://github.com/kecan0406/ttheme) market.
+Terminal palettes for BEMANI characters and game series, a [ttheme](https://github.com/kecan0406/ttheme) marketplace.
 
 ```sh
-ttheme market add kecan0406/ttheme-bemani
-ttheme browse
+ttheme marketplace add kecan0406/ttheme-bemani
+ttheme    # shift+tab to Browse
 ```
 
 Each game is a catalog. Every palette's colors are measured from official artwork or game art, and no pictures are included.

@@ -1,8 +1,0 @@
-"$schema" = "https://www.schemastore.org/ttheme-market.json"
-name = "bemani"
-description = "Terminal palettes for BEMANI characters and game series"
-
-[owner]
-name = "kecan0406"
-email = "kecan0406@gmail.com"
-url = "https://github.com/kecan0406"
