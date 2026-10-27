@@ -1,0 +1,29 @@
+"$schema" = "https://www.schemastore.org/ttheme-palette.json"
+subject = "beatmania-iidx/iidx-17-sirius"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+
+[colors]
+background = "#12181d"
+foreground = "#e2e2e2"
+cursor = "#1b9ed6"
+selection_background = "#112555"
+ansi = [
+  "#1e2529",
+  "#d57998",
+  "#82d0aa",
+  "#b4c183",
+  "#6299d7",
+  "#b6a9e0",
+  "#6db7bf",
+  "#cfd5dc",
+
+  "#71787e",
+  "#e6a2b7",
+  "#aee9ca",
+  "#d5e2a3",
+  "#8aaed9",
+  "#d9c9ff",
+  "#8dd2dc",
+  "#e3f0fa",
+]

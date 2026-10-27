@@ -1,0 +1,29 @@
+"$schema" = "https://www.schemastore.org/ttheme-palette.json"
+subject = "gitadora/rio"
+signature = ["cursor", "selection", "ansi11"]
+ansi_source = "Whimsy + GITADORA"
+
+[colors]
+background = "#1e160d"
+foreground = "#f6dfc6"
+cursor = "#f29d09"
+selection_background = "#262a6f"
+ansi = [
+  "#2b2218",
+  "#f16e4d",
+  "#b0cc58",
+  "#e3b45b",
+  "#b281db",
+  "#ff8cbe",
+  "#7bba74",
+  "#e2d2c3",
+
+  "#827568",
+  "#f3a18e",
+  "#cde870",
+  "#ffd96c",
+  "#c599e8",
+  "#ffc1d7",
+  "#95d78e",
+  "#ffebd6",
+]

@@ -1,0 +1,29 @@
+"$schema" = "https://www.schemastore.org/ttheme-palette.json"
+subject = "pop-n-music/nyami"
+signature = ["cursor", "ansi2", "foreground"]
+ansi_source = "Catppuccin Macchiato + POPN"
+
+[colors]
+background = "#201511"
+foreground = "#e2e2e2"
+cursor = "#b1410a"
+selection_background = "#4a3a37"
+ansi = [
+  "#2d211c",
+  "#dd7974",
+  "#78d665",
+  "#e9b173",
+  "#aa87d4",
+  "#e59cb0",
+  "#77bb92",
+  "#e6d0c9",
+
+  "#85736d",
+  "#f0a19e",
+  "#d3e79a",
+  "#ffd6a9",
+  "#bba1d9",
+  "#ffc1cf",
+  "#a3d49e",
+  "#ffe9e2",
+]

@@ -1,0 +1,29 @@
+"$schema" = "https://www.schemastore.org/ttheme-palette.json"
+subject = "beatmania-iidx/iidx-25-cannon-ballers"
+signature = ["cursor", "ansi2", "selection"]
+ansi_source = "Liquid Carbon + IIDXSERIES"
+
+[colors]
+background = "#201514"
+foreground = "#fcdbd8"
+cursor = "#ba3e3d"
+selection_background = "#352420"
+ansi = [
+  "#2d2120",
+  "#f26c63",
+  "#66d78d",
+  "#ffa93f",
+  "#9789e6",
+  "#ff8bc3",
+  "#88b0dc",
+  "#e6d0ce",
+
+  "#857371",
+  "#f3a09a",
+  "#bded9b",
+  "#ffd5ac",
+  "#ada2e8",
+  "#ffc0da",
+  "#a8cbf1",
+  "#ffe9e7",
+]

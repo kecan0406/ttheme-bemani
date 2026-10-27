@@ -1,0 +1,29 @@
+"$schema" = "https://www.schemastore.org/ttheme-palette.json"
+subject = "reflec-beat/pastel-kun"
+signature = ["cursor", "ansi2", "ansi11"]
+ansi_source = "Catppuccin Macchiato + REFLEC"
+
+[colors]
+background = "#17171f"
+foreground = "#e2e1f3"
+cursor = "#b7bcff"
+selection_background = "#4a3a37"
+ansi = [
+  "#23232b",
+  "#d77a99",
+  "#78d766",
+  "#d7bc74",
+  "#7b93dd",
+  "#c6a5d9",
+  "#75b4cc",
+  "#d5d3de",
+
+  "#777680",
+  "#e7a2b8",
+  "#b1e9ca",
+  "#e4e435",
+  "#9aaadd",
+  "#ecc3ff",
+  "#93cfe8",
+  "#eeecfe",
+]

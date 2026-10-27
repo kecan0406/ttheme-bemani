@@ -1,0 +1,29 @@
+"$schema" = "https://www.schemastore.org/ttheme-palette.json"
+subject = "dancedancerevolution/alice-ip"
+signature = ["cursor", "selection", "ansi2"]
+ansi_source = "Catppuccin Macchiato + DDR"
+
+[colors]
+background = "#201511"
+foreground = "#fddbd0"
+cursor = "#f5723c"
+selection_background = "#0038b6"
+ansi = [
+  "#2d211c",
+  "#dd7974",
+  "#57d5b2",
+  "#e9b173",
+  "#aa87d4",
+  "#e59cb0",
+  "#81b989",
+  "#e6d0c9",
+
+  "#85736d",
+  "#f0a19e",
+  "#aaf0bb",
+  "#ffd6a9",
+  "#bba1d9",
+  "#ffc1cf",
+  "#88d8b9",
+  "#ffe9e2",
+]

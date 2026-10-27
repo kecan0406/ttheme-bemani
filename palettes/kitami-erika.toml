@@ -1,0 +1,29 @@
+"$schema" = "https://www.schemastore.org/ttheme-palette.json"
+subject = "beatmania-iidx/kitami-erika"
+signature = ["cursor", "selection", "ansi2"]
+ansi_source = "Catppuccin Macchiato + IIDX"
+
+[colors]
+background = "#17190f"
+foreground = "#e2e5cb"
+cursor = "#b9c975"
+selection_background = "#533c71"
+ansi = [
+  "#23251a",
+  "#dc7a5a",
+  "#b0cb6e",
+  "#cbbc70",
+  "#24a4b3",
+  "#e999ad",
+  "#7db793",
+  "#d5d6c5",
+
+  "#77786a",
+  "#f1a288",
+  "#c8e7a8",
+  "#ecde8f",
+  "#70b6bf",
+  "#ffc0cd",
+  "#99d4af",
+  "#eef0d6",
+]

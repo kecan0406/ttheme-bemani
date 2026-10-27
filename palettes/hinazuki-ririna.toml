@@ -1,0 +1,29 @@
+"$schema" = "https://www.schemastore.org/ttheme-palette.json"
+subject = "beatmania-iidx/hinazuki-ririna"
+signature = ["cursor", "selection", "ansi11"]
+ansi_source = "Catppuccin Macchiato + IIDX"
+
+[colors]
+background = "#201514"
+foreground = "#fcdbd8"
+cursor = "#d75351"
+selection_background = "#302629"
+ansi = [
+  "#2d2120",
+  "#dc7980",
+  "#d1c460",
+  "#ddb86e",
+  "#ae86d1",
+  "#e29eb7",
+  "#88b782",
+  "#e6d0ce",
+
+  "#857371",
+  "#efa1a6",
+  "#d4e799",
+  "#f0e027",
+  "#bd9fd6",
+  "#ffc1d5",
+  "#a3d49e",
+  "#ffe9e7",
+]

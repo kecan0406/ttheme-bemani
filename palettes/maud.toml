@@ -1,0 +1,29 @@
+"$schema" = "https://www.schemastore.org/ttheme-palette.json"
+subject = "jubeat/maud"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Catppuccin Macchiato + JUBEAT"
+
+[colors]
+background = "#201514"
+foreground = "#bcebf2"
+cursor = "#ff8983"
+selection_background = "#133b71"
+ansi = [
+  "#2d2120",
+  "#dc7980",
+  "#d1c460",
+  "#edaf77",
+  "#ae86d1",
+  "#e29cb7",
+  "#88b782",
+  "#e6d0ce",
+
+  "#857371",
+  "#efa1a6",
+  "#eae08e",
+  "#ffd5b2",
+  "#bd9fd6",
+  "#ffc1d5",
+  "#a3d49e",
+  "#ffe9e7",
+]

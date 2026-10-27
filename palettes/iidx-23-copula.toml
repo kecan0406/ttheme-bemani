@@ -1,0 +1,29 @@
+"$schema" = "https://www.schemastore.org/ttheme-palette.json"
+subject = "beatmania-iidx/iidx-23-copula"
+signature = ["cursor", "ansi3", "selection"]
+ansi_source = "Royal + IIDXSERIES"
+
+[colors]
+background = "#1b170c"
+foreground = "#ede2c5"
+cursor = "#f9ce00"
+selection_background = "#46474a"
+ansi = [
+  "#272318",
+  "#eb7441",
+  "#abcf3a",
+  "#f4af00",
+  "#55a1a7",
+  "#f693ae",
+  "#75b8a6",
+  "#dcd4c2",
+
+  "#7d7767",
+  "#f3a282",
+  "#c2eb56",
+  "#fbdd2b",
+  "#4fbbbe",
+  "#ffc1cd",
+  "#90d4bf",
+  "#f9edd0",
+]

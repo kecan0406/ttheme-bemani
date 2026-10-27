@@ -1,0 +1,29 @@
+"$schema" = "https://www.schemastore.org/ttheme-palette.json"
+subject = "beatmania-iidx/iidx-9th-style"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Aardvark Ink + IIDXSERIES"
+
+[colors]
+background = "#191716"
+foreground = "#e2e2e2"
+cursor = "#918c8a"
+selection_background = "#312522"
+ansi = [
+  "#262322",
+  "#de787b",
+  "#7bd585",
+  "#cfbb66",
+  "#6196ec",
+  "#e191ff",
+  "#4fbbb8",
+  "#d9d3d1",
+
+  "#7b7674",
+  "#f3a09f",
+  "#95f1a3",
+  "#f1dd85",
+  "#87ade8",
+  "#f1c1ff",
+  "#68d8d4",
+  "#f3ecea",
+]

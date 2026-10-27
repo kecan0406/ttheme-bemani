@@ -1,0 +1,29 @@
+"$schema" = "https://www.schemastore.org/ttheme-palette.json"
+subject = "beatmania-iidx/iidx-20-tricoro"
+signature = ["cursor", "ansi11", "ansi4"]
+ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+
+[colors]
+background = "#201513"
+foreground = "#fddbd6"
+cursor = "#c6483d"
+selection_background = "#4a3a37"
+ansi = [
+  "#2d211f",
+  "#dc797d",
+  "#d1c461",
+  "#e6b371",
+  "#449aec",
+  "#e29cb6",
+  "#88b782",
+  "#e6d0cd",
+
+  "#857370",
+  "#efa1a4",
+  "#e1e291",
+  "#ffda5a",
+  "#99ace4",
+  "#ffc1d4",
+  "#a3d49e",
+  "#ffe9e6",
+]

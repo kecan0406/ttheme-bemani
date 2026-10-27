@@ -1,0 +1,29 @@
+"$schema" = "https://www.schemastore.org/ttheme-palette.json"
+subject = "beatmania-iidx/iidx-34-zinrai"
+signature = ["cursor", "selection", "ansi10"]
+ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+
+[colors]
+background = "#1d151b"
+foreground = "#f2dceb"
+cursor = "#e072d5"
+selection_background = "#340870"
+ansi = [
+  "#2a2128",
+  "#d57a9e",
+  "#bfcb6a",
+  "#efaf7d",
+  "#988bdb",
+  "#d7a0ca",
+  "#83b0d8",
+  "#dfd0d9",
+
+  "#80747b",
+  "#e8a2bd",
+  "#abef84",
+  "#fbd6bb",
+  "#ada4dc",
+  "#ffbeed",
+  "#a1cbf3",
+  "#fee8f6",
+]

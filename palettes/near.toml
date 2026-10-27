@@ -1,0 +1,29 @@
+"$schema" = "https://www.schemastore.org/ttheme-palette.json"
+subject = "sound-voltex/near"
+signature = ["cursor", "selection", "ansi3"]
+ansi_source = "Catppuccin Macchiato + SDVX"
+
+[colors]
+background = "#13181e"
+foreground = "#dae3f1"
+cursor = "#a8d1fb"
+selection_background = "#483456"
+ansi = [
+  "#1f242a",
+  "#d57998",
+  "#82d0aa",
+  "#f0ae6b",
+  "#6898d9",
+  "#baa8de",
+  "#6eb6c3",
+  "#d0d5dd",
+
+  "#72777f",
+  "#e6a3b8",
+  "#afe9cb",
+  "#f3d79b",
+  "#8eaddb",
+  "#ddc8ff",
+  "#8ed1df",
+  "#e5effc",
+]

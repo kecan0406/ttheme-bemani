@@ -6,3 +6,7 @@ description = "Terminal palettes for BEMANI characters and game series"
 name = "kecan0406"
 email = "kecan0406@gmail.com"
 url = "https://github.com/kecan0406"
+
+[renames]
+knit-popn = "knit"
+maud-popn = "maud"

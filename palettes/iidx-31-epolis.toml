@@ -1,0 +1,29 @@
+"$schema" = "https://www.schemastore.org/ttheme-palette.json"
+subject = "beatmania-iidx/iidx-31-epolis"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+
+[colors]
+background = "#18180e"
+foreground = "#e2e2e2"
+cursor = "#d0da31"
+selection_background = "#4e0e52"
+ansi = [
+  "#242419",
+  "#dc7b5a",
+  "#aacc7d",
+  "#cebb6f",
+  "#23a5b0",
+  "#e899ad",
+  "#7fb791",
+  "#d7d5c4",
+
+  "#787869",
+  "#f1a288",
+  "#cbe6a6",
+  "#efdd8e",
+  "#70b7bd",
+  "#ffc0ce",
+  "#9bd4ac",
+  "#f0efd4",
+]

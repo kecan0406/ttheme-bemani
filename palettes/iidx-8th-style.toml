@@ -1,0 +1,29 @@
+"$schema" = "https://www.schemastore.org/ttheme-palette.json"
+subject = "beatmania-iidx/iidx-8th-style"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Pencil Dark + IIDXSERIES"
+
+[colors]
+background = "#20150e"
+foreground = "#e1e3e3"
+cursor = "#ef7e00"
+selection_background = "#2e2626"
+ansi = [
+  "#2d211a",
+  "#f26b69",
+  "#b2cb57",
+  "#e9b32e",
+  "#9e87e3",
+  "#e699c2",
+  "#6fbb80",
+  "#e4d1c5",
+
+  "#84746a",
+  "#f3a199",
+  "#cbe87c",
+  "#ffd887",
+  "#b1a1e8",
+  "#ffbfe9",
+  "#8ed79d",
+  "#ffeadd",
+]

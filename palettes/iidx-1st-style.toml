@@ -1,0 +1,29 @@
+"$schema" = "https://www.schemastore.org/ttheme-palette.json"
+subject = "beatmania-iidx/iidx-1st-style"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Tomorrow Night Eighties + IIDXSERIES"
+
+[colors]
+background = "#161819"
+foreground = "#e2e2e2"
+cursor = "#bababb"
+selection_background = "#282828"
+ansi = [
+  "#222425",
+  "#ea7174",
+  "#9acd9a",
+  "#e5b451",
+  "#679acd",
+  "#d3a0d3",
+  "#53babb",
+  "#d4d4d5",
+
+  "#767778",
+  "#f3a09f",
+  "#b5eab5",
+  "#ffd78e",
+  "#7dafe4",
+  "#f7c0f6",
+  "#71d7d7",
+  "#eeeeee",
+]

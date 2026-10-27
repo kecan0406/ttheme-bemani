@@ -1,0 +1,29 @@
+"$schema" = "https://www.schemastore.org/ttheme-palette.json"
+subject = "pop-n-music/milk"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Catppuccin Macchiato + POPN"
+
+[colors]
+background = "#201516"
+foreground = "#e2e2e2"
+cursor = "#fd6f86"
+selection_background = "#8e0048"
+ansi = [
+  "#2d2122",
+  "#db7987",
+  "#d1c460",
+  "#f0ad7a",
+  "#a987d4",
+  "#e09ebc",
+  "#88b782",
+  "#e5cfd1",
+
+  "#847374",
+  "#eea1ab",
+  "#eae08e",
+  "#ffd5b6",
+  "#baa0d7",
+  "#ffc0da",
+  "#a3d49e",
+  "#ffe9ea",
+]

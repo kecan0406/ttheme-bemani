@@ -1,0 +1,29 @@
+"$schema" = "https://www.schemastore.org/ttheme-palette.json"
+subject = "jubeat/knit"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Royal + JUBEAT"
+
+[colors]
+background = "#1b170c"
+foreground = "#e2e2e2"
+cursor = "#ebd080"
+selection_background = "#323232"
+ansi = [
+  "#282318",
+  "#eb7442",
+  "#adcd39",
+  "#d7ba42",
+  "#55a1a7",
+  "#f693ae",
+  "#75b8a6",
+  "#dcd4c2",
+
+  "#7d7667",
+  "#f3a283",
+  "#c3eb55",
+  "#fcdc2a",
+  "#4fbbbe",
+  "#ffc1ce",
+  "#90d4bf",
+  "#f9edd0",
+]

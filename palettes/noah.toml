@@ -1,0 +1,29 @@
+"$schema" = "https://www.schemastore.org/ttheme-palette.json"
+subject = "sound-voltex/noah"
+signature = ["cursor", "ansi11", "ansi3"]
+ansi_source = "Catppuccin Macchiato + SDVX"
+
+[colors]
+background = "#12181e"
+foreground = "#d9e4f0"
+cursor = "#94ccfa"
+selection_background = "#4a3a37"
+ansi = [
+  "#1e242a",
+  "#d67998",
+  "#82d0aa",
+  "#f0ae6b",
+  "#6698d8",
+  "#b9a8df",
+  "#6eb7c1",
+  "#cfd5dc",
+
+  "#72787e",
+  "#e5a3b8",
+  "#aee9ca",
+  "#efdf69",
+  "#8cadda",
+  "#dcc8ff",
+  "#8ed2de",
+  "#e4effb",
+]

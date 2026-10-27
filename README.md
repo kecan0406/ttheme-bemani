@@ -7,7 +7,7 @@ ttheme marketplace add kecan0406/ttheme-bemani
 ttheme    # shift+tab to Browse
 ```
 
-Each game is a catalog. Every palette's colors are measured from official artwork or game art, and no pictures are included.
+Every palette here is of a character or a game version that ttheme's commons knows, so ttheme lists it under its game beside any other marketplace's palettes of the same subject. Every palette's colors are measured from official artwork or game art, and no pictures are included.
 
 ## beatmania IIDX
 
@@ -22,8 +22,6 @@ Each game is a catalog. Every palette's colors are measured from official artwor
 | `umegiri-iroha` | 梅桐彩葉 | `#f7954e` |
 
 `hinazuki-ririna` and `hishimiya-tsugaru` are measured from game frames, so their colors are less exact than the others.
-
-## beatmania IIDX series
 
 | Palette | Version | Cursor |
 | --- | --- | --- |
@@ -63,14 +61,12 @@ Each game is a catalog. Every palette's colors are measured from official artwor
 | `iidx-33-sparkle-shower` | 33 Sparkle Shower | `#01903a` |
 | `iidx-34-zinrai` | 34 ZINRAI | `#e072d5` |
 
-One palette per arcade version, from 1st style to 34 ZINRAI. Each is measured from the version's own logo, title screen or key visual, so the older ones lean on a single logo and are the least exact. The characters of the same game are in the `beatmania IIDX` catalog. Their pictures come from danbooru's version tags where one exists (all but 1st style, substream and 34 ZINRAI), and 17 of them also search one character of the version in the same query (it needs a ttheme that lets danbooru OR two tags); konachan, yande.re and zerochan have no tag per version, so `find` searches danbooru only.
+One palette per arcade version, from 1st style to 34 ZINRAI, listed under beatmania IIDX after its characters. Each is measured from the version's own logo, title screen or key visual, so the older ones lean on a single logo and are the least exact. Their pictures come from danbooru's version tags where one exists (all but 1st style, substream and 34 ZINRAI), and 17 of them also search one character of the version in the same query (it needs a ttheme that lets danbooru OR two tags); konachan, yande.re and zerochan have no tag per version, so `find` searches danbooru only.
 
 ## pop'n music
 
 | Palette | Character | Cursor |
 | --- | --- | --- |
-| `knit-popn` | ニット | `#ebd080` |
-| `maud-popn` | モード | `#ff8983` |
 | `milk` | ミルク | `#fd6f86` |
 | `mimi` | ミミ | `#b1410a` |
 | `nyami` | ニャミ | `#b1410a` |
@@ -79,7 +75,7 @@ One palette per arcade version, from 1st style to 34 ZINRAI. Each is measured fr
 | `sanae-chan` | さなえちゃん | `#bdd2ff` |
 | `yuli` | ユーリ | `#97dede` |
 
-`maud-popn` and `knit-popn` are the same palettes as `maud` and `knit` in jubeat. `mimi` and `nyami` share one look.
+jubeat's `knit` and `maud` are listed here too, since Knit and Maud appear in pop'n music as well. `mimi` and `nyami` share one look.
 
 ## DanceDanceRevolution
 

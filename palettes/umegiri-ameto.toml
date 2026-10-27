@@ -1,0 +1,29 @@
+"$schema" = "https://www.schemastore.org/ttheme-palette.json"
+subject = "beatmania-iidx/umegiri-ameto"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Paraiso Dark + IIDX"
+
+[colors]
+background = "#201515"
+foreground = "#e2e2e2"
+cursor = "#dd566b"
+selection_background = "#861330"
+ansi = [
+  "#2d2021",
+  "#f26b6b",
+  "#d2c349",
+  "#ffa75e",
+  "#8f89f2",
+  "#e398d6",
+  "#7cafe8",
+  "#e5cfd0",
+
+  "#857374",
+  "#f3a09e",
+  "#f0df62",
+  "#ffd5b6",
+  "#a8a4e8",
+  "#ffbdf1",
+  "#a7caf3",
+  "#ffe9e9",
+]

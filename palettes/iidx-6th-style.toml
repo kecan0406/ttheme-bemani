@@ -1,0 +1,29 @@
+"$schema" = "https://www.schemastore.org/ttheme-palette.json"
+subject = "beatmania-iidx/iidx-6th-style"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+
+[colors]
+background = "#19161e"
+foreground = "#e2e2e2"
+cursor = "#9983be"
+selection_background = "#464747"
+ansi = [
+  "#26222a",
+  "#d77a99",
+  "#84d1ab",
+  "#efb080",
+  "#8790dd",
+  "#cda3d3",
+  "#7ab3d2",
+  "#d9d2dd",
+
+  "#7a757f",
+  "#e8a3b8",
+  "#b1eacc",
+  "#fad7be",
+  "#a1a7dd",
+  "#f9bdff",
+  "#98ceed",
+  "#f4eafd",
+]

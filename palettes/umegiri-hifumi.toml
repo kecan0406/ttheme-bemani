@@ -1,0 +1,29 @@
+"$schema" = "https://www.schemastore.org/ttheme-palette.json"
+subject = "beatmania-iidx/umegiri-hifumi"
+signature = ["cursor", "selection", "ansi11"]
+ansi_source = "Catppuccin Macchiato + IIDX"
+
+[colors]
+background = "#1d151b"
+foreground = "#f3dcea"
+cursor = "#a33b98"
+selection_background = "#462736"
+ansi = [
+  "#2a2127",
+  "#d6799d",
+  "#d2c560",
+  "#e3b672",
+  "#998bda",
+  "#d7a0c9",
+  "#84b0d8",
+  "#e0d0d9",
+
+  "#80747b",
+  "#e8a2bc",
+  "#dde593",
+  "#ffdb25",
+  "#aea4dc",
+  "#ffbeec",
+  "#a2cbf3",
+  "#ffe7f6",
+]

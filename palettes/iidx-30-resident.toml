@@ -1,0 +1,29 @@
+"$schema" = "https://www.schemastore.org/ttheme-palette.json"
+subject = "beatmania-iidx/iidx-30-resident"
+signature = ["cursor", "selection", "ansi6"]
+ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+
+[colors]
+background = "#15171e"
+foreground = "#dee2f2"
+cursor = "#3274e8"
+selection_background = "#66298a"
+ansi = [
+  "#21242b",
+  "#d77998",
+  "#86d1a9",
+  "#eeaf80",
+  "#7495dc",
+  "#c1a6db",
+  "#00c1a4",
+  "#d3d4de",
+
+  "#757780",
+  "#e6a2b8",
+  "#b0eacc",
+  "#f9d49c",
+  "#95abdc",
+  "#e5c5ff",
+  "#8dd3d4",
+  "#eaedfe",
+]

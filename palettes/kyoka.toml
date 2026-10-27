@@ -1,0 +1,29 @@
+"$schema" = "https://www.schemastore.org/ttheme-palette.json"
+subject = "gitadora/kyoka"
+signature = ["cursor", "selection", "ansi5"]
+ansi_source = "Catppuccin Macchiato + GITADORA"
+
+[colors]
+background = "#13181e"
+foreground = "#dbe3f1"
+cursor = "#aaccf9"
+selection_background = "#292e6f"
+ansi = [
+  "#20242a",
+  "#d57998",
+  "#83d0aa",
+  "#b4c183",
+  "#6c97da",
+  "#c79dff",
+  "#6fb6c5",
+  "#d1d4dd",
+
+  "#73777f",
+  "#e6a3b8",
+  "#afe9cb",
+  "#d5e2a4",
+  "#90acdb",
+  "#e0c8ff",
+  "#8fd1e1",
+  "#e6eefd",
+]

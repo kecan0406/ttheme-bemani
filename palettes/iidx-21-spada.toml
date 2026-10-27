@@ -1,0 +1,29 @@
+"$schema" = "https://www.schemastore.org/ttheme-palette.json"
+subject = "beatmania-iidx/iidx-21-spada"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Liquid Carbon + IIDXSERIES"
+
+[colors]
+background = "#201513"
+foreground = "#e3e2e1"
+cursor = "#c6483c"
+selection_background = "#3e1f1d"
+ansi = [
+  "#2e211f",
+  "#f16c60",
+  "#cdc467",
+  "#ffa937",
+  "#9889e6",
+  "#ff8cc0",
+  "#8ab683",
+  "#e6d0cc",
+
+  "#857370",
+  "#f3a198",
+  "#e9e080",
+  "#ffd6aa",
+  "#aea2e8",
+  "#ffc1d9",
+  "#a5d39d",
+  "#ffe9e6",
+]

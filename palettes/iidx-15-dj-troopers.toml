@@ -1,0 +1,29 @@
+"$schema" = "https://www.schemastore.org/ttheme-palette.json"
+subject = "beatmania-iidx/iidx-15-dj-troopers"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Pencil Dark + IIDXSERIES"
+
+[colors]
+background = "#201511"
+foreground = "#e2e2e2"
+cursor = "#a44b29"
+selection_background = "#4a1710"
+ansi = [
+  "#2d211c",
+  "#f26a7a",
+  "#bfc84c",
+  "#f3af31",
+  "#9e87e3",
+  "#e19bca",
+  "#6fbb80",
+  "#e6d0c9",
+
+  "#85736d",
+  "#f3a0a1",
+  "#d7e672",
+  "#ffd79a",
+  "#b1a1e8",
+  "#ffbcf4",
+  "#8ed79d",
+  "#ffe9e3",
+]
