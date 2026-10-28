@@ -1,0 +1,218 @@
+"$schema" = "https://www.schemastore.org/ttheme-set.json"
+
+[[palette]]
+slug = "milk"
+subject = "pop-n-music/milk"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Catppuccin Macchiato + POPN"
+
+[palette.colors]
+background = "#201516"
+foreground = "#e2e2e2"
+cursor = "#fd6f86"
+selection_background = "#8e0048"
+ansi = [
+  "#2d2122",
+  "#db7987",
+  "#d1c460",
+  "#f0ad7a",
+  "#a987d4",
+  "#e09ebc",
+  "#88b782",
+  "#e5cfd1",
+
+  "#847374",
+  "#eea1ab",
+  "#eae08e",
+  "#ffd5b6",
+  "#baa0d7",
+  "#ffc0da",
+  "#a3d49e",
+  "#ffe9ea",
+]
+
+[[palette]]
+slug = "mimi"
+subject = "pop-n-music/mimi"
+signature = ["cursor", "ansi2", "foreground"]
+ansi_source = "Catppuccin Macchiato + POPN"
+
+[palette.colors]
+background = "#201511"
+foreground = "#e2e2e2"
+cursor = "#b1410a"
+selection_background = "#4a3a37"
+ansi = [
+  "#2d211c",
+  "#dd7974",
+  "#78d665",
+  "#e9b173",
+  "#aa87d4",
+  "#e59cb0",
+  "#77bb92",
+  "#e6d0c9",
+
+  "#85736d",
+  "#f0a19e",
+  "#d3e79a",
+  "#ffd6a9",
+  "#bba1d9",
+  "#ffc1cf",
+  "#a3d49e",
+  "#ffe9e2",
+]
+
+[[palette]]
+slug = "nyami"
+subject = "pop-n-music/nyami"
+signature = ["cursor", "ansi2", "foreground"]
+ansi_source = "Catppuccin Macchiato + POPN"
+
+[palette.colors]
+background = "#201511"
+foreground = "#e2e2e2"
+cursor = "#b1410a"
+selection_background = "#4a3a37"
+ansi = [
+  "#2d211c",
+  "#dd7974",
+  "#78d665",
+  "#e9b173",
+  "#aa87d4",
+  "#e59cb0",
+  "#77bb92",
+  "#e6d0c9",
+
+  "#85736d",
+  "#f0a19e",
+  "#d3e79a",
+  "#ffd6a9",
+  "#bba1d9",
+  "#ffc1cf",
+  "#a3d49e",
+  "#ffe9e2",
+]
+
+[[palette]]
+slug = "poet"
+subject = "pop-n-music/poet"
+signature = ["cursor", "foreground", "ansi3"]
+ansi_source = "Catppuccin Macchiato + POPN"
+
+[palette.colors]
+background = "#1c170c"
+foreground = "#e2e2e2"
+cursor = "#ffbd00"
+selection_background = "#4a3a37"
+ansi = [
+  "#292318",
+  "#db7d57",
+  "#bbc86f",
+  "#ffa679",
+  "#ab87d4",
+  "#e79bae",
+  "#8bb684",
+  "#dfd3c2",
+
+  "#7f7667",
+  "#f0a388",
+  "#d8e39a",
+  "#ffd5a9",
+  "#bba1da",
+  "#ffc1ce",
+  "#a5d2a0",
+  "#fdecd0",
+]
+
+[[palette]]
+slug = "rie-chan"
+subject = "pop-n-music/rie-chan"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Catppuccin Macchiato + POPN"
+
+[palette.colors]
+background = "#20150f"
+foreground = "#e2e2e2"
+cursor = "#d6620d"
+selection_background = "#900f00"
+ansi = [
+  "#2d211b",
+  "#dd7a6f",
+  "#d0c362",
+  "#e7b271",
+  "#ab87d5",
+  "#e69cac",
+  "#88b783",
+  "#e5d0c7",
+
+  "#85746b",
+  "#f1a19a",
+  "#e9df90",
+  "#ffd6a5",
+  "#baa1d9",
+  "#ffc2cc",
+  "#a3d49f",
+  "#ffeae0",
+]
+
+[[palette]]
+slug = "sanae-chan"
+subject = "pop-n-music/sanae-chan"
+signature = ["cursor", "selection", "ansi12"]
+ansi_source = "Catppuccin Macchiato + POPN"
+
+[palette.colors]
+background = "#14181e"
+foreground = "#dde2f2"
+cursor = "#bdd2ff"
+selection_background = "#48181e"
+ansi = [
+  "#21242b",
+  "#d67a98",
+  "#83d1ab",
+  "#b4c183",
+  "#7195db",
+  "#c0a6dc",
+  "#72b6c7",
+  "#d2d4de",
+
+  "#74777f",
+  "#e6a3b8",
+  "#b0eacb",
+  "#d5e2a4",
+  "#a4a5e8",
+  "#e4c6ff",
+  "#90d0e4",
+  "#e9eefe",
+]
+
+[[palette]]
+slug = "yuli"
+subject = "pop-n-music/yuli"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Catppuccin Macchiato + POPN"
+
+[palette.colors]
+background = "#101919"
+foreground = "#e2e2e2"
+cursor = "#97dede"
+selection_background = "#930100"
+ansi = [
+  "#1c2525",
+  "#d57a98",
+  "#80d1a8",
+  "#b4c180",
+  "#4b9ece",
+  "#b4a9de",
+  "#6eb8b2",
+  "#ccd6d6",
+
+  "#6f7979",
+  "#e4a3b7",
+  "#aceac9",
+  "#d5e39f",
+  "#7eb1d3",
+  "#d6caff",
+  "#8cd3ce",
+  "#dff2f1",
+]

@@ -1,0 +1,187 @@
+"$schema" = "https://www.schemastore.org/ttheme-set.json"
+
+[[palette]]
+slug = "grace"
+subject = "sound-voltex/grace"
+signature = ["cursor", "selection", "ansi13"]
+ansi_source = "Catppuccin Macchiato + SDVX"
+
+[palette.colors]
+background = "#1e151a"
+foreground = "#f6dce6"
+cursor = "#f592c9"
+selection_background = "#612698"
+ansi = [
+  "#2b2126",
+  "#d87995",
+  "#d2c560",
+  "#f0ae7c",
+  "#9e89d9",
+  "#da9fc5",
+  "#84b0d8",
+  "#e2d0d6",
+
+  "#827379",
+  "#eaa1b7",
+  "#eae08d",
+  "#fcd6b9",
+  "#b2a3db",
+  "#f9c0ed",
+  "#a2cbf3",
+  "#ffe8f1",
+]
+
+[[palette]]
+slug = "konoha"
+subject = "sound-voltex/konoha"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Catppuccin Macchiato + SDVX"
+
+[palette.colors]
+background = "#201515"
+foreground = "#f6ddd3"
+cursor = "#d14e55"
+selection_background = "#8c151d"
+ansi = [
+  "#2d2120",
+  "#dc7982",
+  "#d1c461",
+  "#eeae78",
+  "#ac86d2",
+  "#e19eb9",
+  "#88b782",
+  "#e5cfcf",
+
+  "#857372",
+  "#efa1a8",
+  "#eae08e",
+  "#ffd5b3",
+  "#bca0d6",
+  "#ffc1d7",
+  "#a3d49e",
+  "#ffe9e8",
+]
+
+[[palette]]
+slug = "kureha"
+subject = "sound-voltex/kureha"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Liquid Carbon + SDVX"
+
+[palette.colors]
+background = "#211513"
+foreground = "#e9e1df"
+cursor = "#b43c2c"
+selection_background = "#4b282b"
+ansi = [
+  "#2e211e",
+  "#f16d5e",
+  "#cbc468",
+  "#ffa932",
+  "#9889e6",
+  "#ff8cbe",
+  "#8ab683",
+  "#e6d0cc",
+
+  "#857370",
+  "#f3a197",
+  "#e8e081",
+  "#ffd6a9",
+  "#aea2e8",
+  "#ffc1d8",
+  "#a5d39d",
+  "#ffe9e5",
+]
+
+[[palette]]
+slug = "near"
+subject = "sound-voltex/near"
+signature = ["cursor", "selection", "ansi3"]
+ansi_source = "Catppuccin Macchiato + SDVX"
+
+[palette.colors]
+background = "#13181e"
+foreground = "#dae3f1"
+cursor = "#a8d1fb"
+selection_background = "#483456"
+ansi = [
+  "#1f242a",
+  "#d57998",
+  "#82d0aa",
+  "#f0ae6b",
+  "#6898d9",
+  "#baa8de",
+  "#6eb6c3",
+  "#d0d5dd",
+
+  "#72777f",
+  "#e6a3b8",
+  "#afe9cb",
+  "#f3d79b",
+  "#8eaddb",
+  "#ddc8ff",
+  "#8ed1df",
+  "#e5effc",
+]
+
+[[palette]]
+slug = "noah"
+subject = "sound-voltex/noah"
+signature = ["cursor", "ansi11", "ansi3"]
+ansi_source = "Catppuccin Macchiato + SDVX"
+
+[palette.colors]
+background = "#12181e"
+foreground = "#d9e4f0"
+cursor = "#94ccfa"
+selection_background = "#4a3a37"
+ansi = [
+  "#1e242a",
+  "#d67998",
+  "#82d0aa",
+  "#f0ae6b",
+  "#6698d8",
+  "#b9a8df",
+  "#6eb7c1",
+  "#cfd5dc",
+
+  "#72787e",
+  "#e5a3b8",
+  "#aee9ca",
+  "#efdf69",
+  "#8cadda",
+  "#dcc8ff",
+  "#8ed2de",
+  "#e4effb",
+]
+
+[[palette]]
+slug = "rasis"
+subject = "sound-voltex/rasis"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Catppuccin Macchiato + SDVX"
+
+[palette.colors]
+background = "#1f1518"
+foreground = "#ecdfe8"
+cursor = "#f870a7"
+selection_background = "#583f51"
+ansi = [
+  "#2c2124",
+  "#da7990",
+  "#d2c55f",
+  "#f2ac7f",
+  "#a388d7",
+  "#dd9fc1",
+  "#84b0d8",
+  "#e3d0d4",
+
+  "#837377",
+  "#eca1b2",
+  "#ebe08d",
+  "#fdd5b8",
+  "#b5a2da",
+  "#ffbfe0",
+  "#a2cbf3",
+  "#ffe8ed",
+]

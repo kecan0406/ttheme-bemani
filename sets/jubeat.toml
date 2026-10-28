@@ -1,0 +1,63 @@
+"$schema" = "https://www.schemastore.org/ttheme-set.json"
+
+[[palette]]
+slug = "knit"
+subject = "jubeat/knit"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Royal + JUBEAT"
+
+[palette.colors]
+background = "#1b170c"
+foreground = "#e2e2e2"
+cursor = "#ebd080"
+selection_background = "#323232"
+ansi = [
+  "#282318",
+  "#eb7442",
+  "#adcd39",
+  "#d7ba42",
+  "#55a1a7",
+  "#f693ae",
+  "#75b8a6",
+  "#dcd4c2",
+
+  "#7d7667",
+  "#f3a283",
+  "#c3eb55",
+  "#fcdc2a",
+  "#4fbbbe",
+  "#ffc1ce",
+  "#90d4bf",
+  "#f9edd0",
+]
+
+[[palette]]
+slug = "maud"
+subject = "jubeat/maud"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Catppuccin Macchiato + JUBEAT"
+
+[palette.colors]
+background = "#201514"
+foreground = "#bcebf2"
+cursor = "#ff8983"
+selection_background = "#133b71"
+ansi = [
+  "#2d2120",
+  "#dc7980",
+  "#d1c460",
+  "#edaf77",
+  "#ae86d1",
+  "#e29cb7",
+  "#88b782",
+  "#e6d0ce",
+
+  "#857371",
+  "#efa1a6",
+  "#eae08e",
+  "#ffd5b2",
+  "#bd9fd6",
+  "#ffc1d5",
+  "#a3d49e",
+  "#ffe9e7",
+]

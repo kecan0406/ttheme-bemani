@@ -1,0 +1,94 @@
+"$schema" = "https://www.schemastore.org/ttheme-set.json"
+
+[[palette]]
+slug = "gen"
+subject = "gitadora/gen"
+signature = ["cursor", "selection", "ansi3"]
+ansi_source = "Catppuccin Macchiato + GITADORA"
+
+[palette.colors]
+background = "#1a161e"
+foreground = "#eadff1"
+cursor = "#9360d6"
+selection_background = "#1f2360"
+ansi = [
+  "#26222a",
+  "#d77998",
+  "#84d1ab",
+  "#fea866",
+  "#898fdd",
+  "#cea2d2",
+  "#7bb3d2",
+  "#dad2dd",
+
+  "#7b757f",
+  "#e8a2b8",
+  "#b1eacc",
+  "#ffd3c9",
+  "#a3a7dd",
+  "#fbbdff",
+  "#99cded",
+  "#f5eafc",
+]
+
+[[palette]]
+slug = "kyoka"
+subject = "gitadora/kyoka"
+signature = ["cursor", "selection", "ansi5"]
+ansi_source = "Catppuccin Macchiato + GITADORA"
+
+[palette.colors]
+background = "#13181e"
+foreground = "#dbe3f1"
+cursor = "#aaccf9"
+selection_background = "#292e6f"
+ansi = [
+  "#20242a",
+  "#d57998",
+  "#83d0aa",
+  "#b4c183",
+  "#6c97da",
+  "#c79dff",
+  "#6fb6c5",
+  "#d1d4dd",
+
+  "#73777f",
+  "#e6a3b8",
+  "#afe9cb",
+  "#d5e2a4",
+  "#90acdb",
+  "#e0c8ff",
+  "#8fd1e1",
+  "#e6eefd",
+]
+
+[[palette]]
+slug = "rio"
+subject = "gitadora/rio"
+signature = ["cursor", "selection", "ansi11"]
+ansi_source = "Whimsy + GITADORA"
+
+[palette.colors]
+background = "#1e160d"
+foreground = "#f6dfc6"
+cursor = "#f29d09"
+selection_background = "#262a6f"
+ansi = [
+  "#2b2218",
+  "#f16e4d",
+  "#b0cc58",
+  "#e3b45b",
+  "#b281db",
+  "#ff8cbe",
+  "#7bba74",
+  "#e2d2c3",
+
+  "#827568",
+  "#f3a18e",
+  "#cde870",
+  "#ffd96c",
+  "#c599e8",
+  "#ffc1d7",
+  "#95d78e",
+  "#ffebd6",
+]

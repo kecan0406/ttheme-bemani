@@ -1,0 +1,94 @@
+"$schema" = "https://www.schemastore.org/ttheme-set.json"
+
+[[palette]]
+slug = "alice-ip"
+subject = "dancedancerevolution/alice-ip"
+signature = ["cursor", "selection", "ansi2"]
+ansi_source = "Catppuccin Macchiato + DDR"
+
+[palette.colors]
+background = "#201511"
+foreground = "#fddbd0"
+cursor = "#f5723c"
+selection_background = "#0038b6"
+ansi = [
+  "#2d211c",
+  "#dd7974",
+  "#57d5b2",
+  "#e9b173",
+  "#aa87d4",
+  "#e59cb0",
+  "#81b989",
+  "#e6d0c9",
+
+  "#85736d",
+  "#f0a19e",
+  "#aaf0bb",
+  "#ffd6a9",
+  "#bba1d9",
+  "#ffc1cf",
+  "#88d8b9",
+  "#ffe9e2",
+]
+
+[[palette]]
+slug = "toshiba-emi"
+subject = "dancedancerevolution/toshiba-emi"
+signature = ["cursor", "ansi5", "ansi11"]
+ansi_source = "Catppuccin Macchiato + DDR"
+
+[palette.colors]
+background = "#13181e"
+foreground = "#dae3f1"
+cursor = "#35a5fc"
+selection_background = "#4a3a37"
+ansi = [
+  "#1f242a",
+  "#d67998",
+  "#83d0aa",
+  "#a8c48b",
+  "#6a97da",
+  "#f888ed",
+  "#70b6c3",
+  "#d0d5dd",
+
+  "#73777f",
+  "#e5a3b8",
+  "#afe9cb",
+  "#e3e35c",
+  "#8faddb",
+  "#e7c4ff",
+  "#8ed1e0",
+  "#e6effc",
+]
+
+[[palette]]
+slug = "yuni"
+subject = "dancedancerevolution/yuni"
+signature = ["cursor", "selection", "ansi4"]
+ansi_source = "Catppuccin Macchiato + DDR"
+
+[palette.colors]
+background = "#1a180d"
+foreground = "#ebe2c6"
+cursor = "#e4d284"
+selection_background = "#3437a6"
+ansi = [
+  "#272418",
+  "#dc7b5b",
+  "#b2ca75",
+  "#d4b96e",
+  "#319de6",
+  "#e79aad",
+  "#85b78a",
+  "#dbd4c2",
+
+  "#7c7768",
+  "#f1a389",
+  "#d2e59f",
+  "#f6db8c",
+  "#75b4ca",
+  "#ffc0ce",
+  "#a0d3a6",
+  "#f7eed1",
+]

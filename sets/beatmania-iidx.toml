@@ -1,0 +1,1303 @@
+"$schema" = "https://www.schemastore.org/ttheme-set.json"
+
+[[palette]]
+slug = "hinazuki-ririna"
+subject = "beatmania-iidx/hinazuki-ririna"
+signature = ["cursor", "selection", "ansi11"]
+ansi_source = "Catppuccin Macchiato + IIDX"
+
+[palette.colors]
+background = "#201514"
+foreground = "#fcdbd8"
+cursor = "#d75351"
+selection_background = "#302629"
+ansi = [
+  "#2d2120",
+  "#dc7980",
+  "#d1c460",
+  "#ddb86e",
+  "#ae86d1",
+  "#e29eb7",
+  "#88b782",
+  "#e6d0ce",
+
+  "#857371",
+  "#efa1a6",
+  "#d4e799",
+  "#f0e027",
+  "#bd9fd6",
+  "#ffc1d5",
+  "#a3d49e",
+  "#ffe9e7",
+]
+
+[[palette]]
+slug = "hishimiya-tsugaru"
+subject = "beatmania-iidx/hishimiya-tsugaru"
+signature = ["cursor", "selection", "ansi10"]
+ansi_source = "Catppuccin Macchiato + IIDX"
+
+[palette.colors]
+background = "#151910"
+foreground = "#dfe5ce"
+cursor = "#698e31"
+selection_background = "#930100"
+ansi = [
+  "#21251b",
+  "#db7a5a",
+  "#a1cd85",
+  "#c7bd72",
+  "#27a4b6",
+  "#e999ad",
+  "#7bb897",
+  "#d3d6c7",
+
+  "#75786c",
+  "#f1a188",
+  "#dbe63e",
+  "#eedd8e",
+  "#71b6c2",
+  "#ffbfcd",
+  "#97d4b3",
+  "#eaf1d9",
+]
+
+[[palette]]
+slug = "kitami-erika"
+subject = "beatmania-iidx/kitami-erika"
+signature = ["cursor", "selection", "ansi2"]
+ansi_source = "Catppuccin Macchiato + IIDX"
+
+[palette.colors]
+background = "#17190f"
+foreground = "#e2e5cb"
+cursor = "#b9c975"
+selection_background = "#533c71"
+ansi = [
+  "#23251a",
+  "#dc7a5a",
+  "#b0cb6e",
+  "#cbbc70",
+  "#24a4b3",
+  "#e999ad",
+  "#7db793",
+  "#d5d6c5",
+
+  "#77786a",
+  "#f1a288",
+  "#c8e7a8",
+  "#ecde8f",
+  "#70b6bf",
+  "#ffc0cd",
+  "#99d4af",
+  "#eef0d6",
+]
+
+[[palette]]
+slug = "mizushiro-celica"
+subject = "beatmania-iidx/mizushiro-celica"
+signature = ["cursor", "selection", "ansi6"]
+ansi_source = "Catppuccin Macchiato + IIDX"
+
+[palette.colors]
+background = "#1e151a"
+foreground = "#f4dce9"
+cursor = "#f485d5"
+selection_background = "#77236d"
+ansi = [
+  "#2a2127",
+  "#d7799a",
+  "#d2c560",
+  "#efae7c",
+  "#9b8ada",
+  "#d9a0c7",
+  "#76b5c8",
+  "#e0d0d8",
+
+  "#81737a",
+  "#e9a2ba",
+  "#eae08d",
+  "#fcd6ba",
+  "#afa3db",
+  "#ffbfe9",
+  "#9ccdf0",
+  "#ffe8f3",
+]
+
+[[palette]]
+slug = "umegiri-ameto"
+subject = "beatmania-iidx/umegiri-ameto"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Paraiso Dark + IIDX"
+
+[palette.colors]
+background = "#201515"
+foreground = "#e2e2e2"
+cursor = "#dd566b"
+selection_background = "#861330"
+ansi = [
+  "#2d2021",
+  "#f26b6b",
+  "#d2c349",
+  "#ffa75e",
+  "#8f89f2",
+  "#e398d6",
+  "#7cafe8",
+  "#e5cfd0",
+
+  "#857374",
+  "#f3a09e",
+  "#f0df62",
+  "#ffd5b6",
+  "#a8a4e8",
+  "#ffbdf1",
+  "#a7caf3",
+  "#ffe9e9",
+]
+
+[[palette]]
+slug = "umegiri-hifumi"
+subject = "beatmania-iidx/umegiri-hifumi"
+signature = ["cursor", "selection", "ansi11"]
+ansi_source = "Catppuccin Macchiato + IIDX"
+
+[palette.colors]
+background = "#1d151b"
+foreground = "#f3dcea"
+cursor = "#a33b98"
+selection_background = "#462736"
+ansi = [
+  "#2a2127",
+  "#d6799d",
+  "#d2c560",
+  "#e3b672",
+  "#998bda",
+  "#d7a0c9",
+  "#84b0d8",
+  "#e0d0d9",
+
+  "#80747b",
+  "#e8a2bc",
+  "#dde593",
+  "#ffdb25",
+  "#aea4dc",
+  "#ffbeec",
+  "#a2cbf3",
+  "#ffe7f6",
+]
+
+[[palette]]
+slug = "umegiri-iroha"
+subject = "beatmania-iidx/umegiri-iroha"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Pencil Dark + IIDX"
+
+[palette.colors]
+background = "#20150f"
+foreground = "#e2e2e2"
+cursor = "#f7954e"
+selection_background = "#004d63"
+ansi = [
+  "#2d211a",
+  "#f26b6c",
+  "#b5cb55",
+  "#ebb22e",
+  "#9e87e3",
+  "#e599c4",
+  "#6fbb80",
+  "#e5d1c6",
+
+  "#84746a",
+  "#f3a09a",
+  "#cde87a",
+  "#ffd88b",
+  "#b1a1e8",
+  "#ffbeeb",
+  "#8ed79d",
+  "#ffeade",
+]
+
+[[palette]]
+slug = "iidx-1st-style"
+subject = "beatmania-iidx/iidx-1st-style"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Tomorrow Night Eighties + IIDXSERIES"
+
+[palette.colors]
+background = "#161819"
+foreground = "#e2e2e2"
+cursor = "#bababb"
+selection_background = "#282828"
+ansi = [
+  "#222425",
+  "#ea7174",
+  "#9acd9a",
+  "#e5b451",
+  "#679acd",
+  "#d3a0d3",
+  "#53babb",
+  "#d4d4d5",
+
+  "#767778",
+  "#f3a09f",
+  "#b5eab5",
+  "#ffd78e",
+  "#7dafe4",
+  "#f7c0f6",
+  "#71d7d7",
+  "#eeeeee",
+]
+
+[[palette]]
+slug = "iidx-substream"
+subject = "beatmania-iidx/iidx-substream"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Royal + IIDXSERIES"
+
+[palette.colors]
+background = "#1c170c"
+foreground = "#e2e2e2"
+cursor = "#f5cd61"
+selection_background = "#282828"
+ansi = [
+  "#282318",
+  "#eb7345",
+  "#afcd36",
+  "#d8b942",
+  "#55a1a7",
+  "#f593b0",
+  "#76b8a5",
+  "#ddd3c2",
+
+  "#7e7667",
+  "#f3a285",
+  "#c6eb52",
+  "#fedb29",
+  "#4fbbbe",
+  "#ffc1cf",
+  "#91d4be",
+  "#fbecd0",
+]
+
+[[palette]]
+slug = "iidx-2nd-style"
+subject = "beatmania-iidx/iidx-2nd-style"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Royal + IIDXSERIES"
+
+[palette.colors]
+background = "#1c170c"
+foreground = "#e2e2e2"
+cursor = "#facc51"
+selection_background = "#282828"
+ansi = [
+  "#282318",
+  "#eb7346",
+  "#b0cd35",
+  "#d9b942",
+  "#55a1a7",
+  "#f593b0",
+  "#76b8a4",
+  "#ddd3c2",
+
+  "#7e7667",
+  "#f3a285",
+  "#c7ea51",
+  "#ffdb28",
+  "#4fbbbe",
+  "#ffc1cf",
+  "#91d4bd",
+  "#fbecd0",
+]
+
+[[palette]]
+slug = "iidx-3rd-style"
+subject = "beatmania-iidx/iidx-3rd-style"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+
+[palette.colors]
+background = "#1f1518"
+foreground = "#e2e2e2"
+cursor = "#c6487c"
+selection_background = "#673752"
+ansi = [
+  "#2c2124",
+  "#da798f",
+  "#d2c55f",
+  "#f2ac7f",
+  "#a488d7",
+  "#dd9fc1",
+  "#84b0d8",
+  "#e3d0d4",
+
+  "#837377",
+  "#eca1b1",
+  "#eae08d",
+  "#fdd5b8",
+  "#b6a2d9",
+  "#ffbfdf",
+  "#a2cbf3",
+  "#ffe8ed",
+]
+
+[[palette]]
+slug = "iidx-4th-style"
+subject = "beatmania-iidx/iidx-4th-style"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Liquid Carbon + IIDXSERIES"
+
+[palette.colors]
+background = "#201513"
+foreground = "#e2e2e3"
+cursor = "#c6483c"
+selection_background = "#312522"
+ansi = [
+  "#2e211f",
+  "#f16c60",
+  "#cdc467",
+  "#ffa937",
+  "#9889e6",
+  "#ff8cc0",
+  "#8ab683",
+  "#e6d0cd",
+
+  "#857370",
+  "#f3a198",
+  "#eae080",
+  "#ffd6aa",
+  "#aea2e8",
+  "#ffc1d9",
+  "#a5d39d",
+  "#ffe9e6",
+]
+
+[[palette]]
+slug = "iidx-5th-style"
+subject = "beatmania-iidx/iidx-5th-style"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Whimsy + IIDXSERIES"
+
+[palette.colors]
+background = "#1e160d"
+foreground = "#e2e2e2"
+cursor = "#f5a100"
+selection_background = "#073190"
+ansi = [
+  "#2b2218",
+  "#f16e4b",
+  "#afcc59",
+  "#e2b55b",
+  "#00a7a2",
+  "#ff8cbc",
+  "#7aba75",
+  "#e1d2c2",
+
+  "#817568",
+  "#f3a28d",
+  "#cbe971",
+  "#ffd78f",
+  "#00bfb9",
+  "#ffc1d7",
+  "#94d78e",
+  "#ffebd5",
+]
+
+[[palette]]
+slug = "iidx-6th-style"
+subject = "beatmania-iidx/iidx-6th-style"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+
+[palette.colors]
+background = "#19161e"
+foreground = "#e2e2e2"
+cursor = "#9983be"
+selection_background = "#464747"
+ansi = [
+  "#26222a",
+  "#d77a99",
+  "#84d1ab",
+  "#efb080",
+  "#8790dd",
+  "#cda3d3",
+  "#7ab3d2",
+  "#d9d2dd",
+
+  "#7a757f",
+  "#e8a3b8",
+  "#b1eacc",
+  "#fad7be",
+  "#a1a7dd",
+  "#f9bdff",
+  "#98ceed",
+  "#f4eafd",
+]
+
+[[palette]]
+slug = "iidx-7th-style"
+subject = "beatmania-iidx/iidx-7th-style"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+
+[palette.colors]
+background = "#11191c"
+foreground = "#e2e2e2"
+cursor = "#7c8c95"
+selection_background = "#312522"
+ansi = [
+  "#1d2529",
+  "#d57998",
+  "#81d0aa",
+  "#b3c083",
+  "#5e9ad6",
+  "#b4aae1",
+  "#6db7bd",
+  "#ced6db",
+
+  "#70787d",
+  "#e5a3b7",
+  "#ade9ca",
+  "#d5e3a2",
+  "#88afd8",
+  "#d7cbff",
+  "#8cd2d9",
+  "#e2f0f9",
+]
+
+[[palette]]
+slug = "iidx-8th-style"
+subject = "beatmania-iidx/iidx-8th-style"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Pencil Dark + IIDXSERIES"
+
+[palette.colors]
+background = "#20150e"
+foreground = "#e1e3e3"
+cursor = "#ef7e00"
+selection_background = "#2e2626"
+ansi = [
+  "#2d211a",
+  "#f26b69",
+  "#b2cb57",
+  "#e9b32e",
+  "#9e87e3",
+  "#e699c2",
+  "#6fbb80",
+  "#e4d1c5",
+
+  "#84746a",
+  "#f3a199",
+  "#cbe87c",
+  "#ffd887",
+  "#b1a1e8",
+  "#ffbfe9",
+  "#8ed79d",
+  "#ffeadd",
+]
+
+[[palette]]
+slug = "iidx-9th-style"
+subject = "beatmania-iidx/iidx-9th-style"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Aardvark Ink + IIDXSERIES"
+
+[palette.colors]
+background = "#191716"
+foreground = "#e2e2e2"
+cursor = "#918c8a"
+selection_background = "#312522"
+ansi = [
+  "#262322",
+  "#de787b",
+  "#7bd585",
+  "#cfbb66",
+  "#6196ec",
+  "#e191ff",
+  "#4fbbb8",
+  "#d9d3d1",
+
+  "#7b7674",
+  "#f3a09f",
+  "#95f1a3",
+  "#f1dd85",
+  "#87ade8",
+  "#f1c1ff",
+  "#68d8d4",
+  "#f3ecea",
+]
+
+[[palette]]
+slug = "iidx-10th-style"
+subject = "beatmania-iidx/iidx-10th-style"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Liquid Carbon + IIDXSERIES"
+
+[palette.colors]
+background = "#211513"
+foreground = "#e2e2e2"
+cursor = "#d95742"
+selection_background = "#0f235c"
+ansi = [
+  "#2e211e",
+  "#f16d5e",
+  "#cbc468",
+  "#ffa931",
+  "#9889e6",
+  "#ff8cbd",
+  "#8ab683",
+  "#e6d0cc",
+
+  "#857370",
+  "#f3a196",
+  "#e8e081",
+  "#ffd6a9",
+  "#aea2e8",
+  "#ffc1d7",
+  "#a5d39d",
+  "#ffe9e5",
+]
+
+[[palette]]
+slug = "iidx-11-red"
+subject = "beatmania-iidx/iidx-11-red"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Liquid Carbon + IIDXSERIES"
+
+[palette.colors]
+background = "#211513"
+foreground = "#e2e2e2"
+cursor = "#d75543"
+selection_background = "#282828"
+ansi = [
+  "#2e211f",
+  "#f16c5f",
+  "#ccc468",
+  "#ffa933",
+  "#9889e6",
+  "#ff8bbe",
+  "#8ab683",
+  "#e6d0cc",
+
+  "#857370",
+  "#f3a197",
+  "#e9e081",
+  "#ffd6a9",
+  "#aea2e8",
+  "#ffc1d8",
+  "#a5d39d",
+  "#ffe9e6",
+]
+
+[[palette]]
+slug = "iidx-12-happy-sky"
+subject = "beatmania-iidx/iidx-12-happy-sky"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+
+[palette.colors]
+background = "#13181e"
+foreground = "#e2e2e2"
+cursor = "#007fc9"
+selection_background = "#12398b"
+ansi = [
+  "#1f242a",
+  "#d67998",
+  "#83d0aa",
+  "#b4c183",
+  "#6997d9",
+  "#bba8de",
+  "#70b6c3",
+  "#d0d5dd",
+
+  "#72777f",
+  "#e5a3b8",
+  "#afe9cb",
+  "#d5e2a4",
+  "#8eaddb",
+  "#dec8ff",
+  "#8ed1e0",
+  "#e5effc",
+]
+
+[[palette]]
+slug = "iidx-13-distorted"
+subject = "beatmania-iidx/iidx-13-distorted"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Tomorrow Night Eighties + IIDXSERIES"
+
+[palette.colors]
+background = "#161818"
+foreground = "#e2e2e2"
+cursor = "#a5a6a6"
+selection_background = "#312522"
+ansi = [
+  "#222424",
+  "#ea7174",
+  "#9acd9a",
+  "#e5b451",
+  "#679acd",
+  "#d3a0d3",
+  "#53babb",
+  "#d4d4d4",
+
+  "#767777",
+  "#f3a09f",
+  "#b5eab5",
+  "#ffd78e",
+  "#7dafe4",
+  "#f7c0f6",
+  "#71d7d7",
+  "#eeeeee",
+]
+
+[[palette]]
+slug = "iidx-14-gold"
+subject = "beatmania-iidx/iidx-14-gold"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+
+[palette.colors]
+background = "#1a180d"
+foreground = "#e2e2e2"
+cursor = "#d7be52"
+selection_background = "#312522"
+ansi = [
+  "#272418",
+  "#dc7b5b",
+  "#b4ca74",
+  "#d5b96e",
+  "#23a5b0",
+  "#e79aad",
+  "#85b78a",
+  "#dbd4c2",
+
+  "#7c7767",
+  "#f1a38a",
+  "#d2e59f",
+  "#f7db8c",
+  "#70b7bd",
+  "#ffc1ce",
+  "#a1d3a5",
+  "#f8edd1",
+]
+
+[[palette]]
+slug = "iidx-15-dj-troopers"
+subject = "beatmania-iidx/iidx-15-dj-troopers"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Pencil Dark + IIDXSERIES"
+
+[palette.colors]
+background = "#201511"
+foreground = "#e2e2e2"
+cursor = "#a44b29"
+selection_background = "#4a1710"
+ansi = [
+  "#2d211c",
+  "#f26a7a",
+  "#bfc84c",
+  "#f3af31",
+  "#9e87e3",
+  "#e19bca",
+  "#6fbb80",
+  "#e6d0c9",
+
+  "#85736d",
+  "#f3a0a1",
+  "#d7e672",
+  "#ffd79a",
+  "#b1a1e8",
+  "#ffbcf4",
+  "#8ed79d",
+  "#ffe9e3",
+]
+
+[[palette]]
+slug = "iidx-16-empress"
+subject = "beatmania-iidx/iidx-16-empress"
+signature = ["cursor", "selection", "ansi3"]
+ansi_source = "Paraiso Dark + IIDXSERIES"
+
+[palette.colors]
+background = "#201516"
+foreground = "#fbdbdd"
+cursor = "#b73a55"
+selection_background = "#4b172e"
+ansi = [
+  "#2d2122",
+  "#f26b6d",
+  "#d2c349",
+  "#f6ab70",
+  "#8e8af2",
+  "#e399d7",
+  "#7cafe8",
+  "#e5cfd1",
+
+  "#847374",
+  "#f3a09e",
+  "#f0df62",
+  "#ffd5b7",
+  "#a7a4e8",
+  "#ffbdf3",
+  "#a7caf3",
+  "#ffe9ea",
+]
+
+[[palette]]
+slug = "iidx-17-sirius"
+subject = "beatmania-iidx/iidx-17-sirius"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+
+[palette.colors]
+background = "#12181d"
+foreground = "#e2e2e2"
+cursor = "#1b9ed6"
+selection_background = "#112555"
+ansi = [
+  "#1e2529",
+  "#d57998",
+  "#82d0aa",
+  "#b4c183",
+  "#6299d7",
+  "#b6a9e0",
+  "#6db7bf",
+  "#cfd5dc",
+
+  "#71787e",
+  "#e6a2b7",
+  "#aee9ca",
+  "#d5e2a3",
+  "#8aaed9",
+  "#d9c9ff",
+  "#8dd2dc",
+  "#e3f0fa",
+]
+
+[[palette]]
+slug = "iidx-18-resort-anthem"
+subject = "beatmania-iidx/iidx-18-resort-anthem"
+signature = ["cursor", "ansi3", "selection"]
+ansi_source = "Liquid Carbon + IIDXSERIES"
+
+[palette.colors]
+background = "#211513"
+foreground = "#fddbd6"
+cursor = "#b83e2f"
+selection_background = "#312522"
+ansi = [
+  "#2e211f",
+  "#f16c5f",
+  "#ccc468",
+  "#f5ae01",
+  "#9889e6",
+  "#ff8bbe",
+  "#8ab683",
+  "#e6d0cc",
+
+  "#857370",
+  "#f3a197",
+  "#e9e081",
+  "#ffd6aa",
+  "#aea2e8",
+  "#ffc1d8",
+  "#a5d39d",
+  "#ffe9e6",
+]
+
+[[palette]]
+slug = "iidx-19-lincle"
+subject = "beatmania-iidx/iidx-19-lincle"
+signature = ["cursor", "ansi4", "ansi3"]
+ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+
+[palette.colors]
+background = "#201511"
+foreground = "#fddbd2"
+cursor = "#d75932"
+selection_background = "#4a3a37"
+ansi = [
+  "#2e211d",
+  "#dd7977",
+  "#d1c361",
+  "#ebb300",
+  "#00a1d8",
+  "#e49cb2",
+  "#88b782",
+  "#e6d0ca",
+
+  "#85736e",
+  "#f0a19f",
+  "#eedd8e",
+  "#ffd5ac",
+  "#87b2e2",
+  "#ffc1d0",
+  "#a3d49e",
+  "#ffe9e4",
+]
+
+[[palette]]
+slug = "iidx-20-tricoro"
+subject = "beatmania-iidx/iidx-20-tricoro"
+signature = ["cursor", "ansi11", "ansi4"]
+ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+
+[palette.colors]
+background = "#201513"
+foreground = "#fddbd6"
+cursor = "#c6483d"
+selection_background = "#4a3a37"
+ansi = [
+  "#2d211f",
+  "#dc797d",
+  "#d1c461",
+  "#e6b371",
+  "#449aec",
+  "#e29cb6",
+  "#88b782",
+  "#e6d0cd",
+
+  "#857370",
+  "#efa1a4",
+  "#e1e291",
+  "#ffda5a",
+  "#99ace4",
+  "#ffc1d4",
+  "#a3d49e",
+  "#ffe9e6",
+]
+
+[[palette]]
+slug = "iidx-21-spada"
+subject = "beatmania-iidx/iidx-21-spada"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Liquid Carbon + IIDXSERIES"
+
+[palette.colors]
+background = "#201513"
+foreground = "#e3e2e1"
+cursor = "#c6483c"
+selection_background = "#3e1f1d"
+ansi = [
+  "#2e211f",
+  "#f16c60",
+  "#cdc467",
+  "#ffa937",
+  "#9889e6",
+  "#ff8cc0",
+  "#8ab683",
+  "#e6d0cc",
+
+  "#857370",
+  "#f3a198",
+  "#e9e080",
+  "#ffd6aa",
+  "#aea2e8",
+  "#ffc1d9",
+  "#a5d39d",
+  "#ffe9e6",
+]
+
+[[palette]]
+slug = "iidx-22-pendual"
+subject = "beatmania-iidx/iidx-22-pendual"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+
+[palette.colors]
+background = "#1f1519"
+foreground = "#ebe0dd"
+cursor = "#d05492"
+selection_background = "#47181f"
+ansi = [
+  "#2c2125",
+  "#d97993",
+  "#d2c55f",
+  "#f0ae7b",
+  "#a189d8",
+  "#dc9fc3",
+  "#84b0d8",
+  "#e2d0d5",
+
+  "#837378",
+  "#eba1b4",
+  "#ebe18d",
+  "#fdd5b9",
+  "#b4a2da",
+  "#ffbfe2",
+  "#a2cbf3",
+  "#ffe8ef",
+]
+
+[[palette]]
+slug = "iidx-23-copula"
+subject = "beatmania-iidx/iidx-23-copula"
+signature = ["cursor", "ansi3", "selection"]
+ansi_source = "Royal + IIDXSERIES"
+
+[palette.colors]
+background = "#1b170c"
+foreground = "#ede2c5"
+cursor = "#f9ce00"
+selection_background = "#46474a"
+ansi = [
+  "#272318",
+  "#eb7441",
+  "#abcf3a",
+  "#f4af00",
+  "#55a1a7",
+  "#f693ae",
+  "#75b8a6",
+  "#dcd4c2",
+
+  "#7d7767",
+  "#f3a282",
+  "#c2eb56",
+  "#fbdd2b",
+  "#4fbbbe",
+  "#ffc1cd",
+  "#90d4bf",
+  "#f9edd0",
+]
+
+[[palette]]
+slug = "iidx-24-sinobuz"
+subject = "beatmania-iidx/iidx-24-sinobuz"
+signature = ["cursor", "ansi6", "selection"]
+ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+
+[palette.colors]
+background = "#201514"
+foreground = "#fddbd8"
+cursor = "#ca4a45"
+selection_background = "#2a2728"
+ansi = [
+  "#2d211f",
+  "#dc797f",
+  "#d1c460",
+  "#edaf77",
+  "#af85d1",
+  "#e29cb7",
+  "#7bb79b",
+  "#e6d0cd",
+
+  "#857371",
+  "#efa1a5",
+  "#eae08e",
+  "#ffd5b1",
+  "#baa0d8",
+  "#ffc1d5",
+  "#a1d49f",
+  "#ffe9e7",
+]
+
+[[palette]]
+slug = "iidx-25-cannon-ballers"
+subject = "beatmania-iidx/iidx-25-cannon-ballers"
+signature = ["cursor", "ansi2", "selection"]
+ansi_source = "Liquid Carbon + IIDXSERIES"
+
+[palette.colors]
+background = "#201514"
+foreground = "#fcdbd8"
+cursor = "#ba3e3d"
+selection_background = "#352420"
+ansi = [
+  "#2d2120",
+  "#f26c63",
+  "#66d78d",
+  "#ffa93f",
+  "#9789e6",
+  "#ff8bc3",
+  "#88b0dc",
+  "#e6d0ce",
+
+  "#857371",
+  "#f3a09a",
+  "#bded9b",
+  "#ffd5ac",
+  "#ada2e8",
+  "#ffc0da",
+  "#a8cbf1",
+  "#ffe9e7",
+]
+
+[[palette]]
+slug = "iidx-26-rootage"
+subject = "beatmania-iidx/iidx-26-rootage"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Royal + IIDXSERIES"
+
+[palette.colors]
+background = "#1b170c"
+foreground = "#eae3bb"
+cursor = "#f8ce0b"
+selection_background = "#3d2011"
+ansi = [
+  "#272318",
+  "#eb7440",
+  "#abcf3b",
+  "#d6ba43",
+  "#55a1a7",
+  "#f693ae",
+  "#75b8a6",
+  "#dcd4c2",
+
+  "#7d7767",
+  "#f3a282",
+  "#c1ec57",
+  "#fadd2c",
+  "#4fbbbe",
+  "#ffc1cd",
+  "#90d4c0",
+  "#f9edd0",
+]
+
+[[palette]]
+slug = "iidx-27-heroic-verse"
+subject = "beatmania-iidx/iidx-27-heroic-verse"
+signature = ["cursor", "ansi4", "ansi14"]
+ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+
+[palette.colors]
+background = "#1d151c"
+foreground = "#f1ddec"
+cursor = "#ac4bb2"
+selection_background = "#4a3a37"
+ansi = [
+  "#292128",
+  "#d77a99",
+  "#d2c560",
+  "#f0ae7d",
+  "#908fd1",
+  "#d6a1cb",
+  "#72b7cc",
+  "#ded1da",
+
+  "#7f747c",
+  "#e9a2b8",
+  "#eae08d",
+  "#fbd7bc",
+  "#aba5dc",
+  "#ffbdf0",
+  "#7dd5db",
+  "#fde8f7",
+]
+
+[[palette]]
+slug = "iidx-28-bistrover"
+subject = "beatmania-iidx/iidx-28-bistrover"
+signature = ["cursor", "ansi4", "ansi11"]
+ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+
+[palette.colors]
+background = "#201511"
+foreground = "#fddbd1"
+cursor = "#e46434"
+selection_background = "#4a3a37"
+ansi = [
+  "#2d211d",
+  "#dd7975",
+  "#d5c260",
+  "#e9b173",
+  "#2f9de2",
+  "#e59cb0",
+  "#88b882",
+  "#e6d0c9",
+
+  "#85736d",
+  "#f0a19e",
+  "#e4e291",
+  "#ffd968",
+  "#91afe4",
+  "#ffc1cf",
+  "#a3d49e",
+  "#ffe9e3",
+]
+
+[[palette]]
+slug = "iidx-29-casthour"
+subject = "beatmania-iidx/iidx-29-casthour"
+signature = ["cursor", "selection", "ansi3"]
+ansi_source = "Pencil Dark + IIDXSERIES"
+
+[palette.colors]
+background = "#201511"
+foreground = "#fddbd2"
+cursor = "#e5633c"
+selection_background = "#004c6b"
+ansi = [
+  "#2e211d",
+  "#f2697d",
+  "#c2c849",
+  "#f8ad00",
+  "#9e87e3",
+  "#e09bcc",
+  "#6fbb80",
+  "#e6d0ca",
+
+  "#85736e",
+  "#f39fa2",
+  "#d9e570",
+  "#ffd79c",
+  "#b1a1e8",
+  "#ffbdf7",
+  "#8ed79d",
+  "#ffe9e4",
+]
+
+[[palette]]
+slug = "iidx-30-resident"
+subject = "beatmania-iidx/iidx-30-resident"
+signature = ["cursor", "selection", "ansi6"]
+ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+
+[palette.colors]
+background = "#15171e"
+foreground = "#dee2f2"
+cursor = "#3274e8"
+selection_background = "#66298a"
+ansi = [
+  "#21242b",
+  "#d77998",
+  "#86d1a9",
+  "#eeaf80",
+  "#7495dc",
+  "#c1a6db",
+  "#00c1a4",
+  "#d3d4de",
+
+  "#757780",
+  "#e6a2b8",
+  "#b0eacc",
+  "#f9d49c",
+  "#95abdc",
+  "#e5c5ff",
+  "#8dd3d4",
+  "#eaedfe",
+]
+
+[[palette]]
+slug = "iidx-31-epolis"
+subject = "beatmania-iidx/iidx-31-epolis"
+signature = ["cursor", "selection", "foreground"]
+ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+
+[palette.colors]
+background = "#18180e"
+foreground = "#e2e2e2"
+cursor = "#d0da31"
+selection_background = "#4e0e52"
+ansi = [
+  "#242419",
+  "#dc7b5a",
+  "#aacc7d",
+  "#cebb6f",
+  "#23a5b0",
+  "#e899ad",
+  "#7fb791",
+  "#d7d5c4",
+
+  "#787869",
+  "#f1a288",
+  "#cbe6a6",
+  "#efdd8e",
+  "#70b7bd",
+  "#ffc0ce",
+  "#9bd4ac",
+  "#f0efd4",
+]
+
+[[palette]]
+slug = "iidx-32-pinky-crush"
+subject = "beatmania-iidx/iidx-32-pinky-crush"
+signature = ["cursor", "ansi11", "ansi14"]
+ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+
+[palette.colors]
+background = "#1f1518"
+foreground = "#f8dbe3"
+cursor = "#d5558e"
+selection_background = "#4a3a37"
+ansi = [
+  "#2c2124",
+  "#da7991",
+  "#d3c55f",
+  "#e8b374",
+  "#a288d7",
+  "#dc9fc2",
+  "#70b7c9",
+  "#e3d0d4",
+
+  "#837377",
+  "#eca1b3",
+  "#e5e28f",
+  "#ffd969",
+  "#b5a2da",
+  "#ffbfe1",
+  "#00dce0",
+  "#ffe8ee",
+]
+
+[[palette]]
+slug = "iidx-33-sparkle-shower"
+subject = "beatmania-iidx/iidx-33-sparkle-shower"
+signature = ["cursor", "ansi11", "foreground"]
+ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+
+[palette.colors]
+background = "#131913"
+foreground = "#e2e2e2"
+cursor = "#01903a"
+selection_background = "#4a3a37"
+ansi = [
+  "#1f251e",
+  "#db7a5a",
+  "#97cf8e",
+  "#bfc076",
+  "#30a2be",
+  "#e999ad",
+  "#75b89f",
+  "#cfd7cc",
+
+  "#727970",
+  "#f1a087",
+  "#bce9b4",
+  "#ece12c",
+  "#74b5c8",
+  "#ffbfcd",
+  "#92d4bb",
+  "#e4f2e0",
+]
+
+[[palette]]
+slug = "iidx-34-zinrai"
+subject = "beatmania-iidx/iidx-34-zinrai"
+signature = ["cursor", "selection", "ansi10"]
+ansi_source = "Catppuccin Macchiato + IIDXSERIES"
+
+[palette.colors]
+background = "#1d151b"
+foreground = "#f2dceb"
+cursor = "#e072d5"
+selection_background = "#340870"
+ansi = [
+  "#2a2128",
+  "#d57a9e",
+  "#bfcb6a",
+  "#efaf7d",
+  "#988bdb",
+  "#d7a0ca",
+  "#83b0d8",
+  "#dfd0d9",
+
+  "#80747b",
+  "#e8a2bd",
+  "#abef84",
+  "#fbd6bb",
+  "#ada4dc",
+  "#ffbeed",
+  "#a1cbf3",
+  "#fee8f6",
+]
