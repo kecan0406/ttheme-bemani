@@ -3,8 +3,6 @@
 [[palette]]
 slug = "pastel-kun"
 subject = "reflec-beat/pastel-kun"
-signature = ["cursor", "ansi2", "ansi11"]
-ansi_source = "Catppuccin Macchiato + REFLEC"
 
 [palette.colors]
 background = "#17171f"

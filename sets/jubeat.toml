@@ -3,8 +3,6 @@
 [[palette]]
 slug = "knit"
 subject = "jubeat/knit"
-signature = ["cursor", "selection", "foreground"]
-ansi_source = "Royal + JUBEAT"
 
 [palette.colors]
 background = "#1b170c"
@@ -34,8 +32,6 @@ ansi = [
 [[palette]]
 slug = "maud"
 subject = "jubeat/maud"
-signature = ["cursor", "selection", "foreground"]
-ansi_source = "Catppuccin Macchiato + JUBEAT"
 
 [palette.colors]
 background = "#201514"

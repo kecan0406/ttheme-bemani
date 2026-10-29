@@ -3,8 +3,6 @@
 [[palette]]
 slug = "milk"
 subject = "pop-n-music/milk"
-signature = ["cursor", "selection", "foreground"]
-ansi_source = "Catppuccin Macchiato + POPN"
 
 [palette.colors]
 background = "#201516"
@@ -34,8 +32,6 @@ ansi = [
 [[palette]]
 slug = "mimi"
 subject = "pop-n-music/mimi"
-signature = ["cursor", "ansi2", "foreground"]
-ansi_source = "Catppuccin Macchiato + POPN"
 
 [palette.colors]
 background = "#201511"
@@ -65,8 +61,6 @@ ansi = [
 [[palette]]
 slug = "nyami"
 subject = "pop-n-music/nyami"
-signature = ["cursor", "ansi2", "foreground"]
-ansi_source = "Catppuccin Macchiato + POPN"
 
 [palette.colors]
 background = "#201511"
@@ -96,8 +90,6 @@ ansi = [
 [[palette]]
 slug = "poet"
 subject = "pop-n-music/poet"
-signature = ["cursor", "foreground", "ansi3"]
-ansi_source = "Catppuccin Macchiato + POPN"
 
 [palette.colors]
 background = "#1c170c"
@@ -127,8 +119,6 @@ ansi = [
 [[palette]]
 slug = "rie-chan"
 subject = "pop-n-music/rie-chan"
-signature = ["cursor", "selection", "foreground"]
-ansi_source = "Catppuccin Macchiato + POPN"
 
 [palette.colors]
 background = "#20150f"
@@ -158,8 +148,6 @@ ansi = [
 [[palette]]
 slug = "sanae-chan"
 subject = "pop-n-music/sanae-chan"
-signature = ["cursor", "selection", "ansi12"]
-ansi_source = "Catppuccin Macchiato + POPN"
 
 [palette.colors]
 background = "#14181e"
@@ -189,8 +177,6 @@ ansi = [
 [[palette]]
 slug = "yuli"
 subject = "pop-n-music/yuli"
-signature = ["cursor", "selection", "foreground"]
-ansi_source = "Catppuccin Macchiato + POPN"
 
 [palette.colors]
 background = "#101919"

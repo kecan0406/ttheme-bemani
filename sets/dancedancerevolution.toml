@@ -3,8 +3,6 @@
 [[palette]]
 slug = "alice-ip"
 subject = "dancedancerevolution/alice-ip"
-signature = ["cursor", "selection", "ansi2"]
-ansi_source = "Catppuccin Macchiato + DDR"
 
 [palette.colors]
 background = "#201511"
@@ -34,8 +32,6 @@ ansi = [
 [[palette]]
 slug = "toshiba-emi"
 subject = "dancedancerevolution/toshiba-emi"
-signature = ["cursor", "ansi5", "ansi11"]
-ansi_source = "Catppuccin Macchiato + DDR"
 
 [palette.colors]
 background = "#13181e"
@@ -65,8 +61,6 @@ ansi = [
 [[palette]]
 slug = "yuni"
 subject = "dancedancerevolution/yuni"
-signature = ["cursor", "selection", "ansi4"]
-ansi_source = "Catppuccin Macchiato + DDR"
 
 [palette.colors]
 background = "#1a180d"

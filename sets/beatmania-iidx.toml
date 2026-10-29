@@ -3,8 +3,6 @@
 [[palette]]
 slug = "hinazuki-ririna"
 subject = "beatmania-iidx/hinazuki-ririna"
-signature = ["cursor", "selection", "ansi11"]
-ansi_source = "Catppuccin Macchiato + IIDX"
 
 [palette.colors]
 background = "#201514"
@@ -34,8 +32,6 @@ ansi = [
 [[palette]]
 slug = "hishimiya-tsugaru"
 subject = "beatmania-iidx/hishimiya-tsugaru"
-signature = ["cursor", "selection", "ansi10"]
-ansi_source = "Catppuccin Macchiato + IIDX"
 
 [palette.colors]
 background = "#151910"
@@ -65,8 +61,6 @@ ansi = [
 [[palette]]
 slug = "kitami-erika"
 subject = "beatmania-iidx/kitami-erika"
-signature = ["cursor", "selection", "ansi2"]
-ansi_source = "Catppuccin Macchiato + IIDX"
 
 [palette.colors]
 background = "#17190f"
@@ -96,8 +90,6 @@ ansi = [
 [[palette]]
 slug = "mizushiro-celica"
 subject = "beatmania-iidx/mizushiro-celica"
-signature = ["cursor", "selection", "ansi6"]
-ansi_source = "Catppuccin Macchiato + IIDX"
 
 [palette.colors]
 background = "#1e151a"
@@ -127,8 +119,6 @@ ansi = [
 [[palette]]
 slug = "umegiri-ameto"
 subject = "beatmania-iidx/umegiri-ameto"
-signature = ["cursor", "selection", "foreground"]
-ansi_source = "Paraiso Dark + IIDX"
 
 [palette.colors]
 background = "#201515"
@@ -158,8 +148,6 @@ ansi = [
 [[palette]]
 slug = "umegiri-hifumi"
 subject = "beatmania-iidx/umegiri-hifumi"
-signature = ["cursor", "selection", "ansi11"]
-ansi_source = "Catppuccin Macchiato + IIDX"
 
 [palette.colors]
 background = "#1d151b"
@@ -189,8 +177,6 @@ ansi = [
 [[palette]]
 slug = "umegiri-iroha"
 subject = "beatmania-iidx/umegiri-iroha"
-signature = ["cursor", "selection", "foreground"]
-ansi_source = "Pencil Dark + IIDX"
 
 [palette.colors]
 background = "#20150f"
@@ -220,8 +206,6 @@ ansi = [
 [[palette]]
 slug = "iidx-1st-style"
 subject = "beatmania-iidx/iidx-1st-style"
-signature = ["cursor", "selection", "foreground"]
-ansi_source = "Tomorrow Night Eighties + IIDXSERIES"
 
 [palette.colors]
 background = "#161819"
@@ -251,8 +235,6 @@ ansi = [
 [[palette]]
 slug = "iidx-substream"
 subject = "beatmania-iidx/iidx-substream"
-signature = ["cursor", "selection", "foreground"]
-ansi_source = "Royal + IIDXSERIES"
 
 [palette.colors]
 background = "#1c170c"
@@ -282,8 +264,6 @@ ansi = [
 [[palette]]
 slug = "iidx-2nd-style"
 subject = "beatmania-iidx/iidx-2nd-style"
-signature = ["cursor", "selection", "foreground"]
-ansi_source = "Royal + IIDXSERIES"
 
 [palette.colors]
 background = "#1c170c"
@@ -313,8 +293,6 @@ ansi = [
 [[palette]]
 slug = "iidx-3rd-style"
 subject = "beatmania-iidx/iidx-3rd-style"
-signature = ["cursor", "selection", "foreground"]
-ansi_source = "Catppuccin Macchiato + IIDXSERIES"
 
 [palette.colors]
 background = "#1f1518"
@@ -344,8 +322,6 @@ ansi = [
 [[palette]]
 slug = "iidx-4th-style"
 subject = "beatmania-iidx/iidx-4th-style"
-signature = ["cursor", "selection", "foreground"]
-ansi_source = "Liquid Carbon + IIDXSERIES"
 
 [palette.colors]
 background = "#201513"
@@ -375,8 +351,6 @@ ansi = [
 [[palette]]
 slug = "iidx-5th-style"
 subject = "beatmania-iidx/iidx-5th-style"
-signature = ["cursor", "selection", "foreground"]
-ansi_source = "Whimsy + IIDXSERIES"
 
 [palette.colors]
 background = "#1e160d"
@@ -406,8 +380,6 @@ ansi = [
 [[palette]]
 slug = "iidx-6th-style"
 subject = "beatmania-iidx/iidx-6th-style"
-signature = ["cursor", "selection", "foreground"]
-ansi_source = "Catppuccin Macchiato + IIDXSERIES"
 
 [palette.colors]
 background = "#19161e"
@@ -437,8 +409,6 @@ ansi = [
 [[palette]]
 slug = "iidx-7th-style"
 subject = "beatmania-iidx/iidx-7th-style"
-signature = ["cursor", "selection", "foreground"]
-ansi_source = "Catppuccin Macchiato + IIDXSERIES"
 
 [palette.colors]
 background = "#11191c"
@@ -468,8 +438,6 @@ ansi = [
 [[palette]]
 slug = "iidx-8th-style"
 subject = "beatmania-iidx/iidx-8th-style"
-signature = ["cursor", "selection", "foreground"]
-ansi_source = "Pencil Dark + IIDXSERIES"
 
 [palette.colors]
 background = "#20150e"
@@ -499,8 +467,6 @@ ansi = [
 [[palette]]
 slug = "iidx-9th-style"
 subject = "beatmania-iidx/iidx-9th-style"
-signature = ["cursor", "selection", "foreground"]
-ansi_source = "Aardvark Ink + IIDXSERIES"
 
 [palette.colors]
 background = "#191716"
@@ -530,8 +496,6 @@ ansi = [
 [[palette]]
 slug = "iidx-10th-style"
 subject = "beatmania-iidx/iidx-10th-style"
-signature = ["cursor", "selection", "foreground"]
-ansi_source = "Liquid Carbon + IIDXSERIES"
 
 [palette.colors]
 background = "#211513"
@@ -561,8 +525,6 @@ ansi = [
 [[palette]]
 slug = "iidx-11-red"
 subject = "beatmania-iidx/iidx-11-red"
-signature = ["cursor", "selection", "foreground"]
-ansi_source = "Liquid Carbon + IIDXSERIES"
 
 [palette.colors]
 background = "#211513"
@@ -592,8 +554,6 @@ ansi = [
 [[palette]]
 slug = "iidx-12-happy-sky"
 subject = "beatmania-iidx/iidx-12-happy-sky"
-signature = ["cursor", "selection", "foreground"]
-ansi_source = "Catppuccin Macchiato + IIDXSERIES"
 
 [palette.colors]
 background = "#13181e"
@@ -623,8 +583,6 @@ ansi = [
 [[palette]]
 slug = "iidx-13-distorted"
 subject = "beatmania-iidx/iidx-13-distorted"
-signature = ["cursor", "selection", "foreground"]
-ansi_source = "Tomorrow Night Eighties + IIDXSERIES"
 
 [palette.colors]
 background = "#161818"
@@ -654,8 +612,6 @@ ansi = [
 [[palette]]
 slug = "iidx-14-gold"
 subject = "beatmania-iidx/iidx-14-gold"
-signature = ["cursor", "selection", "foreground"]
-ansi_source = "Catppuccin Macchiato + IIDXSERIES"
 
 [palette.colors]
 background = "#1a180d"
@@ -685,8 +641,6 @@ ansi = [
 [[palette]]
 slug = "iidx-15-dj-troopers"
 subject = "beatmania-iidx/iidx-15-dj-troopers"
-signature = ["cursor", "selection", "foreground"]
-ansi_source = "Pencil Dark + IIDXSERIES"
 
 [palette.colors]
 background = "#201511"
@@ -716,8 +670,6 @@ ansi = [
 [[palette]]
 slug = "iidx-16-empress"
 subject = "beatmania-iidx/iidx-16-empress"
-signature = ["cursor", "selection", "ansi3"]
-ansi_source = "Paraiso Dark + IIDXSERIES"
 
 [palette.colors]
 background = "#201516"
@@ -747,8 +699,6 @@ ansi = [
 [[palette]]
 slug = "iidx-17-sirius"
 subject = "beatmania-iidx/iidx-17-sirius"
-signature = ["cursor", "selection", "foreground"]
-ansi_source = "Catppuccin Macchiato + IIDXSERIES"
 
 [palette.colors]
 background = "#12181d"
@@ -778,8 +728,6 @@ ansi = [
 [[palette]]
 slug = "iidx-18-resort-anthem"
 subject = "beatmania-iidx/iidx-18-resort-anthem"
-signature = ["cursor", "ansi3", "selection"]
-ansi_source = "Liquid Carbon + IIDXSERIES"
 
 [palette.colors]
 background = "#211513"
@@ -809,8 +757,6 @@ ansi = [
 [[palette]]
 slug = "iidx-19-lincle"
 subject = "beatmania-iidx/iidx-19-lincle"
-signature = ["cursor", "ansi4", "ansi3"]
-ansi_source = "Catppuccin Macchiato + IIDXSERIES"
 
 [palette.colors]
 background = "#201511"
@@ -840,8 +786,6 @@ ansi = [
 [[palette]]
 slug = "iidx-20-tricoro"
 subject = "beatmania-iidx/iidx-20-tricoro"
-signature = ["cursor", "ansi11", "ansi4"]
-ansi_source = "Catppuccin Macchiato + IIDXSERIES"
 
 [palette.colors]
 background = "#201513"
@@ -871,8 +815,6 @@ ansi = [
 [[palette]]
 slug = "iidx-21-spada"
 subject = "beatmania-iidx/iidx-21-spada"
-signature = ["cursor", "selection", "foreground"]
-ansi_source = "Liquid Carbon + IIDXSERIES"
 
 [palette.colors]
 background = "#201513"
@@ -902,8 +844,6 @@ ansi = [
 [[palette]]
 slug = "iidx-22-pendual"
 subject = "beatmania-iidx/iidx-22-pendual"
-signature = ["cursor", "selection", "foreground"]
-ansi_source = "Catppuccin Macchiato + IIDXSERIES"
 
 [palette.colors]
 background = "#1f1519"
@@ -933,8 +873,6 @@ ansi = [
 [[palette]]
 slug = "iidx-23-copula"
 subject = "beatmania-iidx/iidx-23-copula"
-signature = ["cursor", "ansi3", "selection"]
-ansi_source = "Royal + IIDXSERIES"
 
 [palette.colors]
 background = "#1b170c"
@@ -964,8 +902,6 @@ ansi = [
 [[palette]]
 slug = "iidx-24-sinobuz"
 subject = "beatmania-iidx/iidx-24-sinobuz"
-signature = ["cursor", "ansi6", "selection"]
-ansi_source = "Catppuccin Macchiato + IIDXSERIES"
 
 [palette.colors]
 background = "#201514"
@@ -995,8 +931,6 @@ ansi = [
 [[palette]]
 slug = "iidx-25-cannon-ballers"
 subject = "beatmania-iidx/iidx-25-cannon-ballers"
-signature = ["cursor", "ansi2", "selection"]
-ansi_source = "Liquid Carbon + IIDXSERIES"
 
 [palette.colors]
 background = "#201514"
@@ -1026,8 +960,6 @@ ansi = [
 [[palette]]
 slug = "iidx-26-rootage"
 subject = "beatmania-iidx/iidx-26-rootage"
-signature = ["cursor", "selection", "foreground"]
-ansi_source = "Royal + IIDXSERIES"
 
 [palette.colors]
 background = "#1b170c"
@@ -1057,8 +989,6 @@ ansi = [
 [[palette]]
 slug = "iidx-27-heroic-verse"
 subject = "beatmania-iidx/iidx-27-heroic-verse"
-signature = ["cursor", "ansi4", "ansi14"]
-ansi_source = "Catppuccin Macchiato + IIDXSERIES"
 
 [palette.colors]
 background = "#1d151c"
@@ -1088,8 +1018,6 @@ ansi = [
 [[palette]]
 slug = "iidx-28-bistrover"
 subject = "beatmania-iidx/iidx-28-bistrover"
-signature = ["cursor", "ansi4", "ansi11"]
-ansi_source = "Catppuccin Macchiato + IIDXSERIES"
 
 [palette.colors]
 background = "#201511"
@@ -1119,8 +1047,6 @@ ansi = [
 [[palette]]
 slug = "iidx-29-casthour"
 subject = "beatmania-iidx/iidx-29-casthour"
-signature = ["cursor", "selection", "ansi3"]
-ansi_source = "Pencil Dark + IIDXSERIES"
 
 [palette.colors]
 background = "#201511"
@@ -1150,8 +1076,6 @@ ansi = [
 [[palette]]
 slug = "iidx-30-resident"
 subject = "beatmania-iidx/iidx-30-resident"
-signature = ["cursor", "selection", "ansi6"]
-ansi_source = "Catppuccin Macchiato + IIDXSERIES"
 
 [palette.colors]
 background = "#15171e"
@@ -1181,8 +1105,6 @@ ansi = [
 [[palette]]
 slug = "iidx-31-epolis"
 subject = "beatmania-iidx/iidx-31-epolis"
-signature = ["cursor", "selection", "foreground"]
-ansi_source = "Catppuccin Macchiato + IIDXSERIES"
 
 [palette.colors]
 background = "#18180e"
@@ -1212,8 +1134,6 @@ ansi = [
 [[palette]]
 slug = "iidx-32-pinky-crush"
 subject = "beatmania-iidx/iidx-32-pinky-crush"
-signature = ["cursor", "ansi11", "ansi14"]
-ansi_source = "Catppuccin Macchiato + IIDXSERIES"
 
 [palette.colors]
 background = "#1f1518"
@@ -1243,8 +1163,6 @@ ansi = [
 [[palette]]
 slug = "iidx-33-sparkle-shower"
 subject = "beatmania-iidx/iidx-33-sparkle-shower"
-signature = ["cursor", "ansi11", "foreground"]
-ansi_source = "Catppuccin Macchiato + IIDXSERIES"
 
 [palette.colors]
 background = "#131913"
@@ -1274,8 +1192,6 @@ ansi = [
 [[palette]]
 slug = "iidx-34-zinrai"
 subject = "beatmania-iidx/iidx-34-zinrai"
-signature = ["cursor", "selection", "ansi10"]
-ansi_source = "Catppuccin Macchiato + IIDXSERIES"
 
 [palette.colors]
 background = "#1d151b"

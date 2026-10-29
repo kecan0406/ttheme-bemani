@@ -3,8 +3,6 @@
 [[palette]]
 slug = "gen"
 subject = "gitadora/gen"
-signature = ["cursor", "selection", "ansi3"]
-ansi_source = "Catppuccin Macchiato + GITADORA"
 
 [palette.colors]
 background = "#1a161e"
@@ -34,8 +32,6 @@ ansi = [
 [[palette]]
 slug = "kyoka"
 subject = "gitadora/kyoka"
-signature = ["cursor", "selection", "ansi5"]
-ansi_source = "Catppuccin Macchiato + GITADORA"
 
 [palette.colors]
 background = "#13181e"
@@ -65,8 +61,6 @@ ansi = [
 [[palette]]
 slug = "rio"
 subject = "gitadora/rio"
-signature = ["cursor", "selection", "ansi11"]
-ansi_source = "Whimsy + GITADORA"
 
 [palette.colors]
 background = "#1e160d"

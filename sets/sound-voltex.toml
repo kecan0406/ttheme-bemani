@@ -3,8 +3,6 @@
 [[palette]]
 slug = "grace"
 subject = "sound-voltex/grace"
-signature = ["cursor", "selection", "ansi13"]
-ansi_source = "Catppuccin Macchiato + SDVX"
 
 [palette.colors]
 background = "#1e151a"
@@ -34,8 +32,6 @@ ansi = [
 [[palette]]
 slug = "konoha"
 subject = "sound-voltex/konoha"
-signature = ["cursor", "selection", "foreground"]
-ansi_source = "Catppuccin Macchiato + SDVX"
 
 [palette.colors]
 background = "#201515"
@@ -65,8 +61,6 @@ ansi = [
 [[palette]]
 slug = "kureha"
 subject = "sound-voltex/kureha"
-signature = ["cursor", "selection", "foreground"]
-ansi_source = "Liquid Carbon + SDVX"
 
 [palette.colors]
 background = "#211513"
@@ -96,8 +90,6 @@ ansi = [
 [[palette]]
 slug = "near"
 subject = "sound-voltex/near"
-signature = ["cursor", "selection", "ansi3"]
-ansi_source = "Catppuccin Macchiato + SDVX"
 
 [palette.colors]
 background = "#13181e"
@@ -127,8 +119,6 @@ ansi = [
 [[palette]]
 slug = "noah"
 subject = "sound-voltex/noah"
-signature = ["cursor", "ansi11", "ansi3"]
-ansi_source = "Catppuccin Macchiato + SDVX"
 
 [palette.colors]
 background = "#12181e"
@@ -158,8 +148,6 @@ ansi = [
 [[palette]]
 slug = "rasis"
 subject = "sound-voltex/rasis"
-signature = ["cursor", "selection", "foreground"]
-ansi_source = "Catppuccin Macchiato + SDVX"
 
 [palette.colors]
 background = "#1f1518"
